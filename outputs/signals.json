@@ -1,7 +1,167 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 2,
+  "n_signals": 13,
   "signals": [
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601920",
+      "question": "Will any presidential candidate win outright in the first round of the Brazil election?",
+      "ts": "2026-10-04T23:24:27Z",
+      "severity": 5.3212,
+      "detail": {
+        "ts": "2026-10-04T23:24:27Z",
+        "volume_24h": 783457.9,
+        "baseline": 123941.34,
+        "delta": 659516.56
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601830",
+      "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-04T23:24:27Z",
+      "severity": 5.0484,
+      "detail": {
+        "ts": "2026-10-04T23:24:27Z",
+        "volume_24h": 859319.25,
+        "baseline": 142074.61,
+        "delta": 717244.64
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-04T23:24:27Z",
+      "severity": 2.0329,
+      "detail": {
+        "ts": "2026-10-04T23:24:27Z",
+        "volume_24h": 1795270.0,
+        "baseline": 591925.51,
+        "delta": 1203344.49
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-04T23:24:27Z",
+      "severity": 1.8319,
+      "detail": {
+        "ts": "2026-10-04T23:24:27Z",
+        "volume_24h": 1844252.75,
+        "baseline": 651232.36,
+        "delta": 1193020.39
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601922",
+      "question": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
+      "ts": "2026-10-04T23:24:27Z",
+      "severity": 1.0195,
+      "detail": {
+        "ts": "2026-10-04T23:24:27Z",
+        "volume_24h": 225676.79,
+        "baseline": 111747.16,
+        "delta": 113929.63
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-04T21:00:27Z",
+      "severity": 0.145,
+      "detail": {
+        "ts": "2026-10-04T21:00:27Z",
+        "from": 0.285,
+        "to": 0.14,
+        "delta": -0.145,
+        "zscore": -7.46
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-04T21:00:20Z",
+      "severity": 0.13,
+      "detail": {
+        "ts": "2026-10-04T21:00:20Z",
+        "from": 0.7215,
+        "to": 0.8515,
+        "delta": 0.13,
+        "zscore": 6.47
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "601920",
+      "question": "Will any presidential candidate win outright in the first round of the Brazil election?",
+      "ts": "2026-10-04T21:30:18Z",
+      "severity": 0.09,
+      "detail": {
+        "ts": "2026-10-04T21:30:18Z",
+        "from": 0.116,
+        "to": 0.026,
+        "delta": -0.09,
+        "zscore": -4.44
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-04T20:30:17Z",
+      "severity": 0.085,
+      "detail": {
+        "ts": "2026-10-04T20:30:17Z",
+        "from": 0.6365,
+        "to": 0.7215,
+        "delta": 0.085,
+        "zscore": 14.29
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "601920",
+      "question": "Will any presidential candidate win outright in the first round of the Brazil election?",
+      "ts": "2026-10-04T21:00:22Z",
+      "severity": 0.0815,
+      "detail": {
+        "ts": "2026-10-04T21:00:22Z",
+        "from": 0.0345,
+        "to": 0.116,
+        "delta": 0.0815,
+        "zscore": 8.03
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-04T20:30:22Z",
+      "severity": 0.08,
+      "detail": {
+        "ts": "2026-10-04T20:30:22Z",
+        "from": 0.365,
+        "to": 0.285,
+        "delta": -0.08,
+        "zscore": -10.33
+      }
+    },
     {
       "type": "prob_jump",
       "platform": "polymarket",
