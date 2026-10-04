@@ -33,6 +33,7 @@ jobs:
       OPENAI_MODEL: deepseek-chat
       # Kalshi (optional): set the two secrets to enable the second platform.
       KALSHI_API_KEY_ID: ${{ secrets.KALSHI_API_KEY_ID }}
+      KALSHI_PRIVATE_KEY: ${{ secrets.KALSHI_PRIVATE_KEY }}
       KALSHI_PRIVATE_KEY_PATH: data/kalshi_key.pem
 
     steps:
@@ -61,9 +62,7 @@ jobs:
             markets-db-
 
       - name: Configure Kalshi private key
-        if: ${{ secrets.KALSHI_PRIVATE_KEY != '' }}
-        env:
-          KALSHI_PRIVATE_KEY: ${{ secrets.KALSHI_PRIVATE_KEY }}
+        if: ${{ env.KALSHI_PRIVATE_KEY != '' }}
         run: |
           mkdir -p data
           printf '%s\n' "$KALSHI_PRIVATE_KEY" > data/kalshi_key.pem
