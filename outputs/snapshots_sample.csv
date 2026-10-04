@@ -1,16 +1,17 @@
 ts,platform,market_id,question,prob,bid,ask,volume_24h,volume_native,liquidity,end_date
-2026-10-04T16:26:15Z,polymarket,559658,Will Kamala Harris win the 2028 Democratic presidential nomination?,0.066,,,99623.82,,323846.81357,2028-11-08T04:59:00Z
-2026-10-04T16:26:15Z,polymarket,559684,Will Chelsea Clinton win the 2028 Democratic presidential nomination?,0.0075,,,106365.54942000001,,463327.30757,2028-11-08T04:59:00Z
+2026-10-04T19:44:13Z,polymarket,559658,Will Kamala Harris win the 2028 Democratic presidential nomination?,0.066,,,99803.27,,325224.0042,2028-11-08T04:59:00Z
+2026-10-04T19:44:13Z,polymarket,559669,Will Rahm Emanuel win the 2028 Democratic presidential nomination?,0.018,,,102771.87669,,878598.33785,2028-11-08T04:59:00Z
+2026-10-04T19:44:13Z,polymarket,559684,Will Chelsea Clinton win the 2028 Democratic presidential nomination?,0.0075,,,106349.69143100001,,460795.89307,2028-11-08T04:59:00Z
 2026-10-04T16:26:15Z,polymarket,559703,Will Chris Van Hollen win the 2028 Democratic presidential nomination?,0.0015,,,97675.44,,902282.89953,2028-11-08T04:59:00Z
-2026-10-04T16:26:15Z,polymarket,559704,Will Mitch Landrieu win the 2028 Democratic presidential nomination?,0.0015,,,98360.44,,1124478.84993,2028-11-08T04:59:00Z
-2026-10-04T16:26:15Z,polymarket,562828,"2026 Balance of Power: D Senate, D House",0.665,,,379715.7876639999,,2621782.0731,2026-11-04T04:59:00Z
-2026-10-04T16:26:15Z,polymarket,562829,"2026 Balance of Power: D Senate, R House",0.0045,,,286629.410002,,679833.52215,2026-11-04T04:59:00Z
-2026-10-04T16:26:15Z,polymarket,562831,"2026 Balance of Power: R Senate, R House",0.075,,,320608.433836,,2020318.4408,2026-11-04T04:59:00Z
-2026-10-04T16:26:15Z,polymarket,567621,Will China invade Taiwan by end of 2026?,0.0235,,,209004.99136700004,,683307.88065,2027-01-01T04:59:00Z
-2026-10-04T16:26:15Z,polymarket,601818,Will Tarcisio de Freitas win the 2026 Brazilian presidential election?,0.0005,,,135590.0,,1178792.12212,2026-10-05T03:59:00Z
-2026-10-04T16:26:15Z,polymarket,601819,Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?,0.375,,,555041.8994499994,,377487.0787,2026-10-05T03:59:00Z
-2026-10-04T16:26:15Z,polymarket,601825,Will Renan Santos win the 2026 Brazilian presidential election?,0.0015,,,811398.7441670002,,676261.08451,2026-10-05T03:59:00Z
-2026-10-04T16:26:15Z,polymarket,601826,Will Flávio Bolsonaro win the 2026 Brazilian presidential election?,0.6195,,,615526.3423819997,,495466.12847,2026-10-05T03:59:00Z
-2026-10-04T16:26:15Z,polymarket,601830,Will Geraldo Alckmin win the 2026 Brazilian presidential election?,0.0015,,,139857.36200000005,,568817.22432,2026-10-05T03:59:00Z
-2026-10-04T16:26:15Z,polymarket,601920,Will any presidential candidate win outright in the first round of the Brazil election?,0.0635,,,116319.31905100004,,95696.01077,2026-10-05T03:59:00Z
-2026-10-04T16:26:15Z,polymarket,601922,Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?,0.9655,,,105355.94232,,108761.50668,2026-10-05T03:59:00Z
+2026-10-04T19:44:13Z,polymarket,559704,Will Mitch Landrieu win the 2028 Democratic presidential nomination?,0.0015,,,97413.444,,1124622.87368,2028-11-08T04:59:00Z
+2026-10-04T19:44:13Z,polymarket,562828,"2026 Balance of Power: D Senate, D House",0.665,,,383972.4922179999,,2120162.1213,2026-11-04T04:59:00Z
+2026-10-04T19:44:13Z,polymarket,562829,"2026 Balance of Power: D Senate, R House",0.0065,,,392387.84333500004,,599472.44976,2026-11-04T04:59:00Z
+2026-10-04T19:44:13Z,polymarket,562831,"2026 Balance of Power: R Senate, R House",0.075,,,442723.663865,,1692191.6433,2026-11-04T04:59:00Z
+2026-10-04T19:44:13Z,polymarket,567621,Will China invade Taiwan by end of 2026?,0.0235,,,212651.81546500005,,697142.20682,2027-01-01T04:59:00Z
+2026-10-04T19:44:13Z,polymarket,601818,Will Tarcisio de Freitas win the 2026 Brazilian presidential election?,0.0005,,,232790.0,,1099464.68551,2026-10-05T03:59:00Z
+2026-10-04T19:44:13Z,polymarket,601819,Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?,0.365,,,665692.7335209998,,333074.6294,2026-10-05T03:59:00Z
+2026-10-04T19:44:13Z,polymarket,601825,Will Renan Santos win the 2026 Brazilian presidential election?,0.0015,,,884798.4571670002,,690501.68257,2026-10-05T03:59:00Z
+2026-10-04T19:44:13Z,polymarket,601826,Will Flávio Bolsonaro win the 2026 Brazilian presidential election?,0.6445,,,722644.3962559999,,392252.26197,2026-10-05T03:59:00Z
+2026-10-04T19:44:13Z,polymarket,601830,Will Geraldo Alckmin win the 2026 Brazilian presidential election?,0.0015,,,146509.11500000002,,551988.03902,2026-10-05T03:59:00Z
+2026-10-04T19:44:13Z,polymarket,601920,Will any presidential candidate win outright in the first round of the Brazil election?,0.0665,,,139185.37979399998,,54174.81157,2026-10-05T03:59:00Z
+2026-10-04T19:44:13Z,polymarket,601922,Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?,0.9775,,,124529.60988000002,,81439.40523,2026-10-05T03:59:00Z
