@@ -1,0 +1,36 @@
+{
+  "n_markets_tracked": 15,
+  "n_signals": 2,
+  "signals": [
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-02T07:00:16Z",
+      "severity": 0.06,
+      "detail": {
+        "ts": "2026-10-02T07:00:16Z",
+        "from": 0.395,
+        "to": 0.455,
+        "delta": 0.06,
+        "zscore": 10.96
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-02T07:00:11Z",
+      "severity": 0.0595,
+      "detail": {
+        "ts": "2026-10-02T07:00:11Z",
+        "from": 0.6045,
+        "to": 0.545,
+        "delta": -0.0595,
+        "zscore": -16.21
+      }
+    }
+  ]
+}

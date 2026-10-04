@@ -1,0 +1,29 @@
+{
+  "engine": "rules",
+  "summary": "15 markets tracked, 2 signals raised across 2 markets.",
+  "markets": [
+    {
+      "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "signals": [
+        "prob_jump"
+      ],
+      "interpretation": "Tracked signals: prob_jump ({\"ts\": \"2026-10-02T07:00:11Z\", \"from\": 0.6045, \"to\": 0.545, \"delta\": -0.0595, \"zscore\": -16.21}). Prob now 0.6195, 1h change 0.0010000000000000009. Rule-based view: review the underlying news before acting.",
+      "confidence": "medium",
+      "suggested_action": "watch"
+    },
+    {
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "signals": [
+        "prob_jump"
+      ],
+      "interpretation": "Tracked signals: prob_jump ({\"ts\": \"2026-10-02T07:00:16Z\", \"from\": 0.395, \"to\": 0.455, \"delta\": 0.06, \"zscore\": 10.96}). Prob now 0.375, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "confidence": "medium",
+      "suggested_action": "watch"
+    }
+  ],
+  "generated_at": "2026-10-04T16:21:32Z"
+}
