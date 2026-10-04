@@ -1,0 +1,3 @@
+# generated artifacts land here (signals.json, agent_report.json,
+# prob_history.png, snapshots_sample.csv) via the CI workflow or
+# scripts/run_analysis.py

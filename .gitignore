@@ -1,0 +1,12 @@
+# environment
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# local data (keep the repo light; sample outputs live in outputs/)
+data/
+
+# ide
+.idea/
+.vscode/

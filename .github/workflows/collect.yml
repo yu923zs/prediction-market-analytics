@@ -1,0 +1,96 @@
+name: collect-and-analyze
+
+# Runs on GitHub-hosted runners (outside mainland China), so Polymarket and
+# Kalshi APIs are directly reachable with no local proxy needed.
+on:
+  schedule:
+    - cron: "30 * * * *"          # hourly at :30 UTC (GitHub may delay minutes)
+  workflow_dispatch:              # manual run
+    inputs:
+      backfill:
+        description: "Re-seed 1 week of Polymarket history before collecting"
+        type: boolean
+        default: false
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write                 # needed to commit refreshed outputs/
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      # LLM analyst (optional): set OPENAI_API_KEY in repo secrets.
+      # DeepSeek's API is reachable from mainland China as well.
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_BASE_URL: https://api.deepseek.com
+      OPENAI_MODEL: deepseek-chat
+      # Kalshi (optional): set the two secrets to enable the second platform.
+      KALSHI_API_KEY_ID: ${{ secrets.KALSHI_API_KEY_ID }}
+      KALSHI_PRIVATE_KEY_PATH: data/kalshi_key.pem
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run unit tests
+        run: pytest tests/ -q
+
+      # SQLite DB persists across runs via cache (new key per run, restored
+      # from the most recent matching cache).
+      - name: Restore snapshot database
+        id: db-cache
+        uses: actions/cache@v4
+        with:
+          path: data/
+          key: markets-db-${{ github.run_id }}
+          restore-keys: |
+            markets-db-
+
+      - name: Configure Kalshi private key
+        if: ${{ secrets.KALSHI_PRIVATE_KEY != '' }}
+        env:
+          KALSHI_PRIVATE_KEY: ${{ secrets.KALSHI_PRIVATE_KEY }}
+        run: |
+          mkdir -p data
+          printf '%s\n' "$KALSHI_PRIVATE_KEY" > data/kalshi_key.pem
+          chmod 600 data/kalshi_key.pem
+
+      # First run (cache miss) or a manual backfill request seeds ~1 week of
+      # Polymarket probability history from the public CLOB endpoint.
+      - name: Backfill Polymarket history
+        if: >-
+          github.event.inputs.backfill == 'true'
+          || steps.db-cache.outputs.cache-hit != 'true'
+        run: python scripts/backfill_polymarket.py --top 10 --interval 1w --fidelity 30
+
+      - name: Collect live snapshot
+        run: python scripts/snapshot_loop.py --once
+
+      - name: Run analysis
+        run: python scripts/run_analysis.py
+
+      - name: Commit refreshed outputs
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add outputs/
+          if git diff --cached --quiet; then
+            echo "no output changes"
+          else
+            git commit -m "data: scheduled snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
