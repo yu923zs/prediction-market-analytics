@@ -159,8 +159,12 @@ pipeline never hard-fails on the analyst layer.
 
 ## Sample outputs
 
-Produced by `scripts/run_analysis.py` into `outputs/` (from a live run —
-see files in this repository):
+Produced by `scripts/run_analysis.py` into `outputs/` — the artifacts in this
+repository come from real CI runs against the live APIs. The first backfill
+immediately surfaced a textbook event-driven signal: within the same
+5-minute window, Lula's 2026 election contract **jumped +6.0pp (z = +11.0)**
+while Flávio Bolsonaro's contract **dropped −6.0pp (z = −16.2)** — a mirrored
+move across rival contracts consistent with a single news event.
 
 - `signals.json` — ranked anomaly signals with full context
 - `agent_report.json` — analyst interpretation per flagged market
@@ -183,8 +187,8 @@ see files in this repository):
 │   ├── pipeline.py              # orchestration
 │   └── storage.py               # SQLite snapshot store
 ├── tests/                       # unit tests for analysis + matching
-├── outputs/                     # generated artifacts
-└── resume/                      # candidate resume
+├── outputs/                     # generated artifacts (live CI data)
+└── resume/resume.pdf            # candidate resume
 ```
 
 ## Design notes & limitations
