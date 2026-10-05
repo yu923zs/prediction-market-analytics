@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 13,
+  "n_signals": 18,
   "signals": [
     {
       "type": "volume_spike",
@@ -33,6 +33,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "601830",
+      "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-05T02:13:41Z",
+      "severity": 2.248,
+      "detail": {
+        "ts": "2026-10-05T02:13:41Z",
+        "volume_24h": 1043851.26,
+        "baseline": 321385.77,
+        "delta": 722465.49
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-04T23:24:27Z",
@@ -42,6 +56,20 @@
         "volume_24h": 1795270.0,
         "baseline": 591925.51,
         "delta": 1203344.49
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601920",
+      "question": "Will any presidential candidate win outright in the first round of the Brazil election?",
+      "ts": "2026-10-05T02:13:41Z",
+      "severity": 1.8602,
+      "detail": {
+        "ts": "2026-10-05T02:13:41Z",
+        "volume_24h": 826097.23,
+        "baseline": 288820.48,
+        "delta": 537276.75
       }
     },
     {
@@ -61,6 +89,34 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-05T02:13:41Z",
+      "severity": 1.368,
+      "detail": {
+        "ts": "2026-10-05T02:13:41Z",
+        "volume_24h": 2114034.86,
+        "baseline": 892761.63,
+        "delta": 1221273.23
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-05T02:13:41Z",
+      "severity": 1.1124,
+      "detail": {
+        "ts": "2026-10-05T02:13:41Z",
+        "volume_24h": 2005691.91,
+        "baseline": 949487.46,
+        "delta": 1056204.45
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601922",
       "question": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
       "ts": "2026-10-04T23:24:27Z",
@@ -70,6 +126,20 @@
         "volume_24h": 225676.79,
         "baseline": 111747.16,
         "delta": 113929.63
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601922",
+      "question": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
+      "ts": "2026-10-05T02:13:41Z",
+      "severity": 0.5289,
+      "detail": {
+        "ts": "2026-10-05T02:13:41Z",
+        "volume_24h": 214399.53,
+        "baseline": 140229.57,
+        "delta": 74169.96
       }
     },
     {
