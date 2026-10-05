@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 18,
+  "n_signals": 22,
   "signals": [
     {
       "type": "volume_spike",
@@ -103,6 +103,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "601830",
+      "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-05T07:04:58Z",
+      "severity": 1.2094,
+      "detail": {
+        "ts": "2026-10-05T07:04:58Z",
+        "volume_24h": 1029324.34,
+        "baseline": 465878.87,
+        "delta": 563445.47
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T02:13:41Z",
@@ -126,6 +140,48 @@
         "volume_24h": 225676.79,
         "baseline": 111747.16,
         "delta": 113929.63
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-05T07:04:58Z",
+      "severity": 0.9439,
+      "detail": {
+        "ts": "2026-10-05T07:04:58Z",
+        "volume_24h": 2210224.7,
+        "baseline": 1137016.28,
+        "delta": 1073208.42
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-05T07:04:58Z",
+      "severity": 0.7783,
+      "detail": {
+        "ts": "2026-10-05T07:04:58Z",
+        "volume_24h": 2064119.28,
+        "baseline": 1160728.35,
+        "delta": 903390.93
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601818",
+      "question": "Will Tarcisio de Freitas win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-05T07:04:58Z",
+      "severity": 0.5458,
+      "detail": {
+        "ts": "2026-10-05T07:04:58Z",
+        "volume_24h": 302840.0,
+        "baseline": 195910.0,
+        "delta": 106930.0
       }
     },
     {
