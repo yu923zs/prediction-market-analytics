@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 22,
+  "n_signals": 25,
   "signals": [
     {
       "type": "volume_spike",
@@ -159,6 +159,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "601830",
+      "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-05T09:23:07Z",
+      "severity": 0.8047,
+      "detail": {
+        "ts": "2026-10-05T09:23:07Z",
+        "volume_24h": 1010265.64,
+        "baseline": 559786.45,
+        "delta": 450479.2
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T07:04:58Z",
@@ -173,6 +187,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-05T09:23:07Z",
+      "severity": 0.7239,
+      "detail": {
+        "ts": "2026-10-05T09:23:07Z",
+        "volume_24h": 2268423.78,
+        "baseline": 1315884.35,
+        "delta": 952539.43
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601818",
       "question": "Will Tarcisio de Freitas win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T07:04:58Z",
@@ -182,6 +210,20 @@
         "volume_24h": 302840.0,
         "baseline": 195910.0,
         "delta": 106930.0
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-05T09:23:07Z",
+      "severity": 0.5347,
+      "detail": {
+        "ts": "2026-10-05T09:23:07Z",
+        "volume_24h": 2012501.76,
+        "baseline": 1311293.5,
+        "delta": 701208.26
       }
     },
     {
