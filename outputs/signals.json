@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 30,
+  "n_signals": 33,
   "signals": [
     {
       "type": "volume_spike",
@@ -89,6 +89,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "559664",
+      "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
+      "ts": "2026-10-06T23:58:30Z",
+      "severity": 1.7269,
+      "detail": {
+        "ts": "2026-10-06T23:58:30Z",
+        "volume_24h": 280525.63,
+        "baseline": 102872.54,
+        "delta": 177653.09
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T02:13:41Z",
@@ -140,6 +154,20 @@
         "volume_24h": 2005691.91,
         "baseline": 949487.46,
         "delta": 1056204.45
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "ts": "2026-10-06T23:58:30Z",
+      "severity": 1.0374,
+      "detail": {
+        "ts": "2026-10-06T23:58:30Z",
+        "volume_24h": 147777.83,
+        "baseline": 72533.24,
+        "delta": 75244.6
       }
     },
     {
@@ -266,6 +294,20 @@
         "volume_24h": 280595.04,
         "baseline": 174095.65,
         "delta": 106499.38
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-06T23:58:30Z",
+      "severity": 0.5522,
+      "detail": {
+        "ts": "2026-10-06T23:58:30Z",
+        "volume_24h": 281365.18,
+        "baseline": 181272.78,
+        "delta": 100092.4
       }
     },
     {
