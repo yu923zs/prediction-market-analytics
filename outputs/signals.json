@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 36,
+  "n_signals": 37,
   "signals": [
     {
       "type": "volume_spike",
@@ -47,6 +47,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "559664",
+      "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
+      "ts": "2026-10-07T13:41:42Z",
+      "severity": 2.3712,
+      "detail": {
+        "ts": "2026-10-07T13:41:42Z",
+        "volume_24h": 885919.05,
+        "baseline": 262787.33,
+        "delta": 623131.72
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601830",
       "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T02:13:41Z",
@@ -56,6 +70,20 @@
         "volume_24h": 1043851.26,
         "baseline": 321385.77,
         "delta": 722465.49
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-07T13:41:42Z",
+      "severity": 2.0866,
+      "detail": {
+        "ts": "2026-10-07T13:41:42Z",
+        "volume_24h": 638728.49,
+        "baseline": 206936.24,
+        "delta": 431792.24
       }
     },
     {
@@ -131,6 +159,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "559666",
+      "question": "Will Tim Walz win the 2028 Democratic presidential nomination?",
+      "ts": "2026-10-07T13:41:42Z",
+      "severity": 1.2825,
+      "detail": {
+        "ts": "2026-10-07T13:41:42Z",
+        "volume_24h": 209052.35,
+        "baseline": 91589.1,
+        "delta": 117463.25
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "560317",
       "question": "Putin out as President of Russia by December 31, 2026?",
       "ts": "2026-10-06T07:48:20Z",
@@ -168,20 +210,6 @@
         "volume_24h": 2005691.91,
         "baseline": 949487.46,
         "delta": 1056204.45
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "608565",
-      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
-      "ts": "2026-10-06T23:58:30Z",
-      "severity": 1.0374,
-      "detail": {
-        "ts": "2026-10-06T23:58:30Z",
-        "volume_24h": 147777.83,
-        "baseline": 72533.24,
-        "delta": 75244.6
       }
     },
     {
@@ -378,20 +406,6 @@
         "volume_24h": 214399.53,
         "baseline": 140229.57,
         "delta": 74169.96
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "608565",
-      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
-      "ts": "2026-10-07T06:16:23Z",
-      "severity": 0.5173,
-      "detail": {
-        "ts": "2026-10-07T06:16:23Z",
-        "volume_24h": 138596.12,
-        "baseline": 91344.39,
-        "delta": 47251.73
       }
     },
     {
