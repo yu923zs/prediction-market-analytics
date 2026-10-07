@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 37,
+  "n_signals": 38,
   "signals": [
     {
       "type": "volume_spike",
@@ -145,6 +145,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "559664",
+      "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
+      "ts": "2026-10-07T20:03:26Z",
+      "severity": 1.5201,
+      "detail": {
+        "ts": "2026-10-07T20:03:26Z",
+        "volume_24h": 886603.71,
+        "baseline": 351806.15,
+        "delta": 534797.56
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T02:13:41Z",
@@ -154,20 +168,6 @@
         "volume_24h": 2114034.86,
         "baseline": 892761.63,
         "delta": 1221273.23
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "559666",
-      "question": "Will Tim Walz win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-07T13:41:42Z",
-      "severity": 1.2825,
-      "detail": {
-        "ts": "2026-10-07T13:41:42Z",
-        "volume_24h": 209052.35,
-        "baseline": 91589.1,
-        "delta": 117463.25
       }
     },
     {
@@ -196,6 +196,20 @@
         "volume_24h": 1029324.34,
         "baseline": 465878.87,
         "delta": 563445.47
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-07T20:03:26Z",
+      "severity": 1.191,
+      "detail": {
+        "ts": "2026-10-07T20:03:26Z",
+        "volume_24h": 630154.37,
+        "baseline": 287605.36,
+        "delta": 342549.01
       }
     },
     {
