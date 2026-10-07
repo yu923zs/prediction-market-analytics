@@ -1,7 +1,21 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 33,
+  "n_signals": 36,
   "signals": [
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "559664",
+      "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
+      "ts": "2026-10-07T06:16:23Z",
+      "severity": 5.3923,
+      "detail": {
+        "ts": "2026-10-07T06:16:23Z",
+        "volume_24h": 884708.19,
+        "baseline": 138403.16,
+        "delta": 746305.03
+      }
+    },
     {
       "type": "volume_spike",
       "platform": "polymarket",
@@ -215,6 +229,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562802",
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-07T06:16:23Z",
+      "severity": 0.8321,
+      "detail": {
+        "ts": "2026-10-07T06:16:23Z",
+        "volume_24h": 424668.38,
+        "baseline": 231788.51,
+        "delta": 192879.88
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601830",
       "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T09:23:07Z",
@@ -350,6 +378,20 @@
         "volume_24h": 214399.53,
         "baseline": 140229.57,
         "delta": 74169.96
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "ts": "2026-10-07T06:16:23Z",
+      "severity": 0.5173,
+      "detail": {
+        "ts": "2026-10-07T06:16:23Z",
+        "volume_24h": 138596.12,
+        "baseline": 91344.39,
+        "delta": 47251.73
       }
     },
     {
