@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 38,
+  "n_signals": 41,
   "signals": [
     {
       "type": "volume_spike",
@@ -42,6 +42,20 @@
         "volume_24h": 859319.25,
         "baseline": 142074.61,
         "delta": 717244.64
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "561262",
+      "question": "Will James Talarico win the 2028 US Presidential Election?",
+      "ts": "2026-10-08T00:18:11Z",
+      "severity": 2.6652,
+      "detail": {
+        "ts": "2026-10-08T00:18:11Z",
+        "volume_24h": 326637.35,
+        "baseline": 89117.56,
+        "delta": 237519.78
       }
     },
     {
@@ -173,6 +187,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "559703",
+      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
+      "ts": "2026-10-08T00:18:11Z",
+      "severity": 1.35,
+      "detail": {
+        "ts": "2026-10-08T00:18:11Z",
+        "volume_24h": 694565.22,
+        "baseline": 295555.37,
+        "delta": 399009.85
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "560317",
       "question": "Putin out as President of Russia by December 31, 2026?",
       "ts": "2026-10-06T07:48:20Z",
@@ -280,6 +308,20 @@
         "volume_24h": 424668.38,
         "baseline": 231788.51,
         "delta": 192879.88
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-08T00:18:11Z",
+      "severity": 0.8272,
+      "detail": {
+        "ts": "2026-10-08T00:18:11Z",
+        "volume_24h": 653784.66,
+        "baseline": 357807.26,
+        "delta": 295977.4
       }
     },
     {

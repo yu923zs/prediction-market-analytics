@@ -1,6 +1,6 @@
 {
   "engine": "rules",
-  "summary": "15 markets tracked, 38 signals raised across 10 markets.",
+  "summary": "15 markets tracked, 41 signals raised across 12 markets.",
   "markets": [
     {
       "platform": "polymarket",
@@ -10,17 +10,6 @@
         "volume_spike"
       ],
       "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 859319.25, \"baseline\": 142074.61, \"delta\": 717244.64}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 1043851.26, \"baseline\": 321385.77, \"delta\": 722465.49}); volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 1029324.34, \"baseline\": 465878.87, \"delta\": 563445.47}); volume_spike ({\"ts\": \"2026-10-05T09:23:07Z\", \"volume_24h\": 1010265.64, \"baseline\": 559786.45, \"delta\": 450479.2}). Prob now 0.0015, 1h change 0.0. Rule-based view: review the underlying news before acting.",
-      "confidence": "medium",
-      "suggested_action": "watch"
-    },
-    {
-      "platform": "polymarket",
-      "market_id": "559664",
-      "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
-      "signals": [
-        "volume_spike"
-      ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-07T06:16:23Z\", \"volume_24h\": 884708.19, \"baseline\": 138403.16, \"delta\": 746305.03}); volume_spike ({\"ts\": \"2026-10-07T13:41:42Z\", \"volume_24h\": 885919.05, \"baseline\": 262787.33, \"delta\": 623131.72}); volume_spike ({\"ts\": \"2026-10-06T23:58:30Z\", \"volume_24h\": 280525.63, \"baseline\": 102872.54, \"delta\": 177653.09}); volume_spike ({\"ts\": \"2026-10-07T20:03:26Z\", \"volume_24h\": 886603.71, \"baseline\": 351806.15, \"delta\": 534797.56}). Prob now 0.0075, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
     },
@@ -38,12 +27,34 @@
     },
     {
       "platform": "polymarket",
+      "market_id": "559703",
+      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
+      "signals": [
+        "volume_spike"
+      ],
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-08T00:18:11Z\", \"volume_24h\": 694565.22, \"baseline\": 295555.37, \"delta\": 399009.85}). Prob now 0.0015, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "confidence": "medium",
+      "suggested_action": "watch"
+    },
+    {
+      "platform": "polymarket",
       "market_id": "560317",
       "question": "Putin out as President of Russia by December 31, 2026?",
       "signals": [
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-07T13:41:42Z\", \"volume_24h\": 638728.49, \"baseline\": 206936.24, \"delta\": 431792.24}); volume_spike ({\"ts\": \"2026-10-06T07:48:20Z\", \"volume_24h\": 282655.18, \"baseline\": 124369.34, \"delta\": 158285.84}); volume_spike ({\"ts\": \"2026-10-07T20:03:26Z\", \"volume_24h\": 630154.37, \"baseline\": 287605.36, \"delta\": 342549.01}); volume_spike ({\"ts\": \"2026-10-06T15:21:41Z\", \"volume_24h\": 277344.14, \"baseline\": 163940.8, \"delta\": 113403.34}). Prob now 0.0305, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-07T13:41:42Z\", \"volume_24h\": 638728.49, \"baseline\": 206936.24, \"delta\": 431792.24}); volume_spike ({\"ts\": \"2026-10-06T07:48:20Z\", \"volume_24h\": 282655.18, \"baseline\": 124369.34, \"delta\": 158285.84}); volume_spike ({\"ts\": \"2026-10-07T20:03:26Z\", \"volume_24h\": 630154.37, \"baseline\": 287605.36, \"delta\": 342549.01}); volume_spike ({\"ts\": \"2026-10-08T00:18:11Z\", \"volume_24h\": 653784.66, \"baseline\": 357807.26, \"delta\": 295977.4}); volume_spike ({\"ts\": \"2026-10-06T15:21:41Z\", \"volume_24h\": 277344.14, \"baseline\": 163940.8, \"delta\": 113403.34}). Prob now 0.033, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "confidence": "medium",
+      "suggested_action": "watch"
+    },
+    {
+      "platform": "polymarket",
+      "market_id": "559664",
+      "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
+      "signals": [
+        "volume_spike"
+      ],
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-07T06:16:23Z\", \"volume_24h\": 884708.19, \"baseline\": 138403.16, \"delta\": 746305.03}); volume_spike ({\"ts\": \"2026-10-07T13:41:42Z\", \"volume_24h\": 885919.05, \"baseline\": 262787.33, \"delta\": 623131.72}); volume_spike ({\"ts\": \"2026-10-06T23:58:30Z\", \"volume_24h\": 280525.63, \"baseline\": 102872.54, \"delta\": 177653.09}); volume_spike ({\"ts\": \"2026-10-07T20:03:26Z\", \"volume_24h\": 886603.71, \"baseline\": 351806.15, \"delta\": 534797.56}). Prob now 0.0075, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
     },
@@ -55,9 +66,32 @@
         "prob_jump",
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 1844252.75, \"baseline\": 651232.36, \"delta\": 1193020.39}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 2005691.91, \"baseline\": 949487.46, \"delta\": 1056204.45}); volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 2064119.28, \"baseline\": 1160728.35, \"delta\": 903390.93}); volume_spike ({\"ts\": \"2026-10-05T18:41:24Z\", \"volume_24h\": 2366959.59, \"baseline\": 1411466.11, \"delta\": 955493.48}); volume_spike ({\"ts\": \"2026-10-05T09:23:07Z\", \"volume_24h\": 2012501.76, \"baseline\": 1311293.5, \"delta\": 701208.26}); prob_jump ({\"ts\": \"2026-10-04T21:00:20Z\", \"from\": 0.7215, \"to\": 0.8515, \"delta\": 0.13, \"zscore\": 6.47}); prob_jump ({\"ts\": \"2026-10-04T20:30:17Z\", \"from\": 0.6365, \"to\": 0.7215, \"delta\": 0.085, \"zscore\": 14.29}); prob_jump ({\"ts\": \"2026-10-02T07:00:11Z\", \"from\": 0.6045, \"to\": 0.545, \"delta\": -0.0595, \"zscore\": -16.21}). Prob now 0.8485, 1h change 0.0010000000000000009. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 1844252.75, \"baseline\": 651232.36, \"delta\": 1193020.39}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 2005691.91, \"baseline\": 949487.46, \"delta\": 1056204.45}); volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 2064119.28, \"baseline\": 1160728.35, \"delta\": 903390.93}); volume_spike ({\"ts\": \"2026-10-05T18:41:24Z\", \"volume_24h\": 2366959.59, \"baseline\": 1411466.11, \"delta\": 955493.48}); volume_spike ({\"ts\": \"2026-10-05T09:23:07Z\", \"volume_24h\": 2012501.76, \"baseline\": 1311293.5, \"delta\": 701208.26}); prob_jump ({\"ts\": \"2026-10-04T21:00:20Z\", \"from\": 0.7215, \"to\": 0.8515, \"delta\": 0.13, \"zscore\": 6.47}); prob_jump ({\"ts\": \"2026-10-04T20:30:17Z\", \"from\": 0.6365, \"to\": 0.7215, \"delta\": 0.085, \"zscore\": 14.29}); prob_jump ({\"ts\": \"2026-10-02T07:00:11Z\", \"from\": 0.6045, \"to\": 0.545, \"delta\": -0.0595, \"zscore\": -16.21}). Prob now 0.8375, 1h change 0.000500000000000056. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "investigate"
+    },
+    {
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "signals": [
+        "prob_jump",
+        "volume_spike"
+      ],
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 1795270.0, \"baseline\": 591925.51, \"delta\": 1203344.49}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 2114034.86, \"baseline\": 892761.63, \"delta\": 1221273.23}); volume_spike ({\"ts\": \"2026-10-05T18:41:24Z\", \"volume_24h\": 2867814.42, \"baseline\": 1451961.41, \"delta\": 1415853.01}); volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 2210224.7, \"baseline\": 1137016.28, \"delta\": 1073208.42}); volume_spike ({\"ts\": \"2026-10-05T09:23:07Z\", \"volume_24h\": 2268423.78, \"baseline\": 1315884.35, \"delta\": 952539.43}); prob_jump ({\"ts\": \"2026-10-04T21:00:27Z\", \"from\": 0.285, \"to\": 0.14, \"delta\": -0.145, \"zscore\": -7.46}); prob_jump ({\"ts\": \"2026-10-04T20:30:22Z\", \"from\": 0.365, \"to\": 0.285, \"delta\": -0.08, \"zscore\": -10.33}); prob_jump ({\"ts\": \"2026-10-02T07:00:16Z\", \"from\": 0.395, \"to\": 0.455, \"delta\": 0.06, \"zscore\": 10.96}). Prob now 0.155, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "confidence": "medium",
+      "suggested_action": "investigate"
+    },
+    {
+      "platform": "polymarket",
+      "market_id": "561262",
+      "question": "Will James Talarico win the 2028 US Presidential Election?",
+      "signals": [
+        "volume_spike"
+      ],
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-08T00:18:11Z\", \"volume_24h\": 326637.35, \"baseline\": 89117.56, \"delta\": 237519.78}). Prob now 0.018, 1h change 0.005499999999999998. Rule-based view: review the underlying news before acting.",
+      "confidence": "medium",
+      "suggested_action": "watch"
     },
     {
       "platform": "polymarket",
@@ -66,7 +100,7 @@
       "signals": [
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-07T06:16:23Z\", \"volume_24h\": 424668.38, \"baseline\": 231788.51, \"delta\": 192879.88}). Prob now 0.915, 1h change -0.010000000000000009. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-07T06:16:23Z\", \"volume_24h\": 424668.38, \"baseline\": 231788.51, \"delta\": 192879.88}). Prob now 0.915, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
     },
@@ -80,18 +114,6 @@
       "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 302840.0, \"baseline\": 195910.0, \"delta\": 106930.0}). Prob now 0.0005, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
-    },
-    {
-      "platform": "polymarket",
-      "market_id": "601819",
-      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-      "signals": [
-        "prob_jump",
-        "volume_spike"
-      ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 1795270.0, \"baseline\": 591925.51, \"delta\": 1203344.49}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 2114034.86, \"baseline\": 892761.63, \"delta\": 1221273.23}); volume_spike ({\"ts\": \"2026-10-05T18:41:24Z\", \"volume_24h\": 2867814.42, \"baseline\": 1451961.41, \"delta\": 1415853.01}); volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 2210224.7, \"baseline\": 1137016.28, \"delta\": 1073208.42}); volume_spike ({\"ts\": \"2026-10-05T09:23:07Z\", \"volume_24h\": 2268423.78, \"baseline\": 1315884.35, \"delta\": 952539.43}); prob_jump ({\"ts\": \"2026-10-04T21:00:27Z\", \"from\": 0.285, \"to\": 0.14, \"delta\": -0.145, \"zscore\": -7.46}); prob_jump ({\"ts\": \"2026-10-04T20:30:22Z\", \"from\": 0.365, \"to\": 0.285, \"delta\": -0.08, \"zscore\": -10.33}); prob_jump ({\"ts\": \"2026-10-02T07:00:16Z\", \"from\": 0.395, \"to\": 0.455, \"delta\": 0.06, \"zscore\": 10.96}). Prob now 0.145, 1h change 0.0. Rule-based view: review the underlying news before acting.",
-      "confidence": "medium",
-      "suggested_action": "investigate"
     },
     {
       "platform": "polymarket",
@@ -116,5 +138,5 @@
       "suggested_action": "watch"
     }
   ],
-  "generated_at": "2026-10-07T20:03:26Z"
+  "generated_at": "2026-10-08T00:18:11Z"
 }
