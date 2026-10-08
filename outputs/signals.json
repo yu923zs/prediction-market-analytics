@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 42,
+  "n_signals": 38,
   "signals": [
     {
       "type": "volume_spike",
@@ -84,20 +84,6 @@
         "volume_24h": 1043851.26,
         "baseline": 321385.77,
         "delta": 722465.49
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "560317",
-      "question": "Putin out as President of Russia by December 31, 2026?",
-      "ts": "2026-10-07T13:41:42Z",
-      "severity": 2.0866,
-      "detail": {
-        "ts": "2026-10-07T13:41:42Z",
-        "volume_24h": 638728.49,
-        "baseline": 206936.24,
-        "delta": 431792.24
       }
     },
     {
@@ -201,20 +187,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "560317",
-      "question": "Putin out as President of Russia by December 31, 2026?",
-      "ts": "2026-10-06T07:48:20Z",
-      "severity": 1.2727,
-      "detail": {
-        "ts": "2026-10-06T07:48:20Z",
-        "volume_24h": 282655.18,
-        "baseline": 124369.34,
-        "delta": 158285.84
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601830",
       "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T07:04:58Z",
@@ -238,20 +210,6 @@
         "volume_24h": 327237.72,
         "baseline": 148497.51,
         "delta": 178740.21
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "560317",
-      "question": "Putin out as President of Russia by December 31, 2026?",
-      "ts": "2026-10-07T20:03:26Z",
-      "severity": 1.191,
-      "detail": {
-        "ts": "2026-10-07T20:03:26Z",
-        "volume_24h": 630154.37,
-        "baseline": 287605.36,
-        "delta": 342549.01
       }
     },
     {
@@ -313,20 +271,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "560317",
-      "question": "Putin out as President of Russia by December 31, 2026?",
-      "ts": "2026-10-08T00:18:11Z",
-      "severity": 0.8272,
-      "detail": {
-        "ts": "2026-10-08T00:18:11Z",
-        "volume_24h": 653784.66,
-        "baseline": 357807.26,
-        "delta": 295977.4
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601830",
       "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T09:23:07Z",
@@ -336,6 +280,20 @@
         "volume_24h": 1010265.64,
         "baseline": 559786.45,
         "delta": 450479.2
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "561262",
+      "question": "Will James Talarico win the 2028 US Presidential Election?",
+      "ts": "2026-10-08T13:50:30Z",
+      "severity": 0.7875,
+      "detail": {
+        "ts": "2026-10-08T13:50:30Z",
+        "volume_24h": 329331.71,
+        "baseline": 184245.55,
+        "delta": 145086.16
       }
     },
     {
@@ -383,20 +341,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "560317",
-      "question": "Putin out as President of Russia by December 31, 2026?",
-      "ts": "2026-10-06T15:21:41Z",
-      "severity": 0.6917,
-      "detail": {
-        "ts": "2026-10-06T15:21:41Z",
-        "volume_24h": 277344.14,
-        "baseline": 163940.8,
-        "delta": 113403.34
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T18:41:24Z",
@@ -439,20 +383,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "560317",
-      "question": "Putin out as President of Russia by December 31, 2026?",
-      "ts": "2026-10-08T06:25:44Z",
-      "severity": 0.5484,
-      "detail": {
-        "ts": "2026-10-08T06:25:44Z",
-        "volume_24h": 663177.22,
-        "baseline": 428301.89,
-        "delta": 234875.33
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601818",
       "question": "Will Tarcisio de Freitas win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T07:04:58Z",
@@ -476,6 +406,20 @@
         "volume_24h": 2012501.76,
         "baseline": 1311293.5,
         "delta": 701208.26
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "559703",
+      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
+      "ts": "2026-10-08T13:50:30Z",
+      "severity": 0.532,
+      "detail": {
+        "ts": "2026-10-08T13:50:30Z",
+        "volume_24h": 698117.48,
+        "baseline": 455678.51,
+        "delta": 242438.98
       }
     },
     {
