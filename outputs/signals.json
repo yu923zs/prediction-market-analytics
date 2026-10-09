@@ -1,21 +1,7 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 40,
+  "n_signals": 45,
   "signals": [
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "559664",
-      "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-07T06:16:23Z",
-      "severity": 5.3923,
-      "detail": {
-        "ts": "2026-10-07T06:16:23Z",
-        "volume_24h": 884708.19,
-        "baseline": 138403.16,
-        "delta": 746305.03
-      }
-    },
     {
       "type": "volume_spike",
       "platform": "polymarket",
@@ -75,20 +61,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "559664",
-      "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-07T13:41:42Z",
-      "severity": 2.3712,
-      "detail": {
-        "ts": "2026-10-07T13:41:42Z",
-        "volume_24h": 885919.05,
-        "baseline": 262787.33,
-        "delta": 623131.72
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-09T00:31:58Z",
@@ -112,6 +84,20 @@
         "volume_24h": 1043851.26,
         "baseline": 321385.77,
         "delta": 722465.49
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-07T13:41:42Z",
+      "severity": 2.0866,
+      "detail": {
+        "ts": "2026-10-07T13:41:42Z",
+        "volume_24h": 638728.49,
+        "baseline": 206936.24,
+        "delta": 431792.24
       }
     },
     {
@@ -159,29 +145,15 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "559664",
-      "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-06T23:58:30Z",
-      "severity": 1.7269,
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-09T07:40:34Z",
+      "severity": 1.4119,
       "detail": {
-        "ts": "2026-10-06T23:58:30Z",
-        "volume_24h": 280525.63,
-        "baseline": 102872.54,
-        "delta": 177653.09
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "559664",
-      "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-07T20:03:26Z",
-      "severity": 1.5201,
-      "detail": {
-        "ts": "2026-10-07T20:03:26Z",
-        "volume_24h": 886603.71,
-        "baseline": 351806.15,
-        "delta": 534797.56
+        "ts": "2026-10-09T07:40:34Z",
+        "volume_24h": 2071696.5,
+        "baseline": 858960.25,
+        "delta": 1212736.24
       }
     },
     {
@@ -196,6 +168,20 @@
         "volume_24h": 2114034.86,
         "baseline": 892761.63,
         "delta": 1221273.23
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-06T07:48:20Z",
+      "severity": 1.2727,
+      "detail": {
+        "ts": "2026-10-06T07:48:20Z",
+        "volume_24h": 282655.18,
+        "baseline": 124369.34,
+        "delta": 158285.84
       }
     },
     {
@@ -229,6 +215,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-07T20:03:26Z",
+      "severity": 1.191,
+      "detail": {
+        "ts": "2026-10-07T20:03:26Z",
+        "volume_24h": 630154.37,
+        "baseline": 287605.36,
+        "delta": 342549.01
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T02:13:41Z",
@@ -238,6 +238,34 @@
         "volume_24h": 2005691.91,
         "baseline": 949487.46,
         "delta": 1056204.45
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562829",
+      "question": "2026 Balance of Power: D Senate, R House",
+      "ts": "2026-10-08T20:01:40Z",
+      "severity": 1.06,
+      "detail": {
+        "ts": "2026-10-08T20:01:40Z",
+        "volume_24h": 211292.82,
+        "baseline": 102568.38,
+        "delta": 108724.45
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562829",
+      "question": "2026 Balance of Power: D Senate, R House",
+      "ts": "2026-10-09T07:40:34Z",
+      "severity": 1.0443,
+      "detail": {
+        "ts": "2026-10-09T07:40:34Z",
+        "volume_24h": 254646.78,
+        "baseline": 124561.86,
+        "delta": 130084.93
       }
     },
     {
@@ -285,15 +313,15 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-07T06:16:23Z",
-      "severity": 0.8321,
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-08T00:18:11Z",
+      "severity": 0.8272,
       "detail": {
-        "ts": "2026-10-07T06:16:23Z",
-        "volume_24h": 424668.38,
-        "baseline": 231788.51,
-        "delta": 192879.88
+        "ts": "2026-10-08T00:18:11Z",
+        "volume_24h": 653784.66,
+        "baseline": 357807.26,
+        "delta": 295977.4
       }
     },
     {
@@ -355,6 +383,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-06T15:21:41Z",
+      "severity": 0.6917,
+      "detail": {
+        "ts": "2026-10-06T15:21:41Z",
+        "volume_24h": 277344.14,
+        "baseline": 163940.8,
+        "delta": 113403.34
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T18:41:24Z",
@@ -383,6 +425,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-09T07:40:34Z",
+      "severity": 0.592,
+      "detail": {
+        "ts": "2026-10-09T07:40:34Z",
+        "volume_24h": 678737.35,
+        "baseline": 426338.02,
+        "delta": 252399.32
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "561262",
       "question": "Will James Talarico win the 2028 US Presidential Election?",
       "ts": "2026-10-08T20:01:40Z",
@@ -406,6 +462,20 @@
         "volume_24h": 281365.18,
         "baseline": 181272.78,
         "delta": 100092.4
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-08T06:25:44Z",
+      "severity": 0.5484,
+      "detail": {
+        "ts": "2026-10-08T06:25:44Z",
+        "volume_24h": 663177.22,
+        "baseline": 428301.89,
+        "delta": 234875.33
       }
     },
     {
