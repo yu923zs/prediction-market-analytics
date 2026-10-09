@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 42,
+  "n_signals": 40,
   "signals": [
     {
       "type": "volume_spike",
@@ -84,6 +84,20 @@
         "volume_24h": 885919.05,
         "baseline": 262787.33,
         "delta": 623131.72
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-09T00:31:58Z",
+      "severity": 2.3574,
+      "detail": {
+        "ts": "2026-10-09T00:31:58Z",
+        "volume_24h": 2059355.82,
+        "baseline": 613382.77,
+        "delta": 1445973.04
       }
     },
     {
@@ -187,20 +201,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "559703",
-      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-08T00:18:11Z",
-      "severity": 1.35,
-      "detail": {
-        "ts": "2026-10-08T00:18:11Z",
-        "volume_24h": 694565.22,
-        "baseline": 295555.37,
-        "delta": 399009.85
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601830",
       "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T07:04:58Z",
@@ -238,20 +238,6 @@
         "volume_24h": 2005691.91,
         "baseline": 949487.46,
         "delta": 1056204.45
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-08T20:01:40Z",
-      "severity": 1.06,
-      "detail": {
-        "ts": "2026-10-08T20:01:40Z",
-        "volume_24h": 211292.82,
-        "baseline": 102568.38,
-        "delta": 108724.45
       }
     },
     {
@@ -299,6 +285,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562802",
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-07T06:16:23Z",
+      "severity": 0.8321,
+      "detail": {
+        "ts": "2026-10-07T06:16:23Z",
+        "volume_24h": 424668.38,
+        "baseline": 231788.51,
+        "delta": 192879.88
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601830",
       "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T09:23:07Z",
@@ -336,20 +336,6 @@
         "volume_24h": 2064119.28,
         "baseline": 1160728.35,
         "delta": 903390.93
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "559703",
-      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-08T06:25:44Z",
-      "severity": 0.7636,
-      "detail": {
-        "ts": "2026-10-08T06:25:44Z",
-        "volume_24h": 697161.22,
-        "baseline": 395307.83,
-        "delta": 301853.39
       }
     },
     {
@@ -448,20 +434,6 @@
         "volume_24h": 2012501.76,
         "baseline": 1311293.5,
         "delta": 701208.26
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "559703",
-      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-08T13:50:30Z",
-      "severity": 0.532,
-      "detail": {
-        "ts": "2026-10-08T13:50:30Z",
-        "volume_24h": 698117.48,
-        "baseline": 455678.51,
-        "delta": 242438.98
       }
     },
     {
