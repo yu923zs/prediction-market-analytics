@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 48,
+  "n_signals": 46,
   "signals": [
     {
       "type": "volume_spike",
@@ -173,20 +173,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "559703",
-      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-08T00:18:11Z",
-      "severity": 1.35,
-      "detail": {
-        "ts": "2026-10-08T00:18:11Z",
-        "volume_24h": 694565.22,
-        "baseline": 295555.37,
-        "delta": 399009.85
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "560317",
       "question": "Putin out as President of Russia by December 31, 2026?",
       "ts": "2026-10-06T07:48:20Z",
@@ -313,6 +299,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562802",
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-07T06:16:23Z",
+      "severity": 0.8321,
+      "detail": {
+        "ts": "2026-10-07T06:16:23Z",
+        "volume_24h": 424668.38,
+        "baseline": 231788.51,
+        "delta": 192879.88
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "560317",
       "question": "Putin out as President of Russia by December 31, 2026?",
       "ts": "2026-10-08T00:18:11Z",
@@ -364,20 +364,6 @@
         "volume_24h": 2064119.28,
         "baseline": 1160728.35,
         "delta": 903390.93
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "559703",
-      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-08T06:25:44Z",
-      "severity": 0.7636,
-      "detail": {
-        "ts": "2026-10-08T06:25:44Z",
-        "volume_24h": 697161.22,
-        "baseline": 395307.83,
-        "delta": 301853.39
       }
     },
     {
@@ -532,20 +518,6 @@
         "volume_24h": 2012501.76,
         "baseline": 1311293.5,
         "delta": 701208.26
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "559703",
-      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-08T13:50:30Z",
-      "severity": 0.532,
-      "detail": {
-        "ts": "2026-10-08T13:50:30Z",
-        "volume_24h": 698117.48,
-        "baseline": 455678.51,
-        "delta": 242438.98
       }
     },
     {
