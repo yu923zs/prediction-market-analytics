@@ -1,6 +1,6 @@
 {
   "engine": "rules",
-  "summary": "15 markets tracked, 46 signals raised across 10 markets.",
+  "summary": "15 markets tracked, 47 signals raised across 10 markets.",
   "markets": [
     {
       "platform": "polymarket",
@@ -21,7 +21,7 @@
         "prob_jump",
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-08T20:01:40Z\", \"volume_24h\": 2205527.96, \"baseline\": 364157.95, \"delta\": 1841370.01}); volume_spike ({\"ts\": \"2026-10-09T00:31:58Z\", \"volume_24h\": 2059355.82, \"baseline\": 613382.77, \"delta\": 1445973.04}); volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 1795270.0, \"baseline\": 591925.51, \"delta\": 1203344.49}); volume_spike ({\"ts\": \"2026-10-09T07:40:34Z\", \"volume_24h\": 2071696.5, \"baseline\": 858960.25, \"delta\": 1212736.24}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 2114034.86, \"baseline\": 892761.63, \"delta\": 1221273.23}); volume_spike ({\"ts\": \"2026-10-05T18:41:24Z\", \"volume_24h\": 2867814.42, \"baseline\": 1451961.41, \"delta\": 1415853.01}); volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 2210224.7, \"baseline\": 1137016.28, \"delta\": 1073208.42}); volume_spike ({\"ts\": \"2026-10-09T15:26:49Z\", \"volume_24h\": 2088636.78, \"baseline\": 1115478.48, \"delta\": 973158.29}); volume_spike ({\"ts\": \"2026-10-05T09:23:07Z\", \"volume_24h\": 2268423.78, \"baseline\": 1315884.35, \"delta\": 952539.43}); prob_jump ({\"ts\": \"2026-10-04T21:00:27Z\", \"from\": 0.285, \"to\": 0.14, \"delta\": -0.145, \"zscore\": -7.46}); prob_jump ({\"ts\": \"2026-10-04T20:30:22Z\", \"from\": 0.365, \"to\": 0.285, \"delta\": -0.08, \"zscore\": -10.33}); prob_jump ({\"ts\": \"2026-10-02T07:00:16Z\", \"from\": 0.395, \"to\": 0.455, \"delta\": 0.06, \"zscore\": 10.96}). Prob now 0.115, 1h change 0.010000000000000009. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-08T20:01:40Z\", \"volume_24h\": 2205527.96, \"baseline\": 364157.95, \"delta\": 1841370.01}); volume_spike ({\"ts\": \"2026-10-09T00:31:58Z\", \"volume_24h\": 2059355.82, \"baseline\": 613382.77, \"delta\": 1445973.04}); volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 1795270.0, \"baseline\": 591925.51, \"delta\": 1203344.49}); volume_spike ({\"ts\": \"2026-10-09T07:40:34Z\", \"volume_24h\": 2071696.5, \"baseline\": 858960.25, \"delta\": 1212736.24}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 2114034.86, \"baseline\": 892761.63, \"delta\": 1221273.23}); volume_spike ({\"ts\": \"2026-10-05T18:41:24Z\", \"volume_24h\": 2867814.42, \"baseline\": 1451961.41, \"delta\": 1415853.01}); volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 2210224.7, \"baseline\": 1137016.28, \"delta\": 1073208.42}); volume_spike ({\"ts\": \"2026-10-09T15:26:49Z\", \"volume_24h\": 2088636.78, \"baseline\": 1115478.48, \"delta\": 973158.29}); volume_spike ({\"ts\": \"2026-10-05T09:23:07Z\", \"volume_24h\": 2268423.78, \"baseline\": 1315884.35, \"delta\": 952539.43}); prob_jump ({\"ts\": \"2026-10-04T21:00:27Z\", \"from\": 0.285, \"to\": 0.14, \"delta\": -0.145, \"zscore\": -7.46}); prob_jump ({\"ts\": \"2026-10-04T20:30:22Z\", \"from\": 0.365, \"to\": 0.285, \"delta\": -0.08, \"zscore\": -10.33}); prob_jump ({\"ts\": \"2026-10-02T07:00:16Z\", \"from\": 0.395, \"to\": 0.455, \"delta\": 0.06, \"zscore\": 10.96}). Prob now 0.115, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "investigate"
     },
@@ -45,7 +45,7 @@
         "prob_jump",
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 1844252.75, \"baseline\": 651232.36, \"delta\": 1193020.39}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 2005691.91, \"baseline\": 949487.46, \"delta\": 1056204.45}); volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 2064119.28, \"baseline\": 1160728.35, \"delta\": 903390.93}); volume_spike ({\"ts\": \"2026-10-05T18:41:24Z\", \"volume_24h\": 2366959.59, \"baseline\": 1411466.11, \"delta\": 955493.48}); volume_spike ({\"ts\": \"2026-10-09T07:40:34Z\", \"volume_24h\": 678737.35, \"baseline\": 426338.02, \"delta\": 252399.32}); volume_spike ({\"ts\": \"2026-10-09T15:26:49Z\", \"volume_24h\": 705839.32, \"baseline\": 455657.1, \"delta\": 250182.22}); volume_spike ({\"ts\": \"2026-10-05T09:23:07Z\", \"volume_24h\": 2012501.76, \"baseline\": 1311293.5, \"delta\": 701208.26}); prob_jump ({\"ts\": \"2026-10-04T21:00:20Z\", \"from\": 0.7215, \"to\": 0.8515, \"delta\": 0.13, \"zscore\": 6.47}); prob_jump ({\"ts\": \"2026-10-04T20:30:17Z\", \"from\": 0.6365, \"to\": 0.7215, \"delta\": 0.085, \"zscore\": 14.29}); prob_jump ({\"ts\": \"2026-10-02T07:00:11Z\", \"from\": 0.6045, \"to\": 0.545, \"delta\": -0.0595, \"zscore\": -16.21}). Prob now 0.8905, 1h change 0.0010000000000000009. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 1844252.75, \"baseline\": 651232.36, \"delta\": 1193020.39}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 2005691.91, \"baseline\": 949487.46, \"delta\": 1056204.45}); volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 2064119.28, \"baseline\": 1160728.35, \"delta\": 903390.93}); volume_spike ({\"ts\": \"2026-10-05T18:41:24Z\", \"volume_24h\": 2366959.59, \"baseline\": 1411466.11, \"delta\": 955493.48}); volume_spike ({\"ts\": \"2026-10-09T07:40:34Z\", \"volume_24h\": 678737.35, \"baseline\": 426338.02, \"delta\": 252399.32}); volume_spike ({\"ts\": \"2026-10-09T15:26:49Z\", \"volume_24h\": 705839.32, \"baseline\": 455657.1, \"delta\": 250182.22}); volume_spike ({\"ts\": \"2026-10-05T09:23:07Z\", \"volume_24h\": 2012501.76, \"baseline\": 1311293.5, \"delta\": 701208.26}); prob_jump ({\"ts\": \"2026-10-04T21:00:20Z\", \"from\": 0.7215, \"to\": 0.8515, \"delta\": 0.13, \"zscore\": 6.47}); prob_jump ({\"ts\": \"2026-10-04T20:30:17Z\", \"from\": 0.6365, \"to\": 0.7215, \"delta\": 0.085, \"zscore\": 14.29}); prob_jump ({\"ts\": \"2026-10-02T07:00:11Z\", \"from\": 0.6045, \"to\": 0.545, \"delta\": -0.0595, \"zscore\": -16.21}). Prob now 0.8865, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "investigate"
     },
@@ -56,7 +56,7 @@
       "signals": [
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-07T13:41:42Z\", \"volume_24h\": 638728.49, \"baseline\": 206936.24, \"delta\": 431792.24}); volume_spike ({\"ts\": \"2026-10-06T07:48:20Z\", \"volume_24h\": 282655.18, \"baseline\": 124369.34, \"delta\": 158285.84}); volume_spike ({\"ts\": \"2026-10-07T20:03:26Z\", \"volume_24h\": 630154.37, \"baseline\": 287605.36, \"delta\": 342549.01}); volume_spike ({\"ts\": \"2026-10-08T00:18:11Z\", \"volume_24h\": 653784.66, \"baseline\": 357807.26, \"delta\": 295977.4}); volume_spike ({\"ts\": \"2026-10-06T15:21:41Z\", \"volume_24h\": 277344.14, \"baseline\": 163940.8, \"delta\": 113403.34}); volume_spike ({\"ts\": \"2026-10-08T06:25:44Z\", \"volume_24h\": 663177.22, \"baseline\": 428301.89, \"delta\": 234875.33}). Prob now 0.0255, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-07T13:41:42Z\", \"volume_24h\": 638728.49, \"baseline\": 206936.24, \"delta\": 431792.24}); volume_spike ({\"ts\": \"2026-10-06T07:48:20Z\", \"volume_24h\": 282655.18, \"baseline\": 124369.34, \"delta\": 158285.84}); volume_spike ({\"ts\": \"2026-10-07T20:03:26Z\", \"volume_24h\": 630154.37, \"baseline\": 287605.36, \"delta\": 342549.01}); volume_spike ({\"ts\": \"2026-10-08T00:18:11Z\", \"volume_24h\": 653784.66, \"baseline\": 357807.26, \"delta\": 295977.4}); volume_spike ({\"ts\": \"2026-10-10T06:09:52Z\", \"volume_24h\": 342469.83, \"baseline\": 189507.19, \"delta\": 152962.64}); volume_spike ({\"ts\": \"2026-10-06T15:21:41Z\", \"volume_24h\": 277344.14, \"baseline\": 163940.8, \"delta\": 113403.34}); volume_spike ({\"ts\": \"2026-10-08T06:25:44Z\", \"volume_24h\": 663177.22, \"baseline\": 428301.89, \"delta\": 234875.33}). Prob now 0.0255, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
     },
@@ -73,23 +73,23 @@
     },
     {
       "platform": "polymarket",
-      "market_id": "601818",
-      "question": "Will Tarcisio de Freitas win the 2026 Brazilian presidential election?",
-      "signals": [
-        "volume_spike"
-      ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 302840.0, \"baseline\": 195910.0, \"delta\": 106930.0}). Prob now 0.0005, 1h change 0.0. Rule-based view: review the underlying news before acting.",
-      "confidence": "medium",
-      "suggested_action": "watch"
-    },
-    {
-      "platform": "polymarket",
       "market_id": "562803",
       "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
       "signals": [
         "volume_spike"
       ],
       "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-06T20:27:25Z\", \"volume_24h\": 280595.04, \"baseline\": 174095.65, \"delta\": 106499.38}); volume_spike ({\"ts\": \"2026-10-06T23:58:30Z\", \"volume_24h\": 281365.18, \"baseline\": 181272.78, \"delta\": 100092.4}). Prob now 0.095, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "confidence": "medium",
+      "suggested_action": "watch"
+    },
+    {
+      "platform": "polymarket",
+      "market_id": "601818",
+      "question": "Will Tarcisio de Freitas win the 2026 Brazilian presidential election?",
+      "signals": [
+        "volume_spike"
+      ],
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 302840.0, \"baseline\": 195910.0, \"delta\": 106930.0}). Prob now 0.0005, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
     },
@@ -116,5 +116,5 @@
       "suggested_action": "watch"
     }
   ],
-  "generated_at": "2026-10-10T00:10:30Z"
+  "generated_at": "2026-10-10T06:09:52Z"
 }

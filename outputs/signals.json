@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 46,
+  "n_signals": 47,
   "signals": [
     {
       "type": "volume_spike",
@@ -322,6 +322,20 @@
         "volume_24h": 653784.66,
         "baseline": 357807.26,
         "delta": 295977.4
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-10T06:09:52Z",
+      "severity": 0.8072,
+      "detail": {
+        "ts": "2026-10-10T06:09:52Z",
+        "volume_24h": 342469.83,
+        "baseline": 189507.19,
+        "delta": 152962.64
       }
     },
     {
