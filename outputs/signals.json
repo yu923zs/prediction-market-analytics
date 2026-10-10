@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 47,
+  "n_signals": 46,
   "signals": [
     {
       "type": "volume_spike",
@@ -294,20 +294,6 @@
         "volume_24h": 2088636.78,
         "baseline": 1115478.48,
         "delta": 973158.29
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-07T06:16:23Z",
-      "severity": 0.8321,
-      "detail": {
-        "ts": "2026-10-07T06:16:23Z",
-        "volume_24h": 424668.38,
-        "baseline": 231788.51,
-        "delta": 192879.88
       }
     },
     {
