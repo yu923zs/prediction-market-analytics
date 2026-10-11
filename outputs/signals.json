@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 44,
+  "n_signals": 42,
   "signals": [
     {
       "type": "volume_spike",
@@ -201,20 +201,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-11T01:06:40Z",
-      "severity": 1.0568,
-      "detail": {
-        "ts": "2026-10-11T01:06:40Z",
-        "volume_24h": 313197.56,
-        "baseline": 152275.07,
-        "delta": 160922.48
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601922",
       "question": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
       "ts": "2026-10-04T23:24:27Z",
@@ -243,15 +229,15 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-07T06:16:23Z",
-      "severity": 0.8321,
+      "market_id": "559703",
+      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
+      "ts": "2026-10-11T23:48:45Z",
+      "severity": 0.8422,
       "detail": {
-        "ts": "2026-10-07T06:16:23Z",
-        "volume_24h": 424668.38,
-        "baseline": 231788.51,
-        "delta": 192879.88
+        "ts": "2026-10-11T23:48:45Z",
+        "volume_24h": 483211.34,
+        "baseline": 262303.65,
+        "delta": 220907.69
       }
     },
     {
@@ -336,20 +322,6 @@
         "volume_24h": 697161.22,
         "baseline": 395307.83,
         "delta": 301853.39
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-11T07:32:03Z",
-      "severity": 0.7591,
-      "detail": {
-        "ts": "2026-10-11T07:32:03Z",
-        "volume_24h": 314974.07,
-        "baseline": 179053.15,
-        "delta": 135920.92
       }
     },
     {
