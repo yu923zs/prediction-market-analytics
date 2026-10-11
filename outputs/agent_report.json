@@ -1,6 +1,6 @@
 {
   "engine": "rules",
-  "summary": "15 markets tracked, 48 signals raised across 10 markets.",
+  "summary": "15 markets tracked, 49 signals raised across 10 markets.",
   "markets": [
     {
       "platform": "polymarket",
@@ -43,7 +43,7 @@
       "signals": [
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-11T01:06:40Z\", \"volume_24h\": 313197.56, \"baseline\": 152275.07, \"delta\": 160922.48}); volume_spike ({\"ts\": \"2026-10-07T06:16:23Z\", \"volume_24h\": 424668.38, \"baseline\": 231788.51, \"delta\": 192879.88}). Prob now 0.905, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-11T01:06:40Z\", \"volume_24h\": 313197.56, \"baseline\": 152275.07, \"delta\": 160922.48}); volume_spike ({\"ts\": \"2026-10-07T06:16:23Z\", \"volume_24h\": 424668.38, \"baseline\": 231788.51, \"delta\": 192879.88}); volume_spike ({\"ts\": \"2026-10-11T07:32:03Z\", \"volume_24h\": 314974.07, \"baseline\": 179053.15, \"delta\": 135920.92}). Prob now 0.905, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
     },
@@ -55,17 +55,6 @@
         "volume_spike"
       ],
       "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 302840.0, \"baseline\": 195910.0, \"delta\": 106930.0}). Prob now 0.0005, 1h change 0.0. Rule-based view: review the underlying news before acting.",
-      "confidence": "medium",
-      "suggested_action": "watch"
-    },
-    {
-      "platform": "polymarket",
-      "market_id": "562803",
-      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
-      "signals": [
-        "volume_spike"
-      ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-06T20:27:25Z\", \"volume_24h\": 280595.04, \"baseline\": 174095.65, \"delta\": 106499.38}); volume_spike ({\"ts\": \"2026-10-06T23:58:30Z\", \"volume_24h\": 281365.18, \"baseline\": 181272.78, \"delta\": 100092.4}). Prob now 0.095, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
     },
@@ -94,6 +83,17 @@
     },
     {
       "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "signals": [
+        "volume_spike"
+      ],
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-06T20:27:25Z\", \"volume_24h\": 280595.04, \"baseline\": 174095.65, \"delta\": 106499.38}); volume_spike ({\"ts\": \"2026-10-06T23:58:30Z\", \"volume_24h\": 281365.18, \"baseline\": 181272.78, \"delta\": 100092.4}). Prob now 0.095, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "confidence": "medium",
+      "suggested_action": "watch"
+    },
+    {
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "signals": [
@@ -116,5 +116,5 @@
       "suggested_action": "watch"
     }
   ],
-  "generated_at": "2026-10-11T01:06:41Z"
+  "generated_at": "2026-10-11T07:32:03Z"
 }
