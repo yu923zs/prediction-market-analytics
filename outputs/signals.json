@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 41,
+  "n_signals": 44,
   "signals": [
     {
       "type": "volume_spike",
@@ -126,6 +126,20 @@
         "volume_24h": 282655.18,
         "baseline": 124369.34,
         "delta": 158285.84
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "559703",
+      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
+      "ts": "2026-10-11T19:37:52Z",
+      "severity": 1.2446,
+      "detail": {
+        "ts": "2026-10-11T19:37:52Z",
+        "volume_24h": 483098.12,
+        "baseline": 215228.97,
+        "delta": 267869.15
       }
     },
     {
@@ -369,15 +383,15 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562803",
-      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-06T20:27:25Z",
-      "severity": 0.6117,
+      "market_id": "562016",
+      "question": "Will John McEntee win the 2028 Republican presidential nomination?",
+      "ts": "2026-10-11T01:06:40Z",
+      "severity": 0.5991,
       "detail": {
-        "ts": "2026-10-06T20:27:25Z",
-        "volume_24h": 280595.04,
-        "baseline": 174095.65,
-        "delta": 106499.38
+        "ts": "2026-10-11T01:06:40Z",
+        "volume_24h": 126800.05,
+        "baseline": 79292.47,
+        "delta": 47507.58
       }
     },
     {
@@ -406,20 +420,6 @@
         "volume_24h": 328856.36,
         "baseline": 208426.58,
         "delta": 120429.78
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562803",
-      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-06T23:58:30Z",
-      "severity": 0.5522,
-      "detail": {
-        "ts": "2026-10-06T23:58:30Z",
-        "volume_24h": 281365.18,
-        "baseline": 181272.78,
-        "delta": 100092.4
       }
     },
     {
@@ -495,6 +495,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562016",
+      "question": "Will John McEntee win the 2028 Republican presidential nomination?",
+      "ts": "2026-10-11T14:59:50Z",
+      "severity": 0.5313,
+      "detail": {
+        "ts": "2026-10-11T14:59:50Z",
+        "volume_24h": 145670.05,
+        "baseline": 95128.33,
+        "delta": 50541.72
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601922",
       "question": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
       "ts": "2026-10-05T02:13:41Z",
@@ -504,6 +518,21 @@
         "volume_24h": 214399.53,
         "baseline": 140229.57,
         "delta": 74169.96
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "562016",
+      "question": "Will John McEntee win the 2028 Republican presidential nomination?",
+      "ts": "2026-10-07T21:00:23Z",
+      "severity": 0.37,
+      "detail": {
+        "ts": "2026-10-07T21:00:23Z",
+        "from": 0.495,
+        "to": 0.125,
+        "delta": -0.37,
+        "zscore": null
       }
     },
     {
@@ -519,6 +548,21 @@
         "to": 0.8515,
         "delta": 0.13,
         "zscore": 6.47
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "562016",
+      "question": "Will John McEntee win the 2028 Republican presidential nomination?",
+      "ts": "2026-10-07T21:30:14Z",
+      "severity": 0.1225,
+      "detail": {
+        "ts": "2026-10-07T21:30:14Z",
+        "from": 0.125,
+        "to": 0.0025,
+        "delta": -0.1225,
+        "zscore": null
       }
     },
     {

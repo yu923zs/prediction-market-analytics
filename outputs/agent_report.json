@@ -1,6 +1,6 @@
 {
   "engine": "rules",
-  "summary": "15 markets tracked, 41 signals raised across 10 markets.",
+  "summary": "15 markets tracked, 44 signals raised across 10 markets.",
   "markets": [
     {
       "platform": "polymarket",
@@ -32,7 +32,7 @@
       "signals": [
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-08T00:18:11Z\", \"volume_24h\": 694565.22, \"baseline\": 295555.37, \"delta\": 399009.85}); volume_spike ({\"ts\": \"2026-10-11T14:59:50Z\", \"volume_24h\": 483098.12, \"baseline\": 245946.02, \"delta\": 237152.1}); volume_spike ({\"ts\": \"2026-10-08T06:25:44Z\", \"volume_24h\": 697161.22, \"baseline\": 395307.83, \"delta\": 301853.39}); volume_spike ({\"ts\": \"2026-10-08T13:50:30Z\", \"volume_24h\": 698117.48, \"baseline\": 455678.51, \"delta\": 242438.98}). Prob now 0.002, 1h change 0.0005. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-08T00:18:11Z\", \"volume_24h\": 694565.22, \"baseline\": 295555.37, \"delta\": 399009.85}); volume_spike ({\"ts\": \"2026-10-11T19:37:52Z\", \"volume_24h\": 483098.12, \"baseline\": 215228.97, \"delta\": 267869.15}); volume_spike ({\"ts\": \"2026-10-11T14:59:50Z\", \"volume_24h\": 483098.12, \"baseline\": 245946.02, \"delta\": 237152.1}); volume_spike ({\"ts\": \"2026-10-08T06:25:44Z\", \"volume_24h\": 697161.22, \"baseline\": 395307.83, \"delta\": 301853.39}); volume_spike ({\"ts\": \"2026-10-08T13:50:30Z\", \"volume_24h\": 698117.48, \"baseline\": 455678.51, \"delta\": 242438.98}). Prob now 0.002, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
     },
@@ -49,6 +49,17 @@
     },
     {
       "platform": "polymarket",
+      "market_id": "601818",
+      "question": "Will Tarcisio de Freitas win the 2026 Brazilian presidential election?",
+      "signals": [
+        "volume_spike"
+      ],
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 302840.0, \"baseline\": 195910.0, \"delta\": 106930.0}). Prob now 0.0005, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "confidence": "medium",
+      "suggested_action": "watch"
+    },
+    {
+      "platform": "polymarket",
       "market_id": "562802",
       "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
       "signals": [
@@ -60,12 +71,12 @@
     },
     {
       "platform": "polymarket",
-      "market_id": "601818",
-      "question": "Will Tarcisio de Freitas win the 2026 Brazilian presidential election?",
+      "market_id": "601922",
+      "question": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
       "signals": [
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 302840.0, \"baseline\": 195910.0, \"delta\": 106930.0}). Prob now 0.0005, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 225676.79, \"baseline\": 111747.16, \"delta\": 113929.63}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 214399.53, \"baseline\": 140229.57, \"delta\": 74169.96}). Prob now 0.9995, 1h change 0.0010000000000000009. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
     },
@@ -83,28 +94,6 @@
     },
     {
       "platform": "polymarket",
-      "market_id": "601922",
-      "question": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
-      "signals": [
-        "volume_spike"
-      ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 225676.79, \"baseline\": 111747.16, \"delta\": 113929.63}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 214399.53, \"baseline\": 140229.57, \"delta\": 74169.96}). Prob now 0.9995, 1h change 0.0010000000000000009. Rule-based view: review the underlying news before acting.",
-      "confidence": "medium",
-      "suggested_action": "watch"
-    },
-    {
-      "platform": "polymarket",
-      "market_id": "562803",
-      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
-      "signals": [
-        "volume_spike"
-      ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-06T20:27:25Z\", \"volume_24h\": 280595.04, \"baseline\": 174095.65, \"delta\": 106499.38}); volume_spike ({\"ts\": \"2026-10-06T23:58:30Z\", \"volume_24h\": 281365.18, \"baseline\": 181272.78, \"delta\": 100092.4}). Prob now 0.095, 1h change 0.0. Rule-based view: review the underlying news before acting.",
-      "confidence": "medium",
-      "suggested_action": "watch"
-    },
-    {
-      "platform": "polymarket",
       "market_id": "560317",
       "question": "Putin out as President of Russia by December 31, 2026?",
       "signals": [
@@ -113,7 +102,19 @@
       "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-07T13:41:42Z\", \"volume_24h\": 638728.49, \"baseline\": 206936.24, \"delta\": 431792.24}); volume_spike ({\"ts\": \"2026-10-06T07:48:20Z\", \"volume_24h\": 282655.18, \"baseline\": 124369.34, \"delta\": 158285.84}); volume_spike ({\"ts\": \"2026-10-07T20:03:26Z\", \"volume_24h\": 630154.37, \"baseline\": 287605.36, \"delta\": 342549.01}); volume_spike ({\"ts\": \"2026-10-08T00:18:11Z\", \"volume_24h\": 653784.66, \"baseline\": 357807.26, \"delta\": 295977.4}); volume_spike ({\"ts\": \"2026-10-10T06:09:52Z\", \"volume_24h\": 342469.83, \"baseline\": 189507.19, \"delta\": 152962.64}); volume_spike ({\"ts\": \"2026-10-06T15:21:41Z\", \"volume_24h\": 277344.14, \"baseline\": 163940.8, \"delta\": 113403.34}); volume_spike ({\"ts\": \"2026-10-08T06:25:44Z\", \"volume_24h\": 663177.22, \"baseline\": 428301.89, \"delta\": 234875.33}). Prob now 0.0285, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
+    },
+    {
+      "platform": "polymarket",
+      "market_id": "562016",
+      "question": "Will John McEntee win the 2028 Republican presidential nomination?",
+      "signals": [
+        "prob_jump",
+        "volume_spike"
+      ],
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-11T01:06:40Z\", \"volume_24h\": 126800.05, \"baseline\": 79292.47, \"delta\": 47507.58}); volume_spike ({\"ts\": \"2026-10-11T14:59:50Z\", \"volume_24h\": 145670.05, \"baseline\": 95128.33, \"delta\": 50541.72}); prob_jump ({\"ts\": \"2026-10-07T21:00:23Z\", \"from\": 0.495, \"to\": 0.125, \"delta\": -0.37, \"zscore\": null}); prob_jump ({\"ts\": \"2026-10-07T21:30:14Z\", \"from\": 0.125, \"to\": 0.0025, \"delta\": -0.1225, \"zscore\": null}). Prob now 0.0015, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "confidence": "medium",
+      "suggested_action": "investigate"
     }
   ],
-  "generated_at": "2026-10-11T14:59:51Z"
+  "generated_at": "2026-10-11T19:37:52Z"
 }
