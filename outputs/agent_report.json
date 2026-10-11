@@ -1,6 +1,6 @@
 {
   "engine": "rules",
-  "summary": "15 markets tracked, 49 signals raised across 10 markets.",
+  "summary": "15 markets tracked, 41 signals raised across 10 markets.",
   "markets": [
     {
       "platform": "polymarket",
@@ -24,6 +24,17 @@
       "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 783457.9, \"baseline\": 123941.34, \"delta\": 659516.56}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 826097.23, \"baseline\": 288820.48, \"delta\": 537276.75}); prob_jump ({\"ts\": \"2026-10-04T21:30:18Z\", \"from\": 0.116, \"to\": 0.026, \"delta\": -0.09, \"zscore\": -4.44}); prob_jump ({\"ts\": \"2026-10-04T21:00:22Z\", \"from\": 0.0345, \"to\": 0.116, \"delta\": 0.0815, \"zscore\": 8.03}). Prob now 0.0005, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "investigate"
+    },
+    {
+      "platform": "polymarket",
+      "market_id": "559703",
+      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
+      "signals": [
+        "volume_spike"
+      ],
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-08T00:18:11Z\", \"volume_24h\": 694565.22, \"baseline\": 295555.37, \"delta\": 399009.85}); volume_spike ({\"ts\": \"2026-10-11T14:59:50Z\", \"volume_24h\": 483098.12, \"baseline\": 245946.02, \"delta\": 237152.1}); volume_spike ({\"ts\": \"2026-10-08T06:25:44Z\", \"volume_24h\": 697161.22, \"baseline\": 395307.83, \"delta\": 301853.39}); volume_spike ({\"ts\": \"2026-10-08T13:50:30Z\", \"volume_24h\": 698117.48, \"baseline\": 455678.51, \"delta\": 242438.98}). Prob now 0.002, 1h change 0.0005. Rule-based view: review the underlying news before acting.",
+      "confidence": "medium",
+      "suggested_action": "watch"
     },
     {
       "platform": "polymarket",
@@ -94,18 +105,6 @@
     },
     {
       "platform": "polymarket",
-      "market_id": "601819",
-      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-      "signals": [
-        "prob_jump",
-        "volume_spike"
-      ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-08T20:01:40Z\", \"volume_24h\": 2205527.96, \"baseline\": 364157.95, \"delta\": 1841370.01}); volume_spike ({\"ts\": \"2026-10-09T00:31:58Z\", \"volume_24h\": 2059355.82, \"baseline\": 613382.77, \"delta\": 1445973.04}); volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 1795270.0, \"baseline\": 591925.51, \"delta\": 1203344.49}); volume_spike ({\"ts\": \"2026-10-09T07:40:34Z\", \"volume_24h\": 2071696.5, \"baseline\": 858960.25, \"delta\": 1212736.24}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 2114034.86, \"baseline\": 892761.63, \"delta\": 1221273.23}); volume_spike ({\"ts\": \"2026-10-05T18:41:24Z\", \"volume_24h\": 2867814.42, \"baseline\": 1451961.41, \"delta\": 1415853.01}); volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 2210224.7, \"baseline\": 1137016.28, \"delta\": 1073208.42}); volume_spike ({\"ts\": \"2026-10-09T15:26:49Z\", \"volume_24h\": 2088636.78, \"baseline\": 1115478.48, \"delta\": 973158.29}); volume_spike ({\"ts\": \"2026-10-05T09:23:07Z\", \"volume_24h\": 2268423.78, \"baseline\": 1315884.35, \"delta\": 952539.43}); prob_jump ({\"ts\": \"2026-10-04T21:00:27Z\", \"from\": 0.285, \"to\": 0.14, \"delta\": -0.145, \"zscore\": -7.46}); prob_jump ({\"ts\": \"2026-10-04T20:30:22Z\", \"from\": 0.365, \"to\": 0.285, \"delta\": -0.08, \"zscore\": -10.33}); prob_jump ({\"ts\": \"2026-10-02T07:00:16Z\", \"from\": 0.395, \"to\": 0.455, \"delta\": 0.06, \"zscore\": 10.96}). Prob now 0.115, 1h change 0.0. Rule-based view: review the underlying news before acting.",
-      "confidence": "medium",
-      "suggested_action": "investigate"
-    },
-    {
-      "platform": "polymarket",
       "market_id": "560317",
       "question": "Putin out as President of Russia by December 31, 2026?",
       "signals": [
@@ -116,5 +115,5 @@
       "suggested_action": "watch"
     }
   ],
-  "generated_at": "2026-10-11T07:32:03Z"
+  "generated_at": "2026-10-11T14:59:51Z"
 }
