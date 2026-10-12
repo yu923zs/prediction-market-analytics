@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 42,
+  "n_signals": 46,
   "signals": [
     {
       "type": "volume_spike",
@@ -103,6 +103,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562829",
+      "question": "2026 Balance of Power: D Senate, R House",
+      "ts": "2026-10-12T06:16:45Z",
+      "severity": 1.6398,
+      "detail": {
+        "ts": "2026-10-12T06:16:45Z",
+        "volume_24h": 429174.96,
+        "baseline": 162576.44,
+        "delta": 266598.53
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "559703",
       "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
       "ts": "2026-10-08T00:18:11Z",
@@ -196,6 +210,34 @@
         "volume_24h": 2005691.91,
         "baseline": 949487.46,
         "delta": 1056204.45
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562829",
+      "question": "2026 Balance of Power: D Senate, R House",
+      "ts": "2026-10-08T20:01:40Z",
+      "severity": 1.06,
+      "detail": {
+        "ts": "2026-10-08T20:01:40Z",
+        "volume_24h": 211292.82,
+        "baseline": 102568.38,
+        "delta": 108724.45
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562829",
+      "question": "2026 Balance of Power: D Senate, R House",
+      "ts": "2026-10-09T07:40:34Z",
+      "severity": 1.0443,
+      "detail": {
+        "ts": "2026-10-09T07:40:34Z",
+        "volume_24h": 254646.78,
+        "baseline": 124561.86,
+        "delta": 130084.93
       }
     },
     {
@@ -392,6 +434,20 @@
         "volume_24h": 328856.36,
         "baseline": 208426.58,
         "delta": 120429.78
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "559703",
+      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
+      "ts": "2026-10-12T06:16:45Z",
+      "severity": 0.5616,
+      "detail": {
+        "ts": "2026-10-12T06:16:45Z",
+        "volume_24h": 483878.0,
+        "baseline": 309859.66,
+        "delta": 174018.34
       }
     },
     {
