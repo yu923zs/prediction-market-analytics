@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 66,
+  "n_signals": 67,
   "signals": [
     {
       "type": "volume_spike",
@@ -56,6 +56,20 @@
         "volume_24h": 859319.25,
         "baseline": 142074.61,
         "delta": 717244.64
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-13T23:22:22Z",
+      "severity": 2.7564,
+      "detail": {
+        "ts": "2026-10-13T23:22:22Z",
+        "volume_24h": 380511.72,
+        "baseline": 101297.78,
+        "delta": 279213.94
       }
     },
     {
