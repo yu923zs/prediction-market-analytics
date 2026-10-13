@@ -1,6 +1,6 @@
 {
   "engine": "rules",
-  "summary": "15 markets tracked, 43 signals raised across 10 markets.",
+  "summary": "15 markets tracked, 44 signals raised across 10 markets.",
   "markets": [
     {
       "platform": "polymarket",
@@ -27,17 +27,6 @@
     },
     {
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "signals": [
-        "volume_spike"
-      ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-12T06:16:45Z\", \"volume_24h\": 429174.96, \"baseline\": 162576.44, \"delta\": 266598.53}); volume_spike ({\"ts\": \"2026-10-12T15:51:26Z\", \"volume_24h\": 519220.24, \"baseline\": 208053.41, \"delta\": 311166.83}); volume_spike ({\"ts\": \"2026-10-12T23:07:21Z\", \"volume_24h\": 578390.48, \"baseline\": 252043.04, \"delta\": 326347.44}); volume_spike ({\"ts\": \"2026-10-08T20:01:40Z\", \"volume_24h\": 211292.82, \"baseline\": 102568.38, \"delta\": 108724.45}); volume_spike ({\"ts\": \"2026-10-09T07:40:34Z\", \"volume_24h\": 254646.78, \"baseline\": 124561.86, \"delta\": 130084.93}). Prob now 0.0095, 1h change 0.0. Rule-based view: review the underlying news before acting.",
-      "confidence": "medium",
-      "suggested_action": "watch"
-    },
-    {
-      "platform": "polymarket",
       "market_id": "559703",
       "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
       "signals": [
@@ -54,7 +43,7 @@
       "signals": [
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-07T06:16:23Z\", \"volume_24h\": 884708.19, \"baseline\": 138403.16, \"delta\": 746305.03}); volume_spike ({\"ts\": \"2026-10-07T13:41:42Z\", \"volume_24h\": 885919.05, \"baseline\": 262787.33, \"delta\": 623131.72}); volume_spike ({\"ts\": \"2026-10-12T23:07:21Z\", \"volume_24h\": 351289.52, \"baseline\": 110701.42, \"delta\": 240588.1}); volume_spike ({\"ts\": \"2026-10-06T23:58:30Z\", \"volume_24h\": 280525.63, \"baseline\": 102872.54, \"delta\": 177653.09}); volume_spike ({\"ts\": \"2026-10-07T20:03:26Z\", \"volume_24h\": 886603.71, \"baseline\": 351806.15, \"delta\": 534797.56}). Prob now 0.0185, 1h change 0.0005000000000000004. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-07T06:16:23Z\", \"volume_24h\": 884708.19, \"baseline\": 138403.16, \"delta\": 746305.03}); volume_spike ({\"ts\": \"2026-10-07T13:41:42Z\", \"volume_24h\": 885919.05, \"baseline\": 262787.33, \"delta\": 623131.72}); volume_spike ({\"ts\": \"2026-10-12T23:07:21Z\", \"volume_24h\": 351289.52, \"baseline\": 110701.42, \"delta\": 240588.1}); volume_spike ({\"ts\": \"2026-10-06T23:58:30Z\", \"volume_24h\": 280525.63, \"baseline\": 102872.54, \"delta\": 177653.09}); volume_spike ({\"ts\": \"2026-10-07T20:03:26Z\", \"volume_24h\": 886603.71, \"baseline\": 351806.15, \"delta\": 534797.56}); volume_spike ({\"ts\": \"2026-10-13T03:43:07Z\", \"volume_24h\": 329377.42, \"baseline\": 145549.54, \"delta\": 183827.88}). Prob now 0.018, 1h change 0.0014999999999999979. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
     },
@@ -93,6 +82,17 @@
     },
     {
       "platform": "polymarket",
+      "market_id": "562829",
+      "question": "2026 Balance of Power: D Senate, R House",
+      "signals": [
+        "volume_spike"
+      ],
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-12T06:16:45Z\", \"volume_24h\": 429174.96, \"baseline\": 162576.44, \"delta\": 266598.53}); volume_spike ({\"ts\": \"2026-10-12T15:51:26Z\", \"volume_24h\": 519220.24, \"baseline\": 208053.41, \"delta\": 311166.83}); volume_spike ({\"ts\": \"2026-10-12T23:07:21Z\", \"volume_24h\": 578390.48, \"baseline\": 252043.04, \"delta\": 326347.44}); volume_spike ({\"ts\": \"2026-10-08T20:01:40Z\", \"volume_24h\": 211292.82, \"baseline\": 102568.38, \"delta\": 108724.45}); volume_spike ({\"ts\": \"2026-10-09T07:40:34Z\", \"volume_24h\": 254646.78, \"baseline\": 124561.86, \"delta\": 130084.93}). Prob now 0.0095, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "confidence": "medium",
+      "suggested_action": "watch"
+    },
+    {
+      "platform": "polymarket",
       "market_id": "560317",
       "question": "Putin out as President of Russia by December 31, 2026?",
       "signals": [
@@ -115,5 +115,5 @@
       "suggested_action": "investigate"
     }
   ],
-  "generated_at": "2026-10-12T23:07:21Z"
+  "generated_at": "2026-10-13T03:43:07Z"
 }
