@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 44,
+  "n_signals": 45,
   "signals": [
     {
       "type": "volume_spike",
@@ -350,6 +350,20 @@
         "volume_24h": 483098.12,
         "baseline": 245946.02,
         "delta": 237152.1
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "559664",
+      "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
+      "ts": "2026-10-13T12:00:59Z",
+      "severity": 0.8822,
+      "detail": {
+        "ts": "2026-10-13T12:00:59Z",
+        "volume_24h": 335582.56,
+        "baseline": 178289.62,
+        "delta": 157292.94
       }
     },
     {
