@@ -229,20 +229,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-12T06:16:45Z",
-      "severity": 1.6398,
-      "detail": {
-        "ts": "2026-10-12T06:16:45Z",
-        "volume_24h": 429174.96,
-        "baseline": 162576.44,
-        "delta": 266598.53
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-13T19:25:51Z",
@@ -266,20 +252,6 @@
         "volume_24h": 886603.71,
         "baseline": 351806.15,
         "delta": 534797.56
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-12T15:51:26Z",
-      "severity": 1.4956,
-      "detail": {
-        "ts": "2026-10-12T15:51:26Z",
-        "volume_24h": 519220.24,
-        "baseline": 208053.41,
-        "delta": 311166.83
       }
     },
     {
@@ -341,20 +313,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-12T23:07:21Z",
-      "severity": 1.2948,
-      "detail": {
-        "ts": "2026-10-12T23:07:21Z",
-        "volume_24h": 578390.48,
-        "baseline": 252043.04,
-        "delta": 326347.44
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "559664",
       "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
       "ts": "2026-10-13T03:43:07Z",
@@ -378,20 +336,6 @@
         "volume_24h": 483098.12,
         "baseline": 215228.97,
         "delta": 267869.15
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "608568",
-      "question": "Will Fabian Ruiz win the 2026 Ballon d'Or?",
-      "ts": "2026-10-14T13:55:08Z",
-      "severity": 1.2302,
-      "detail": {
-        "ts": "2026-10-14T13:55:08Z",
-        "volume_24h": 213241.03,
-        "baseline": 95615.95,
-        "delta": 117625.08
       }
     },
     {
@@ -439,29 +383,15 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-08T20:01:40Z",
-      "severity": 1.06,
+      "market_id": "562802",
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-11T01:06:40Z",
+      "severity": 1.0568,
       "detail": {
-        "ts": "2026-10-08T20:01:40Z",
-        "volume_24h": 211292.82,
-        "baseline": 102568.38,
-        "delta": 108724.45
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-09T07:40:34Z",
-      "severity": 1.0443,
-      "detail": {
-        "ts": "2026-10-09T07:40:34Z",
-        "volume_24h": 254646.78,
-        "baseline": 124561.86,
-        "delta": 130084.93
+        "ts": "2026-10-11T01:06:40Z",
+        "volume_24h": 313197.56,
+        "baseline": 152275.07,
+        "delta": 160922.48
       }
     },
     {
@@ -565,6 +495,34 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-14T18:47:09Z",
+      "severity": 0.839,
+      "detail": {
+        "ts": "2026-10-14T18:47:09Z",
+        "volume_24h": 308215.17,
+        "baseline": 167596.94,
+        "delta": 140618.23
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562802",
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-07T06:16:23Z",
+      "severity": 0.8321,
+      "detail": {
+        "ts": "2026-10-07T06:16:23Z",
+        "volume_24h": 424668.38,
+        "baseline": 231788.51,
+        "delta": 192879.88
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601830",
       "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T09:23:07Z",
@@ -574,6 +532,20 @@
         "volume_24h": 1010265.64,
         "baseline": 559786.45,
         "delta": 450479.2
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562828",
+      "question": "2026 Balance of Power: D Senate, D House",
+      "ts": "2026-10-14T18:47:09Z",
+      "severity": 0.8007,
+      "detail": {
+        "ts": "2026-10-14T18:47:09Z",
+        "volume_24h": 203608.86,
+        "baseline": 113069.98,
+        "delta": 90538.88
       }
     },
     {
@@ -616,6 +588,20 @@
         "volume_24h": 697161.22,
         "baseline": 395307.83,
         "delta": 301853.39
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562802",
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-11T07:32:03Z",
+      "severity": 0.7591,
+      "detail": {
+        "ts": "2026-10-11T07:32:03Z",
+        "volume_24h": 314974.07,
+        "baseline": 179053.15,
+        "delta": 135920.92
       }
     },
     {
@@ -686,6 +672,20 @@
         "volume_24h": 678737.35,
         "baseline": 426338.02,
         "delta": 252399.32
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-14T18:47:09Z",
+      "severity": 0.5849,
+      "detail": {
+        "ts": "2026-10-14T18:47:09Z",
+        "volume_24h": 589303.1,
+        "baseline": 371812.49,
+        "delta": 217490.61
       }
     },
     {
