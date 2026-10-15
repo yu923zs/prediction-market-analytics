@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 80,
+  "n_signals": 85,
   "signals": [
     {
       "type": "volume_spike",
@@ -453,6 +453,34 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562832",
+      "question": "2026 Balance of Power: Other",
+      "ts": "2026-10-15T23:11:09Z",
+      "severity": 1.2006,
+      "detail": {
+        "ts": "2026-10-15T23:11:09Z",
+        "volume_24h": 383072.05,
+        "baseline": 174074.09,
+        "delta": 208997.97
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-15T23:11:09Z",
+      "severity": 1.1391,
+      "detail": {
+        "ts": "2026-10-15T23:11:09Z",
+        "volume_24h": 1630634.24,
+        "baseline": 762304.89,
+        "delta": 868329.35
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T02:13:41Z",
@@ -817,6 +845,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608553",
+      "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?",
+      "ts": "2026-10-15T23:11:09Z",
+      "severity": 0.6602,
+      "detail": {
+        "ts": "2026-10-15T23:11:09Z",
+        "volume_24h": 187782.48,
+        "baseline": 113105.15,
+        "delta": 74677.33
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-15T20:27:09Z",
@@ -854,6 +896,20 @@
         "volume_24h": 248761.86,
         "baseline": 154603.73,
         "delta": 94158.13
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562802",
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-15T23:11:09Z",
+      "severity": 0.6028,
+      "detail": {
+        "ts": "2026-10-15T23:11:09Z",
+        "volume_24h": 660787.5,
+        "baseline": 412261.98,
+        "delta": 248525.51
       }
     },
     {
@@ -1008,6 +1064,20 @@
         "volume_24h": 214399.53,
         "baseline": 140229.57,
         "delta": 74169.96
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-15T23:11:09Z",
+      "severity": 0.5201,
+      "detail": {
+        "ts": "2026-10-15T23:11:09Z",
+        "volume_24h": 668565.71,
+        "baseline": 439818.11,
+        "delta": 228747.6
       }
     },
     {
