@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 74,
+  "n_signals": 77,
   "signals": [
     {
       "type": "volume_spike",
@@ -266,6 +266,20 @@
         "volume_24h": 886603.71,
         "baseline": 351806.15,
         "delta": 534797.56
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562802",
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-15T11:51:58Z",
+      "severity": 1.4499,
+      "detail": {
+        "ts": "2026-10-15T11:51:58Z",
+        "volume_24h": 562806.8,
+        "baseline": 229726.22,
+        "delta": 333080.58
       }
     },
     {
@@ -649,6 +663,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-15T11:51:58Z",
+      "severity": 0.7575,
+      "detail": {
+        "ts": "2026-10-15T11:51:58Z",
+        "volume_24h": 503120.05,
+        "baseline": 286264.4,
+        "delta": 216855.65
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "562828",
       "question": "2026 Balance of Power: D Senate, D House",
       "ts": "2026-10-14T13:55:08Z",
@@ -882,6 +910,20 @@
         "volume_24h": 252484.3,
         "baseline": 163505.59,
         "delta": 88978.71
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "561255",
+      "question": "Will Ivanka Trump win the 2028 US Presidential Election?",
+      "ts": "2026-10-15T11:51:58Z",
+      "severity": 0.5368,
+      "detail": {
+        "ts": "2026-10-15T11:51:58Z",
+        "volume_24h": 205550.31,
+        "baseline": 133750.17,
+        "delta": 71800.14
       }
     },
     {
