@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 85,
+  "n_signals": 84,
   "signals": [
     {
       "type": "volume_spike",
@@ -383,20 +383,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "608553",
-      "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?",
-      "ts": "2026-10-15T17:14:13Z",
-      "severity": 1.2791,
-      "detail": {
-        "ts": "2026-10-15T17:14:13Z",
-        "volume_24h": 194872.65,
-        "baseline": 85502.74,
-        "delta": 109369.91
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "559664",
       "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
       "ts": "2026-10-13T03:43:07Z",
@@ -579,20 +565,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "608553",
-      "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?",
-      "ts": "2026-10-15T20:27:09Z",
-      "severity": 0.9314,
-      "detail": {
-        "ts": "2026-10-15T20:27:09Z",
-        "volume_24h": 187157.08,
-        "baseline": 96901.06,
-        "delta": 90256.02
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "559664",
       "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
       "ts": "2026-10-13T12:00:59Z",
@@ -747,6 +719,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-16T01:33:38Z",
+      "severity": 0.7579,
+      "detail": {
+        "ts": "2026-10-16T01:33:38Z",
+        "volume_24h": 1601552.55,
+        "baseline": 911066.48,
+        "delta": 690486.08
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-15T11:51:58Z",
@@ -756,6 +742,20 @@
         "volume_24h": 503120.05,
         "baseline": 286264.4,
         "delta": 216855.65
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562832",
+      "question": "2026 Balance of Power: Other",
+      "ts": "2026-10-16T01:33:38Z",
+      "severity": 0.7388,
+      "detail": {
+        "ts": "2026-10-16T01:33:38Z",
+        "volume_24h": 383090.69,
+        "baseline": 220321.2,
+        "delta": 162769.5
       }
     },
     {
@@ -840,20 +840,6 @@
         "volume_24h": 244788.85,
         "baseline": 147129.65,
         "delta": 97659.2
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "608553",
-      "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?",
-      "ts": "2026-10-15T23:11:09Z",
-      "severity": 0.6602,
-      "detail": {
-        "ts": "2026-10-15T23:11:09Z",
-        "volume_24h": 187782.48,
-        "baseline": 113105.15,
-        "delta": 74677.33
       }
     },
     {
