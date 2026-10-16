@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 85,
+  "n_signals": 76,
   "signals": [
     {
       "type": "volume_spike",
@@ -243,20 +243,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-15T06:07:52Z",
-      "severity": 1.5872,
-      "detail": {
-        "ts": "2026-10-15T06:07:52Z",
-        "volume_24h": 462450.37,
-        "baseline": 178744.33,
-        "delta": 283706.04
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-13T19:25:51Z",
@@ -280,20 +266,6 @@
         "volume_24h": 886603.71,
         "baseline": 351806.15,
         "delta": 534797.56
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-15T11:51:58Z",
-      "severity": 1.4499,
-      "detail": {
-        "ts": "2026-10-15T11:51:58Z",
-        "volume_24h": 562806.8,
-        "baseline": 229726.22,
-        "delta": 333080.58
       }
     },
     {
@@ -509,20 +481,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-11T01:06:40Z",
-      "severity": 1.0568,
-      "detail": {
-        "ts": "2026-10-11T01:06:40Z",
-        "volume_24h": 313197.56,
-        "baseline": 152275.07,
-        "delta": 160922.48
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601922",
       "question": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
       "ts": "2026-10-04T23:24:27Z",
@@ -560,6 +518,20 @@
         "volume_24h": 483098.12,
         "baseline": 245946.02,
         "delta": 237152.1
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562831",
+      "question": "2026 Balance of Power: R Senate, R House",
+      "ts": "2026-10-16T21:28:42Z",
+      "severity": 0.9508,
+      "detail": {
+        "ts": "2026-10-16T21:28:42Z",
+        "volume_24h": 235173.06,
+        "baseline": 120551.34,
+        "delta": 114621.72
       }
     },
     {
@@ -607,20 +579,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-15T17:14:13Z",
-      "severity": 0.8659,
-      "detail": {
-        "ts": "2026-10-15T17:14:13Z",
-        "volume_24h": 553242.9,
-        "baseline": 296500.65,
-        "delta": 256742.25
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "559703",
       "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
       "ts": "2026-10-11T23:48:45Z",
@@ -644,20 +602,6 @@
         "volume_24h": 308215.17,
         "baseline": 167596.94,
         "delta": 140618.23
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-07T06:16:23Z",
-      "severity": 0.8321,
-      "detail": {
-        "ts": "2026-10-07T06:16:23Z",
-        "volume_24h": 424668.38,
-        "baseline": 231788.51,
-        "delta": 192879.88
       }
     },
     {
@@ -719,20 +663,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-11T07:32:03Z",
-      "severity": 0.7591,
-      "detail": {
-        "ts": "2026-10-11T07:32:03Z",
-        "volume_24h": 314974.07,
-        "baseline": 179053.15,
-        "delta": 135920.92
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-16T01:33:38Z",
@@ -784,20 +714,6 @@
         "volume_24h": 2268423.78,
         "baseline": 1315884.35,
         "delta": 952539.43
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-15T20:27:09Z",
-      "severity": 0.7233,
-      "detail": {
-        "ts": "2026-10-15T20:27:09Z",
-        "volume_24h": 607361.56,
-        "baseline": 352441.24,
-        "delta": 254920.32
       }
     },
     {
@@ -887,34 +803,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-15T00:44:22Z",
-      "severity": 0.609,
-      "detail": {
-        "ts": "2026-10-15T00:44:22Z",
-        "volume_24h": 248761.86,
-        "baseline": 154603.73,
-        "delta": 94158.13
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-15T23:11:09Z",
-      "severity": 0.6028,
-      "detail": {
-        "ts": "2026-10-15T23:11:09Z",
-        "volume_24h": 660787.5,
-        "baseline": 412261.98,
-        "delta": 248525.51
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-09T07:40:34Z",
@@ -952,20 +840,6 @@
         "volume_24h": 328856.36,
         "baseline": 208426.58,
         "delta": 120429.78
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "ts": "2026-10-14T22:27:53Z",
-      "severity": 0.5662,
-      "detail": {
-        "ts": "2026-10-14T22:27:53Z",
-        "volume_24h": 250236.97,
-        "baseline": 159769.68,
-        "delta": 90467.28
       }
     },
     {
