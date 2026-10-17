@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 86,
+  "n_signals": 87,
   "signals": [
     {
       "type": "volume_spike",
@@ -1092,6 +1092,20 @@
         "volume_24h": 668565.71,
         "baseline": 439818.11,
         "delta": 228747.6
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562831",
+      "question": "2026 Balance of Power: R Senate, R House",
+      "ts": "2026-10-17T09:33:50Z",
+      "severity": 0.5108,
+      "detail": {
+        "ts": "2026-10-17T09:33:50Z",
+        "volume_24h": 266062.61,
+        "baseline": 176103.12,
+        "delta": 89959.5
       }
     },
     {
