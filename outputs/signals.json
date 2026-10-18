@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 80,
+  "n_signals": 82,
   "signals": [
     {
       "type": "volume_spike",
@@ -509,6 +509,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-18T14:05:24Z",
+      "severity": 0.9905,
+      "detail": {
+        "ts": "2026-10-18T14:05:24Z",
+        "volume_24h": 966067.13,
+        "baseline": 485341.29,
+        "delta": 480725.84
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T18:41:24Z",
@@ -630,6 +644,20 @@
         "volume_24h": 1010265.64,
         "baseline": 559786.45,
         "delta": 450479.2
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-18T14:05:24Z",
+      "severity": 0.7928,
+      "detail": {
+        "ts": "2026-10-18T14:05:24Z",
+        "volume_24h": 820680.57,
+        "baseline": 457766.93,
+        "delta": 362913.65
       }
     },
     {
