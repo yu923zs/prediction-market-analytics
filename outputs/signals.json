@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 84,
+  "n_signals": 83,
   "signals": [
     {
       "type": "volume_spike",
@@ -355,6 +355,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608553",
+      "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?",
+      "ts": "2026-10-15T17:14:13Z",
+      "severity": 1.2791,
+      "detail": {
+        "ts": "2026-10-15T17:14:13Z",
+        "volume_24h": 194872.65,
+        "baseline": 85502.74,
+        "delta": 109369.91
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "559664",
       "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
       "ts": "2026-10-13T03:43:07Z",
@@ -467,34 +481,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "608565",
-      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
-      "ts": "2026-10-17T19:36:21Z",
-      "severity": 1.0747,
-      "detail": {
-        "ts": "2026-10-17T19:36:21Z",
-        "volume_24h": 170417.82,
-        "baseline": 82141.86,
-        "delta": 88275.97
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "608565",
-      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
-      "ts": "2026-10-06T23:58:30Z",
-      "severity": 1.0374,
-      "detail": {
-        "ts": "2026-10-06T23:58:30Z",
-        "volume_24h": 147777.83,
-        "baseline": 72533.24,
-        "delta": 75244.6
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601922",
       "question": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
       "ts": "2026-10-04T23:24:27Z",
@@ -560,6 +546,20 @@
         "volume_24h": 2210224.7,
         "baseline": 1137016.28,
         "delta": 1073208.42
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608553",
+      "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?",
+      "ts": "2026-10-15T20:27:09Z",
+      "severity": 0.9314,
+      "detail": {
+        "ts": "2026-10-15T20:27:09Z",
+        "volume_24h": 187157.08,
+        "baseline": 96901.06,
+        "delta": 90256.02
       }
     },
     {
@@ -761,20 +761,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "608565",
-      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
-      "ts": "2026-10-18T00:13:25Z",
-      "severity": 0.718,
-      "detail": {
-        "ts": "2026-10-18T00:13:25Z",
-        "volume_24h": 187733.6,
-        "baseline": 109275.97,
-        "delta": 78457.63
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-15T17:14:13Z",
@@ -784,20 +770,6 @@
         "volume_24h": 563675.47,
         "baseline": 332224.79,
         "delta": 231450.68
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "608565",
-      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
-      "ts": "2026-10-17T22:30:15Z",
-      "severity": 0.6899,
-      "detail": {
-        "ts": "2026-10-17T22:30:15Z",
-        "volume_24h": 164446.0,
-        "baseline": 97312.61,
-        "delta": 67133.39
       }
     },
     {
@@ -840,6 +812,20 @@
         "volume_24h": 244788.85,
         "baseline": 147129.65,
         "delta": 97659.2
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608553",
+      "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?",
+      "ts": "2026-10-15T23:11:09Z",
+      "severity": 0.6602,
+      "detail": {
+        "ts": "2026-10-15T23:11:09Z",
+        "volume_24h": 187782.48,
+        "baseline": 113105.15,
+        "delta": 74677.33
       }
     },
     {
@@ -959,6 +945,20 @@
       "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-18T19:33:06Z",
+      "severity": 0.5548,
+      "detail": {
+        "ts": "2026-10-18T19:33:06Z",
+        "volume_24h": 1019671.78,
+        "baseline": 655818.42,
+        "delta": 363853.36
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-09T15:26:49Z",
       "severity": 0.5491,
       "detail": {
@@ -980,6 +980,20 @@
         "volume_24h": 302840.0,
         "baseline": 195910.0,
         "delta": 106930.0
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-18T19:33:06Z",
+      "severity": 0.5351,
+      "detail": {
+        "ts": "2026-10-18T19:33:06Z",
+        "volume_24h": 907859.17,
+        "baseline": 591396.29,
+        "delta": 316462.87
       }
     },
     {
@@ -1027,20 +1041,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "608565",
-      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
-      "ts": "2026-10-07T20:03:26Z",
-      "severity": 0.5222,
-      "detail": {
-        "ts": "2026-10-07T20:03:26Z",
-        "volume_24h": 159445.2,
-        "baseline": 104744.11,
-        "delta": 54701.09
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-15T23:11:09Z",
@@ -1050,20 +1050,6 @@
         "volume_24h": 668565.71,
         "baseline": 439818.11,
         "delta": 228747.6
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "608565",
-      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
-      "ts": "2026-10-07T06:16:23Z",
-      "severity": 0.5173,
-      "detail": {
-        "ts": "2026-10-07T06:16:23Z",
-        "volume_24h": 138596.12,
-        "baseline": 91344.39,
-        "delta": 47251.73
       }
     },
     {
