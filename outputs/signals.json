@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 80,
+  "n_signals": 85,
   "signals": [
     {
       "type": "volume_spike",
@@ -117,6 +117,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-07T13:41:42Z",
+      "severity": 2.0866,
+      "detail": {
+        "ts": "2026-10-07T13:41:42Z",
+        "volume_24h": 638728.49,
+        "baseline": 206936.24,
+        "delta": 431792.24
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-04T23:24:27Z",
@@ -187,20 +201,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-12T06:16:45Z",
-      "severity": 1.6398,
-      "detail": {
-        "ts": "2026-10-12T06:16:45Z",
-        "volume_24h": 429174.96,
-        "baseline": 162576.44,
-        "delta": 266598.53
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-13T19:25:51Z",
@@ -210,20 +210,6 @@
         "volume_24h": 228545.09,
         "baseline": 89845.46,
         "delta": 138699.63
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-12T15:51:26Z",
-      "severity": 1.4956,
-      "detail": {
-        "ts": "2026-10-12T15:51:26Z",
-        "volume_24h": 519220.24,
-        "baseline": 208053.41,
-        "delta": 311166.83
       }
     },
     {
@@ -341,15 +327,15 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-12T23:07:21Z",
-      "severity": 1.2948,
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-06T07:48:20Z",
+      "severity": 1.2727,
       "detail": {
-        "ts": "2026-10-12T23:07:21Z",
-        "volume_24h": 578390.48,
-        "baseline": 252043.04,
-        "delta": 326347.44
+        "ts": "2026-10-06T07:48:20Z",
+        "volume_24h": 282655.18,
+        "baseline": 124369.34,
+        "delta": 158285.84
       }
     },
     {
@@ -411,6 +397,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-07T20:03:26Z",
+      "severity": 1.191,
+      "detail": {
+        "ts": "2026-10-07T20:03:26Z",
+        "volume_24h": 630154.37,
+        "baseline": 287605.36,
+        "delta": 342549.01
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-15T23:11:09Z",
@@ -448,34 +448,6 @@
         "volume_24h": 773605.69,
         "baseline": 370623.06,
         "delta": 402982.63
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-08T20:01:40Z",
-      "severity": 1.06,
-      "detail": {
-        "ts": "2026-10-08T20:01:40Z",
-        "volume_24h": 211292.82,
-        "baseline": 102568.38,
-        "delta": 108724.45
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-09T07:40:34Z",
-      "severity": 1.0443,
-      "detail": {
-        "ts": "2026-10-09T07:40:34Z",
-        "volume_24h": 254646.78,
-        "baseline": 124561.86,
-        "delta": 130084.93
       }
     },
     {
@@ -621,6 +593,34 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-08T00:18:11Z",
+      "severity": 0.8272,
+      "detail": {
+        "ts": "2026-10-08T00:18:11Z",
+        "volume_24h": 653784.66,
+        "baseline": 357807.26,
+        "delta": 295977.4
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-10T06:09:52Z",
+      "severity": 0.8072,
+      "detail": {
+        "ts": "2026-10-10T06:09:52Z",
+        "volume_24h": 342469.83,
+        "baseline": 189507.19,
+        "delta": 152962.64
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601830",
       "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T09:23:07Z",
@@ -761,6 +761,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-06T15:21:41Z",
+      "severity": 0.6917,
+      "detail": {
+        "ts": "2026-10-06T15:21:41Z",
+        "volume_24h": 277344.14,
+        "baseline": 163940.8,
+        "delta": 113403.34
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T18:41:24Z",
@@ -826,6 +840,34 @@
         "volume_24h": 378438.23,
         "baseline": 228774.18,
         "delta": 149664.05
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-13T19:25:51Z",
+      "severity": 0.6245,
+      "detail": {
+        "ts": "2026-10-13T19:25:51Z",
+        "volume_24h": 407164.32,
+        "baseline": 250640.16,
+        "delta": 156524.16
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562014",
+      "question": "Will John N. Kennedy win the 2028 Republican presidential nomination?",
+      "ts": "2026-10-19T14:50:25Z",
+      "severity": 0.6104,
+      "detail": {
+        "ts": "2026-10-19T14:50:25Z",
+        "volume_24h": 250000.0,
+        "baseline": 155245.6,
+        "delta": 94754.4
       }
     },
     {
@@ -929,6 +971,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-08T06:25:44Z",
+      "severity": 0.5484,
+      "detail": {
+        "ts": "2026-10-08T06:25:44Z",
+        "volume_24h": 663177.22,
+        "baseline": 428301.89,
+        "delta": 234875.33
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601818",
       "question": "Will Tarcisio de Freitas win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T07:04:58Z",
@@ -994,6 +1050,20 @@
         "volume_24h": 214399.53,
         "baseline": 140229.57,
         "delta": 74169.96
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-19T14:50:25Z",
+      "severity": 0.5205,
+      "detail": {
+        "ts": "2026-10-19T14:50:25Z",
+        "volume_24h": 242152.8,
+        "baseline": 159254.11,
+        "delta": 82898.69
       }
     },
     {
