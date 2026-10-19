@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 74,
+  "n_signals": 80,
   "signals": [
     {
       "type": "volume_spike",
@@ -187,6 +187,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562829",
+      "question": "2026 Balance of Power: D Senate, R House",
+      "ts": "2026-10-12T06:16:45Z",
+      "severity": 1.6398,
+      "detail": {
+        "ts": "2026-10-12T06:16:45Z",
+        "volume_24h": 429174.96,
+        "baseline": 162576.44,
+        "delta": 266598.53
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-13T19:25:51Z",
@@ -196,6 +210,20 @@
         "volume_24h": 228545.09,
         "baseline": 89845.46,
         "delta": 138699.63
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562829",
+      "question": "2026 Balance of Power: D Senate, R House",
+      "ts": "2026-10-12T15:51:26Z",
+      "severity": 1.4956,
+      "detail": {
+        "ts": "2026-10-12T15:51:26Z",
+        "volume_24h": 519220.24,
+        "baseline": 208053.41,
+        "delta": 311166.83
       }
     },
     {
@@ -313,6 +341,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562829",
+      "question": "2026 Balance of Power: D Senate, R House",
+      "ts": "2026-10-12T23:07:21Z",
+      "severity": 1.2948,
+      "detail": {
+        "ts": "2026-10-12T23:07:21Z",
+        "volume_24h": 578390.48,
+        "baseline": 252043.04,
+        "delta": 326347.44
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "559703",
       "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
       "ts": "2026-10-11T19:37:52Z",
@@ -411,6 +453,34 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562829",
+      "question": "2026 Balance of Power: D Senate, R House",
+      "ts": "2026-10-08T20:01:40Z",
+      "severity": 1.06,
+      "detail": {
+        "ts": "2026-10-08T20:01:40Z",
+        "volume_24h": 211292.82,
+        "baseline": 102568.38,
+        "delta": 108724.45
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562829",
+      "question": "2026 Balance of Power: D Senate, R House",
+      "ts": "2026-10-09T07:40:34Z",
+      "severity": 1.0443,
+      "detail": {
+        "ts": "2026-10-09T07:40:34Z",
+        "volume_24h": 254646.78,
+        "baseline": 124561.86,
+        "delta": 130084.93
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601922",
       "question": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
       "ts": "2026-10-04T23:24:27Z",
@@ -490,6 +560,20 @@
         "volume_24h": 784890.9,
         "baseline": 409603.73,
         "delta": 375287.17
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562014",
+      "question": "Will John N. Kennedy win the 2028 Republican presidential nomination?",
+      "ts": "2026-10-19T06:38:45Z",
+      "severity": 0.9024,
+      "detail": {
+        "ts": "2026-10-19T06:38:45Z",
+        "volume_24h": 250177.37,
+        "baseline": 131505.98,
+        "delta": 118671.39
       }
     },
     {
