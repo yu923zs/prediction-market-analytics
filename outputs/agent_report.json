@@ -1,6 +1,6 @@
 {
   "engine": "rules",
-  "summary": "15 markets tracked, 116 signals raised across 13 markets.",
+  "summary": "15 markets tracked, 107 signals raised across 12 markets.",
   "markets": [
     {
       "platform": "polymarket",
@@ -27,12 +27,12 @@
     },
     {
       "platform": "polymarket",
-      "market_id": "559703",
-      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
+      "market_id": "562830",
+      "question": "2026 Balance of Power: R Senate, D House",
       "signals": [
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-08T00:18:11Z\", \"volume_24h\": 694565.22, \"baseline\": 295555.37, \"delta\": 399009.85}); volume_spike ({\"ts\": \"2026-10-11T19:37:52Z\", \"volume_24h\": 483098.12, \"baseline\": 215228.97, \"delta\": 267869.15}); volume_spike ({\"ts\": \"2026-10-11T14:59:50Z\", \"volume_24h\": 483098.12, \"baseline\": 245946.02, \"delta\": 237152.1}); volume_spike ({\"ts\": \"2026-10-11T23:48:45Z\", \"volume_24h\": 483211.34, \"baseline\": 262303.65, \"delta\": 220907.69}); volume_spike ({\"ts\": \"2026-10-08T06:25:44Z\", \"volume_24h\": 697161.22, \"baseline\": 395307.83, \"delta\": 301853.39}); volume_spike ({\"ts\": \"2026-10-12T06:16:45Z\", \"volume_24h\": 483878.0, \"baseline\": 309859.66, \"delta\": 174018.34}); volume_spike ({\"ts\": \"2026-10-08T13:50:30Z\", \"volume_24h\": 698117.48, \"baseline\": 455678.51, \"delta\": 242438.98}). Prob now 0.0025, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-20T19:27:26Z\", \"volume_24h\": 513717.6, \"baseline\": 152871.8, \"delta\": 360845.79}); volume_spike ({\"ts\": \"2026-10-20T10:15:19Z\", \"volume_24h\": 268407.1, \"baseline\": 96069.56, \"delta\": 172337.54}); volume_spike ({\"ts\": \"2026-10-20T05:09:16Z\", \"volume_24h\": 185724.62, \"baseline\": 78280.15, \"delta\": 107444.47}); volume_spike ({\"ts\": \"2026-10-20T15:15:06Z\", \"volume_24h\": 293568.93, \"baseline\": 126063.63, \"delta\": 167505.3}). Prob now 0.275, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
     },
@@ -50,13 +50,24 @@
     },
     {
       "platform": "polymarket",
+      "market_id": "559703",
+      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
+      "signals": [
+        "volume_spike"
+      ],
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-08T00:18:11Z\", \"volume_24h\": 694565.22, \"baseline\": 295555.37, \"delta\": 399009.85}); volume_spike ({\"ts\": \"2026-10-11T19:37:52Z\", \"volume_24h\": 483098.12, \"baseline\": 215228.97, \"delta\": 267869.15}); volume_spike ({\"ts\": \"2026-10-11T14:59:50Z\", \"volume_24h\": 483098.12, \"baseline\": 245946.02, \"delta\": 237152.1}); volume_spike ({\"ts\": \"2026-10-11T23:48:45Z\", \"volume_24h\": 483211.34, \"baseline\": 262303.65, \"delta\": 220907.69}); volume_spike ({\"ts\": \"2026-10-08T06:25:44Z\", \"volume_24h\": 697161.22, \"baseline\": 395307.83, \"delta\": 301853.39}); volume_spike ({\"ts\": \"2026-10-12T06:16:45Z\", \"volume_24h\": 483878.0, \"baseline\": 309859.66, \"delta\": 174018.34}); volume_spike ({\"ts\": \"2026-10-08T13:50:30Z\", \"volume_24h\": 698117.48, \"baseline\": 455678.51, \"delta\": 242438.98}). Prob now 0.0025, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "confidence": "medium",
+      "suggested_action": "watch"
+    },
+    {
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "signals": [
         "prob_jump",
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 1844252.75, \"baseline\": 651232.36, \"delta\": 1193020.39}); volume_spike ({\"ts\": \"2026-10-18T04:53:37Z\", \"volume_24h\": 892194.06, \"baseline\": 365936.49, \"delta\": 526257.56}); volume_spike ({\"ts\": \"2026-10-18T09:46:24Z\", \"volume_24h\": 938152.88, \"baseline\": 421899.42, \"delta\": 516253.46}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 2005691.91, \"baseline\": 949487.46, \"delta\": 1056204.45}); volume_spike ({\"ts\": \"2026-10-18T14:05:24Z\", \"volume_24h\": 966067.13, \"baseline\": 485341.29, \"delta\": 480725.84}); volume_spike ({\"ts\": \"2026-10-14T18:47:09Z\", \"volume_24h\": 308215.17, \"baseline\": 167596.94, \"delta\": 140618.23}); volume_spike ({\"ts\": \"2026-10-18T17:27:52Z\", \"volume_24h\": 1004952.56, \"baseline\": 564309.31, \"delta\": 440643.25}); volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 2064119.28, \"baseline\": 1160728.35, \"delta\": 903390.93}); volume_spike ({\"ts\": \"2026-10-15T11:51:58Z\", \"volume_24h\": 503120.05, \"baseline\": 286264.4, \"delta\": 216855.65}); volume_spike ({\"ts\": \"2026-10-15T17:14:13Z\", \"volume_24h\": 563675.47, \"baseline\": 332224.79, \"delta\": 231450.68}); volume_spike ({\"ts\": \"2026-10-05T18:41:24Z\", \"volume_24h\": 2366959.59, \"baseline\": 1411466.11, \"delta\": 955493.48}); volume_spike ({\"ts\": \"2026-10-14T22:27:53Z\", \"volume_24h\": 326122.37, \"baseline\": 195278.59, \"delta\": 130843.77}); volume_spike ({\"ts\": \"2026-10-14T13:55:08Z\", \"volume_24h\": 244788.85, \"baseline\": 147129.65, \"delta\": 97659.2}); volume_spike ({\"ts\": \"2026-10-15T20:27:09Z\", \"volume_24h\": 636723.69, \"baseline\": 383827.42, \"delta\": 252896.27}); volume_spike ({\"ts\": \"2026-10-15T00:44:22Z\", \"volume_24h\": 378438.23, \"baseline\": 228774.18, \"delta\": 149664.05}); volume_spike ({\"ts\": \"2026-10-09T07:40:34Z\", \"volume_24h\": 678737.35, \"baseline\": 426338.02, \"delta\": 252399.32}); volume_spike ({\"ts\": \"2026-10-18T19:33:06Z\", \"volume_24h\": 1019671.78, \"baseline\": 655818.42, \"delta\": 363853.36}); volume_spike ({\"ts\": \"2026-10-09T15:26:49Z\", \"volume_24h\": 705839.32, \"baseline\": 455657.1, \"delta\": 250182.22}); volume_spike ({\"ts\": \"2026-10-05T09:23:07Z\", \"volume_24h\": 2012501.76, \"baseline\": 1311293.5, \"delta\": 701208.26}); volume_spike ({\"ts\": \"2026-10-15T23:11:09Z\", \"volume_24h\": 668565.71, \"baseline\": 439818.11, \"delta\": 228747.6}); prob_jump ({\"ts\": \"2026-10-04T21:00:20Z\", \"from\": 0.7215, \"to\": 0.8515, \"delta\": 0.13, \"zscore\": 6.47}); prob_jump ({\"ts\": \"2026-10-04T20:30:17Z\", \"from\": 0.6365, \"to\": 0.7215, \"delta\": 0.085, \"zscore\": 14.29}); prob_jump ({\"ts\": \"2026-10-02T07:00:11Z\", \"from\": 0.6045, \"to\": 0.545, \"delta\": -0.0595, \"zscore\": -16.21}). Prob now 0.7695, 1h change 0.0030000000000000027. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 1844252.75, \"baseline\": 651232.36, \"delta\": 1193020.39}); volume_spike ({\"ts\": \"2026-10-18T04:53:37Z\", \"volume_24h\": 892194.06, \"baseline\": 365936.49, \"delta\": 526257.56}); volume_spike ({\"ts\": \"2026-10-18T09:46:24Z\", \"volume_24h\": 938152.88, \"baseline\": 421899.42, \"delta\": 516253.46}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 2005691.91, \"baseline\": 949487.46, \"delta\": 1056204.45}); volume_spike ({\"ts\": \"2026-10-18T14:05:24Z\", \"volume_24h\": 966067.13, \"baseline\": 485341.29, \"delta\": 480725.84}); volume_spike ({\"ts\": \"2026-10-14T18:47:09Z\", \"volume_24h\": 308215.17, \"baseline\": 167596.94, \"delta\": 140618.23}); volume_spike ({\"ts\": \"2026-10-18T17:27:52Z\", \"volume_24h\": 1004952.56, \"baseline\": 564309.31, \"delta\": 440643.25}); volume_spike ({\"ts\": \"2026-10-05T07:04:58Z\", \"volume_24h\": 2064119.28, \"baseline\": 1160728.35, \"delta\": 903390.93}); volume_spike ({\"ts\": \"2026-10-15T11:51:58Z\", \"volume_24h\": 503120.05, \"baseline\": 286264.4, \"delta\": 216855.65}); volume_spike ({\"ts\": \"2026-10-15T17:14:13Z\", \"volume_24h\": 563675.47, \"baseline\": 332224.79, \"delta\": 231450.68}); volume_spike ({\"ts\": \"2026-10-05T18:41:24Z\", \"volume_24h\": 2366959.59, \"baseline\": 1411466.11, \"delta\": 955493.48}); volume_spike ({\"ts\": \"2026-10-14T22:27:53Z\", \"volume_24h\": 326122.37, \"baseline\": 195278.59, \"delta\": 130843.77}); volume_spike ({\"ts\": \"2026-10-14T13:55:08Z\", \"volume_24h\": 244788.85, \"baseline\": 147129.65, \"delta\": 97659.2}); volume_spike ({\"ts\": \"2026-10-15T20:27:09Z\", \"volume_24h\": 636723.69, \"baseline\": 383827.42, \"delta\": 252896.27}); volume_spike ({\"ts\": \"2026-10-15T00:44:22Z\", \"volume_24h\": 378438.23, \"baseline\": 228774.18, \"delta\": 149664.05}); volume_spike ({\"ts\": \"2026-10-09T07:40:34Z\", \"volume_24h\": 678737.35, \"baseline\": 426338.02, \"delta\": 252399.32}); volume_spike ({\"ts\": \"2026-10-18T19:33:06Z\", \"volume_24h\": 1019671.78, \"baseline\": 655818.42, \"delta\": 363853.36}); volume_spike ({\"ts\": \"2026-10-09T15:26:49Z\", \"volume_24h\": 705839.32, \"baseline\": 455657.1, \"delta\": 250182.22}); volume_spike ({\"ts\": \"2026-10-05T09:23:07Z\", \"volume_24h\": 2012501.76, \"baseline\": 1311293.5, \"delta\": 701208.26}); volume_spike ({\"ts\": \"2026-10-15T23:11:09Z\", \"volume_24h\": 668565.71, \"baseline\": 439818.11, \"delta\": 228747.6}); prob_jump ({\"ts\": \"2026-10-04T21:00:20Z\", \"from\": 0.7215, \"to\": 0.8515, \"delta\": 0.13, \"zscore\": 6.47}); prob_jump ({\"ts\": \"2026-10-04T20:30:17Z\", \"from\": 0.6365, \"to\": 0.7215, \"delta\": 0.085, \"zscore\": 14.29}); prob_jump ({\"ts\": \"2026-10-02T07:00:11Z\", \"from\": 0.6045, \"to\": 0.545, \"delta\": -0.0595, \"zscore\": -16.21}). Prob now 0.7745, 1h change 0.0040000000000000036. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "investigate"
     },
@@ -78,7 +89,7 @@
       "signals": [
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-20T10:15:19Z\", \"volume_24h\": 274652.93, \"baseline\": 103457.91, \"delta\": 171195.02}); volume_spike ({\"ts\": \"2026-10-20T15:15:06Z\", \"volume_24h\": 313477.5, \"baseline\": 132430.46, \"delta\": 181047.04}); volume_spike ({\"ts\": \"2026-10-20T00:29:44Z\", \"volume_24h\": 163854.81, \"baseline\": 74371.42, \"delta\": 89483.38}); volume_spike ({\"ts\": \"2026-10-20T05:09:16Z\", \"volume_24h\": 182000.48, \"baseline\": 86985.7, \"delta\": 95014.78}); volume_spike ({\"ts\": \"2026-10-15T23:11:09Z\", \"volume_24h\": 152200.03, \"baseline\": 82703.43, \"delta\": 69496.6}); volume_spike ({\"ts\": \"2026-10-19T20:40:03Z\", \"volume_24h\": 116248.64, \"baseline\": 67590.28, \"delta\": 48658.36}); volume_spike ({\"ts\": \"2026-10-16T01:33:38Z\", \"volume_24h\": 150931.38, \"baseline\": 89655.97, \"delta\": 61275.42}); volume_spike ({\"ts\": \"2026-10-15T20:27:09Z\", \"volume_24h\": 134196.5, \"baseline\": 84263.58, \"delta\": 49932.92}); volume_spike ({\"ts\": \"2026-10-14T02:03:01Z\", \"volume_24h\": 148044.44, \"baseline\": 94487.57, \"delta\": 53556.86}); volume_spike ({\"ts\": \"2026-10-13T23:22:22Z\", \"volume_24h\": 135507.21, \"baseline\": 87472.57, \"delta\": 48034.64}). Prob now 0.053, 1h change -0.0075. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-20T10:15:19Z\", \"volume_24h\": 274652.93, \"baseline\": 103457.91, \"delta\": 171195.02}); volume_spike ({\"ts\": \"2026-10-20T15:15:06Z\", \"volume_24h\": 313477.5, \"baseline\": 132430.46, \"delta\": 181047.04}); volume_spike ({\"ts\": \"2026-10-20T00:29:44Z\", \"volume_24h\": 163854.81, \"baseline\": 74371.42, \"delta\": 89483.38}); volume_spike ({\"ts\": \"2026-10-20T05:09:16Z\", \"volume_24h\": 182000.48, \"baseline\": 86985.7, \"delta\": 95014.78}); volume_spike ({\"ts\": \"2026-10-20T19:27:26Z\", \"volume_24h\": 323804.97, \"baseline\": 168802.84, \"delta\": 155002.13}); volume_spike ({\"ts\": \"2026-10-15T23:11:09Z\", \"volume_24h\": 152200.03, \"baseline\": 82703.43, \"delta\": 69496.6}); volume_spike ({\"ts\": \"2026-10-19T20:40:03Z\", \"volume_24h\": 116248.64, \"baseline\": 67590.28, \"delta\": 48658.36}); volume_spike ({\"ts\": \"2026-10-16T01:33:38Z\", \"volume_24h\": 150931.38, \"baseline\": 89655.97, \"delta\": 61275.42}); volume_spike ({\"ts\": \"2026-10-15T20:27:09Z\", \"volume_24h\": 134196.5, \"baseline\": 84263.58, \"delta\": 49932.92}); volume_spike ({\"ts\": \"2026-10-14T02:03:01Z\", \"volume_24h\": 148044.44, \"baseline\": 94487.57, \"delta\": 53556.86}); volume_spike ({\"ts\": \"2026-10-13T23:22:22Z\", \"volume_24h\": 135507.21, \"baseline\": 87472.57, \"delta\": 48034.64}). Prob now 0.0455, 1h change -0.006499999999999999. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
     },
@@ -95,23 +106,12 @@
     },
     {
       "platform": "polymarket",
-      "market_id": "562830",
-      "question": "2026 Balance of Power: R Senate, D House",
-      "signals": [
-        "volume_spike"
-      ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-20T10:15:19Z\", \"volume_24h\": 268407.1, \"baseline\": 96069.56, \"delta\": 172337.54}); volume_spike ({\"ts\": \"2026-10-20T05:09:16Z\", \"volume_24h\": 185724.62, \"baseline\": 78280.15, \"delta\": 107444.47}); volume_spike ({\"ts\": \"2026-10-20T15:15:06Z\", \"volume_24h\": 293568.93, \"baseline\": 126063.63, \"delta\": 167505.3}). Prob now 0.275, 1h change 0.0. Rule-based view: review the underlying news before acting.",
-      "confidence": "medium",
-      "suggested_action": "watch"
-    },
-    {
-      "platform": "polymarket",
       "market_id": "608541",
       "question": "Will Erling Haaland win the 2026 Ballon d'Or?",
       "signals": [
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-20T05:09:16Z\", \"volume_24h\": 251370.18, \"baseline\": 108344.11, \"delta\": 143026.07}); volume_spike ({\"ts\": \"2026-10-20T10:15:19Z\", \"volume_24h\": 257457.72, \"baseline\": 127275.31, \"delta\": 130182.41}); volume_spike ({\"ts\": \"2026-10-20T15:15:06Z\", \"volume_24h\": 259436.67, \"baseline\": 151378.6, \"delta\": 108058.07}); volume_spike ({\"ts\": \"2026-10-13T03:43:07Z\", \"volume_24h\": 116028.96, \"baseline\": 69391.93, \"delta\": 46637.03}); volume_spike ({\"ts\": \"2026-10-13T12:00:59Z\", \"volume_24h\": 118851.83, \"baseline\": 78719.33, \"delta\": 40132.5}). Prob now 0.0015, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-20T05:09:16Z\", \"volume_24h\": 251370.18, \"baseline\": 108344.11, \"delta\": 143026.07}); volume_spike ({\"ts\": \"2026-10-20T10:15:19Z\", \"volume_24h\": 257457.72, \"baseline\": 127275.31, \"delta\": 130182.41}); volume_spike ({\"ts\": \"2026-10-20T15:15:06Z\", \"volume_24h\": 259436.67, \"baseline\": 151378.6, \"delta\": 108058.07}); volume_spike ({\"ts\": \"2026-10-20T19:27:26Z\", \"volume_24h\": 300179.96, \"baseline\": 175904.42, \"delta\": 124275.55}); volume_spike ({\"ts\": \"2026-10-13T03:43:07Z\", \"volume_24h\": 116028.96, \"baseline\": 69391.93, \"delta\": 46637.03}); volume_spike ({\"ts\": \"2026-10-13T12:00:59Z\", \"volume_24h\": 118851.83, \"baseline\": 78719.33, \"delta\": 40132.5}). Prob now 0.0015, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
       "suggested_action": "watch"
     },
@@ -128,17 +128,6 @@
     },
     {
       "platform": "polymarket",
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "signals": [
-        "volume_spike"
-      ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-15T06:07:52Z\", \"volume_24h\": 462450.37, \"baseline\": 178744.33, \"delta\": 283706.04}); volume_spike ({\"ts\": \"2026-10-20T15:15:06Z\", \"volume_24h\": 245311.07, \"baseline\": 96639.51, \"delta\": 148671.56}); volume_spike ({\"ts\": \"2026-10-15T11:51:58Z\", \"volume_24h\": 562806.8, \"baseline\": 229726.22, \"delta\": 333080.58}); volume_spike ({\"ts\": \"2026-10-20T10:15:19Z\", \"volume_24h\": 178753.68, \"baseline\": 83912.25, \"delta\": 94841.43}); volume_spike ({\"ts\": \"2026-10-11T01:06:40Z\", \"volume_24h\": 313197.56, \"baseline\": 152275.07, \"delta\": 160922.48}); volume_spike ({\"ts\": \"2026-10-15T17:14:13Z\", \"volume_24h\": 553242.9, \"baseline\": 296500.65, \"delta\": 256742.25}); volume_spike ({\"ts\": \"2026-10-07T06:16:23Z\", \"volume_24h\": 424668.38, \"baseline\": 231788.51, \"delta\": 192879.88}); volume_spike ({\"ts\": \"2026-10-11T07:32:03Z\", \"volume_24h\": 314974.07, \"baseline\": 179053.15, \"delta\": 135920.92}); volume_spike ({\"ts\": \"2026-10-15T20:27:09Z\", \"volume_24h\": 607361.56, \"baseline\": 352441.24, \"delta\": 254920.32}); volume_spike ({\"ts\": \"2026-10-15T00:44:22Z\", \"volume_24h\": 248761.86, \"baseline\": 154603.73, \"delta\": 94158.13}); volume_spike ({\"ts\": \"2026-10-15T23:11:09Z\", \"volume_24h\": 660787.5, \"baseline\": 412261.98, \"delta\": 248525.51}); volume_spike ({\"ts\": \"2026-10-14T22:27:53Z\", \"volume_24h\": 250236.97, \"baseline\": 159769.68, \"delta\": 90467.28}). Prob now 0.915, 1h change 0.0. Rule-based view: review the underlying news before acting.",
-      "confidence": "medium",
-      "suggested_action": "watch"
-    },
-    {
-      "platform": "polymarket",
       "market_id": "560317",
       "question": "Putin out as President of Russia by December 31, 2026?",
       "signals": [
@@ -149,5 +138,5 @@
       "suggested_action": "watch"
     }
   ],
-  "generated_at": "2026-10-20T15:15:07Z"
+  "generated_at": "2026-10-20T19:27:26Z"
 }
