@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 87,
+  "n_signals": 91,
   "signals": [
     {
       "type": "volume_spike",
@@ -322,6 +322,20 @@
         "volume_24h": 250224.37,
         "baseline": 107759.64,
         "delta": 142464.73
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608541",
+      "question": "Will Erling Haaland win the 2026 Ballon d'Or?",
+      "ts": "2026-10-20T05:09:16Z",
+      "severity": 1.3201,
+      "detail": {
+        "ts": "2026-10-20T05:09:16Z",
+        "volume_24h": 251370.18,
+        "baseline": 108344.11,
+        "delta": 143026.07
       }
     },
     {
@@ -803,6 +817,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "ts": "2026-10-20T05:09:16Z",
+      "severity": 0.6786,
+      "detail": {
+        "ts": "2026-10-20T05:09:16Z",
+        "volume_24h": 239428.07,
+        "baseline": 142635.9,
+        "delta": 96792.17
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T18:41:24Z",
@@ -812,6 +840,20 @@
         "volume_24h": 2366959.59,
         "baseline": 1411466.11,
         "delta": 955493.48
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608541",
+      "question": "Will Erling Haaland win the 2026 Ballon d'Or?",
+      "ts": "2026-10-13T03:43:07Z",
+      "severity": 0.6721,
+      "detail": {
+        "ts": "2026-10-13T03:43:07Z",
+        "volume_24h": 116028.96,
+        "baseline": 69391.93,
+        "delta": 46637.03
       }
     },
     {
@@ -1106,6 +1148,20 @@
         "volume_24h": 668565.71,
         "baseline": 439818.11,
         "delta": 228747.6
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608541",
+      "question": "Will Erling Haaland win the 2026 Ballon d'Or?",
+      "ts": "2026-10-13T12:00:59Z",
+      "severity": 0.5098,
+      "detail": {
+        "ts": "2026-10-13T12:00:59Z",
+        "volume_24h": 118851.83,
+        "baseline": 78719.33,
+        "delta": 40132.5
       }
     },
     {
