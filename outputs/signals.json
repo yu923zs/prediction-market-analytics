@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 91,
+  "n_signals": 101,
   "signals": [
     {
       "type": "volume_spike",
@@ -201,6 +201,34 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562830",
+      "question": "2026 Balance of Power: R Senate, D House",
+      "ts": "2026-10-20T10:15:19Z",
+      "severity": 1.7939,
+      "detail": {
+        "ts": "2026-10-20T10:15:19Z",
+        "volume_24h": 268407.1,
+        "baseline": 96069.56,
+        "delta": 172337.54
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-20T10:15:19Z",
+      "severity": 1.6547,
+      "detail": {
+        "ts": "2026-10-20T10:15:19Z",
+        "volume_24h": 274652.93,
+        "baseline": 103457.91,
+        "delta": 171195.02
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-13T19:25:51Z",
@@ -266,6 +294,20 @@
         "volume_24h": 1288061.57,
         "baseline": 538197.98,
         "delta": 749863.59
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562830",
+      "question": "2026 Balance of Power: R Senate, D House",
+      "ts": "2026-10-20T05:09:16Z",
+      "severity": 1.3726,
+      "detail": {
+        "ts": "2026-10-20T05:09:16Z",
+        "volume_24h": 185724.62,
+        "baseline": 78280.15,
+        "delta": 107444.47
       }
     },
     {
@@ -411,6 +453,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-20T00:29:44Z",
+      "severity": 1.2032,
+      "detail": {
+        "ts": "2026-10-20T00:29:44Z",
+        "volume_24h": 163854.81,
+        "baseline": 74371.42,
+        "delta": 89483.38
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "560317",
       "question": "Putin out as President of Russia by December 31, 2026?",
       "ts": "2026-10-07T20:03:26Z",
@@ -453,6 +509,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-20T05:09:16Z",
+      "severity": 1.0923,
+      "detail": {
+        "ts": "2026-10-20T05:09:16Z",
+        "volume_24h": 182000.48,
+        "baseline": 86985.7,
+        "delta": 95014.78
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-18T04:53:37Z",
@@ -467,15 +537,15 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "601922",
-      "question": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
-      "ts": "2026-10-04T23:24:27Z",
-      "severity": 1.0195,
+      "market_id": "608541",
+      "question": "Will Erling Haaland win the 2026 Ballon d'Or?",
+      "ts": "2026-10-20T10:15:19Z",
+      "severity": 1.0228,
       "detail": {
-        "ts": "2026-10-04T23:24:27Z",
-        "volume_24h": 225676.79,
-        "baseline": 111747.16,
-        "delta": 113929.63
+        "ts": "2026-10-20T10:15:19Z",
+        "volume_24h": 257457.72,
+        "baseline": 127275.31,
+        "delta": 130182.41
       }
     },
     {
@@ -588,6 +658,20 @@
         "volume_24h": 483211.34,
         "baseline": 262303.65,
         "delta": 220907.69
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-15T23:11:09Z",
+      "severity": 0.8403,
+      "detail": {
+        "ts": "2026-10-15T23:11:09Z",
+        "volume_24h": 152200.03,
+        "baseline": 82703.43,
+        "delta": 69496.6
       }
     },
     {
@@ -789,6 +873,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-19T20:40:03Z",
+      "severity": 0.7199,
+      "detail": {
+        "ts": "2026-10-19T20:40:03Z",
+        "volume_24h": 116248.64,
+        "baseline": 67590.28,
+        "delta": 48658.36
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-15T17:14:13Z",
@@ -812,6 +910,20 @@
         "volume_24h": 277344.14,
         "baseline": 163940.8,
         "delta": 113403.34
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-16T01:33:38Z",
+      "severity": 0.6835,
+      "detail": {
+        "ts": "2026-10-16T01:33:38Z",
+        "volume_24h": 150931.38,
+        "baseline": 89655.97,
+        "delta": 61275.42
       }
     },
     {
@@ -943,6 +1055,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-15T20:27:09Z",
+      "severity": 0.5926,
+      "detail": {
+        "ts": "2026-10-15T20:27:09Z",
+        "volume_24h": 134196.5,
+        "baseline": 84263.58,
+        "delta": 49932.92
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-09T07:40:34Z",
@@ -999,6 +1125,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-14T02:03:01Z",
+      "severity": 0.5668,
+      "detail": {
+        "ts": "2026-10-14T02:03:01Z",
+        "volume_24h": 148044.44,
+        "baseline": 94487.57,
+        "delta": 53556.86
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "559703",
       "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
       "ts": "2026-10-12T06:16:45Z",
@@ -1036,6 +1176,20 @@
         "volume_24h": 705839.32,
         "baseline": 455657.1,
         "delta": 250182.22
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-13T23:22:22Z",
+      "severity": 0.5491,
+      "detail": {
+        "ts": "2026-10-13T23:22:22Z",
+        "volume_24h": 135507.21,
+        "baseline": 87472.57,
+        "delta": 48034.64
       }
     },
     {
@@ -1106,20 +1260,6 @@
         "volume_24h": 698117.48,
         "baseline": 455678.51,
         "delta": 242438.98
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "601922",
-      "question": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
-      "ts": "2026-10-05T02:13:41Z",
-      "severity": 0.5289,
-      "detail": {
-        "ts": "2026-10-05T02:13:41Z",
-        "volume_24h": 214399.53,
-        "baseline": 140229.57,
-        "delta": 74169.96
       }
     },
     {
