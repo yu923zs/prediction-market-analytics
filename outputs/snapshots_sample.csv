@@ -1,7 +1,7 @@
 ts,platform,market_id,question,prob,bid,ask,volume_24h,volume_native,liquidity,end_date
 2026-10-18T04:53:37Z,polymarket,559651,Xi Jinping out before 2027?,0.0265,,,75734.761064,,513634.62587,2027-01-01T04:59:00Z
 2026-10-09T07:40:34Z,polymarket,559655,Will Josh Shapiro win the 2028 Democratic presidential nomination?,0.0565,,,76373.434376,,311448.63349,2028-11-08T04:59:00Z
-2026-10-21T14:00:31Z,polymarket,559656,Will Wes Moore win the 2028 Democratic presidential nomination?,0.0205,,,135864.10285,,339378.49108,2028-11-08T04:59:00Z
+2026-10-21T18:48:06Z,polymarket,559656,Will Wes Moore win the 2028 Democratic presidential nomination?,0.0205,,,135864.10285,,347288.84818,2028-11-08T04:59:00Z
 2026-10-20T22:30:42Z,polymarket,559657,Will Stephen A. Smith win the 2028 Democratic presidential nomination?,0.0015,,,101580.26500000001,,1817978.76162,2028-11-08T04:59:00Z
 2026-10-17T19:36:21Z,polymarket,559658,Will Kamala Harris win the 2028 Democratic presidential nomination?,0.0705,,,78667.481536,,411167.92172,2028-11-08T04:59:00Z
 2026-10-12T23:07:21Z,polymarket,559661,Will Jon Ossoff win the 2028 Democratic presidential nomination?,0.1445,,,59835.60187900001,,378318.27003,2028-11-08T04:59:00Z
@@ -21,7 +21,7 @@ ts,platform,market_id,question,prob,bid,ask,volume_24h,volume_native,liquidity,e
 2026-10-08T06:25:44Z,polymarket,559702,Will Alex Padilla win the 2028 Democratic presidential nomination?,0.0005,,,106000.0,,1789264.05382,2028-11-08T04:59:00Z
 2026-10-12T06:16:45Z,polymarket,559703,Will Chris Van Hollen win the 2028 Democratic presidential nomination?,0.0025,,,483878.003334,,212406.16775,2028-11-08T04:59:00Z
 2026-10-04T19:44:13Z,polymarket,559704,Will Mitch Landrieu win the 2028 Democratic presidential nomination?,0.0015,,,97413.444,,1124622.87368,2028-11-08T04:59:00Z
-2026-10-21T14:00:31Z,polymarket,560317,"Putin out as President of Russia by December 31, 2026?",0.0185,,,270012.382147,,726234.33664,2027-01-01T04:59:00Z
+2026-10-21T18:48:06Z,polymarket,560317,"Putin out as President of Russia by December 31, 2026?",0.0175,,,289998.391966,,722873.63891,2027-01-01T04:59:00Z
 2026-10-11T23:48:45Z,polymarket,561229,Will JD Vance win the 2028 US Presidential Election?,0.196,,,238383.1270379999,,421624.53191,2028-11-08T04:59:00Z
 2026-10-06T00:54:10Z,polymarket,561231,Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?,0.1525,,,84779.671206,,371367.25462,2028-11-08T04:59:00Z
 2026-10-08T06:25:44Z,polymarket,561234,Will Marco Rubio win the 2028 US Presidential Election?,0.0695,,,183958.04187299992,,337082.17713,2028-11-08T04:59:00Z
@@ -46,32 +46,32 @@ ts,platform,market_id,question,prob,bid,ask,volume_24h,volume_native,liquidity,e
 2026-10-19T14:50:25Z,polymarket,562012,Will Doug Burgum win the 2028 Republican presidential nomination?,0.001,,,250000.0,,510867.59316,2028-11-08T04:59:00Z
 2026-10-19T14:50:25Z,polymarket,562014,Will John N. Kennedy win the 2028 Republican presidential nomination?,0.0015,,,250000.0,,1171945.1646,2028-11-08T04:59:00Z
 2026-10-11T19:37:52Z,polymarket,562016,Will John McEntee win the 2028 Republican presidential nomination?,0.0015,,,145670.05,,841399.4867,2028-11-07T00:00:00Z
-2026-10-21T14:00:31Z,polymarket,562793,Will the Democratic Party control the Senate after the 2026 Midterm elections?,0.645,,,142901.55159300007,,2783739.1743,2026-11-04T04:59:00Z
-2026-10-21T07:52:57Z,polymarket,562794,Will the Republican Party control the Senate after the 2026 Midterm elections?,0.355,,,142239.218824,,3478468.8698,2026-11-04T04:59:00Z
-2026-10-21T14:00:31Z,polymarket,562802,Will the Democratic Party control the House after the 2026 Midterm elections?,0.915,,,210367.742054,,3396110.0656,2026-11-04T04:59:00Z
-2026-10-21T07:52:57Z,polymarket,562803,Will the Republican Party control the House after the 2026 Midterm elections?,0.085,,,137026.49818000002,,2821604.5548,2026-11-04T04:59:00Z
-2026-10-21T14:00:31Z,polymarket,562828,"2026 Balance of Power: D Senate, D House",0.635,,,503299.531554,,3445544.8804,2026-11-04T04:59:00Z
+2026-10-21T18:48:06Z,polymarket,562793,Will the Democratic Party control the Senate after the 2026 Midterm elections?,0.655,,,142243.90561900006,,3312900.2825,2026-11-04T04:59:00Z
+2026-10-21T18:48:06Z,polymarket,562794,Will the Republican Party control the Senate after the 2026 Midterm elections?,0.345,,,143318.496183,,3824285.4358,2026-11-04T04:59:00Z
+2026-10-21T18:48:06Z,polymarket,562802,Will the Democratic Party control the House after the 2026 Midterm elections?,0.915,,,291437.663913,,3927883.5963,2026-11-04T04:59:00Z
+2026-10-21T18:48:06Z,polymarket,562803,Will the Republican Party control the House after the 2026 Midterm elections?,0.085,,,180433.42276400002,,2959701.8695,2026-11-04T04:59:00Z
+2026-10-21T18:48:06Z,polymarket,562828,"2026 Balance of Power: D Senate, D House",0.645,,,555872.932778,,3873280.4624,2026-11-04T04:59:00Z
 2026-10-20T00:29:44Z,polymarket,562829,"2026 Balance of Power: D Senate, R House",0.0095,,,154328.276334,,970681.64835,2026-11-04T04:59:00Z
-2026-10-21T14:00:31Z,polymarket,562830,"2026 Balance of Power: R Senate, D House",0.275,,,663622.5952,,2844623.6326,2026-11-04T04:59:00Z
-2026-10-21T14:00:31Z,polymarket,562831,"2026 Balance of Power: R Senate, R House",0.085,,,805676.81359,,3833255.1696,2026-11-04T04:59:00Z
+2026-10-21T18:48:06Z,polymarket,562830,"2026 Balance of Power: R Senate, D House",0.265,,,524881.9987670002,,2490585.2844,2026-11-04T04:59:00Z
+2026-10-21T18:48:06Z,polymarket,562831,"2026 Balance of Power: R Senate, R House",0.075,,,897921.040787,,3801828.2851,2026-11-04T04:59:00Z
 2026-10-19T01:29:07Z,polymarket,562832,2026 Balance of Power: Other,0.0015,,,136541.401,,218325.15984,2026-11-04T04:59:00Z
 2026-10-21T14:00:31Z,polymarket,567621,Will China invade Taiwan by end of 2026?,0.0225,,,143741.69213599994,,444888.16148,2027-01-01T04:59:00Z
 2026-10-11T14:59:50Z,polymarket,567689,Zelenskyy out as Ukraine president by end of 2026?,0.065,,,65475.38669600001,,138829.2403,2027-01-01T04:59:00Z
 2026-10-05T07:04:58Z,polymarket,601818,Will Tarcisio de Freitas win the 2026 Brazilian presidential election?,0.0005,,,302840.0,,1358502.71853,2026-10-05T03:59:00Z
-2026-10-21T14:00:31Z,polymarket,601819,Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?,0.215,,,814804.2509730001,,504282.6577,2026-10-05T03:59:00Z
+2026-10-21T18:48:06Z,polymarket,601819,Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?,0.215,,,910587.2155549998,,482101.5457,2026-10-05T03:59:00Z
 2026-10-05T09:23:07Z,polymarket,601825,Will Renan Santos win the 2026 Brazilian presidential election?,0.0005,,,322292.85399999993,,957057.7175,2026-10-05T03:59:00Z
-2026-10-21T14:00:31Z,polymarket,601826,Will Flávio Bolsonaro win the 2026 Brazilian presidential election?,0.7885,,,706830.576932,,514188.77092,2026-10-05T03:59:00Z
+2026-10-21T18:48:06Z,polymarket,601826,Will Flávio Bolsonaro win the 2026 Brazilian presidential election?,0.7885,,,888000.8793470002,,495363.75083,2026-10-05T03:59:00Z
 2026-10-05T09:23:07Z,polymarket,601830,Will Geraldo Alckmin win the 2026 Brazilian presidential election?,0.0015,,,1010265.644,,125641.22917,2026-10-05T03:59:00Z
 2026-10-05T09:23:07Z,polymarket,601836,Will Augusto Cury win the 2026 Brazilian presidential election?,0.0005,,,131022.54,,927956.84458,2026-10-05T03:59:00Z
 2026-10-05T02:13:41Z,polymarket,601920,Will any presidential candidate win outright in the first round of the Brazil election?,0.0005,,,826097.227586,,163195.82172,2026-10-05T03:59:00Z
 2026-10-05T02:13:41Z,polymarket,601922,Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?,0.9995,,,214399.52867499998,,79552.15044,2026-10-05T03:59:00Z
-2026-10-21T14:00:31Z,polymarket,608540,Will Kylian Mbappé win the 2026 Ballon d'Or?,0.0435,,,341106.235228,,113475.56193,2027-01-01T04:59:00Z
-2026-10-21T14:00:31Z,polymarket,608541,Will Erling Haaland win the 2026 Ballon d'Or?,0.001,,,196599.55899999998,,435231.13529,2027-01-01T04:59:00Z
+2026-10-21T18:48:06Z,polymarket,608540,Will Kylian Mbappé win the 2026 Ballon d'Or?,0.0445,,,294870.785399,,144900.33205,2026-10-27T03:59:00Z
+2026-10-21T18:48:06Z,polymarket,608541,Will Erling Haaland win the 2026 Ballon d'Or?,0.0015,,,198375.14899999998,,484524.50815,2026-10-27T03:59:00Z
 2026-10-18T00:13:25Z,polymarket,608543,Will Ousmane Dembélé win the 2026 Ballon d'Or?,0.0025,,,96114.232836,,362767.50741,2027-01-01T04:59:00Z
-2026-10-21T14:00:31Z,polymarket,608545,Will Lamine Yamal win the 2026 Ballon d'Or?,0.1895,,,199005.83535900002,,159558.68384,2027-01-01T04:59:00Z
+2026-10-21T18:48:06Z,polymarket,608545,Will Lamine Yamal win the 2026 Ballon d'Or?,0.1795,,,168377.01556199996,,184428.57774,2026-10-27T03:59:00Z
 2026-10-21T01:48:40Z,polymarket,608547,Will Harry Kane win the 2026 Ballon d'Or?,0.7335,,,125713.77236199999,,129914.16221,2027-01-01T04:59:00Z
 2026-10-20T15:15:06Z,polymarket,608551,Will Michael Olise win the 2026 Ballon d'Or?,0.0015,,,93820.598,,532951.59704,2027-01-01T04:59:00Z
-2026-10-21T14:00:31Z,polymarket,608553,Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?,0.0025,,,135272.965312,,217196.91364,2027-01-01T04:59:00Z
+2026-10-21T18:48:06Z,polymarket,608553,Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?,0.0025,,,158929.202318,,245726.92796,2026-10-27T03:59:00Z
 2026-10-20T15:15:06Z,polymarket,608565,Will Lionel Messi win the 2026 Ballon d'Or?,0.023,,,120975.58919999999,,219539.00585,2027-01-01T04:59:00Z
 2026-10-21T07:52:57Z,polymarket,608566,Will Rodri win the 2026 Ballon d'Or?,0.0045,,,163807.991703,,379861.35208,2027-01-01T04:59:00Z
 2026-10-16T23:46:50Z,polymarket,608568,Will Fabian Ruiz win the 2026 Ballon d'Or?,0.0015,,,73645.346834,,220530.3156,2026-10-31T00:00:00Z
