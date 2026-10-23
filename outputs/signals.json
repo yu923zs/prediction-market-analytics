@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 139,
+  "n_signals": 142,
   "signals": [
     {
       "type": "volume_spike",
@@ -887,6 +887,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608547",
+      "question": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "ts": "2026-10-23T01:43:34Z",
+      "severity": 0.8654,
+      "detail": {
+        "ts": "2026-10-23T01:43:34Z",
+        "volume_24h": 321577.54,
+        "baseline": 172390.78,
+        "delta": 149186.76
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "559703",
       "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
       "ts": "2026-10-11T23:48:45Z",
@@ -1545,6 +1559,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-23T01:43:34Z",
+      "severity": 0.5882,
+      "detail": {
+        "ts": "2026-10-23T01:43:34Z",
+        "volume_24h": 430439.3,
+        "baseline": 271023.64,
+        "delta": 159415.66
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "562802",
       "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
       "ts": "2026-10-21T22:34:11Z",
@@ -1713,20 +1741,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "601818",
-      "question": "Will Tarcisio de Freitas win the 2026 Brazilian presidential election?",
-      "ts": "2026-10-05T07:04:58Z",
-      "severity": 0.5458,
-      "detail": {
-        "ts": "2026-10-05T07:04:58Z",
-        "volume_24h": 302840.0,
-        "baseline": 195910.0,
-        "delta": 106930.0
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "562828",
       "question": "2026 Balance of Power: D Senate, D House",
       "ts": "2026-10-15T06:07:52Z",
@@ -1837,6 +1851,20 @@
       }
     },
     {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608547",
+      "question": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "ts": "2026-10-20T05:09:16Z",
+      "severity": 0.5048,
+      "detail": {
+        "ts": "2026-10-20T05:09:16Z",
+        "volume_24h": 148957.17,
+        "baseline": 98990.43,
+        "delta": 49966.74
+      }
+    },
+    {
       "type": "prob_jump",
       "platform": "polymarket",
       "market_id": "601819",
@@ -1924,6 +1952,21 @@
         "to": 0.285,
         "delta": -0.08,
         "zscore": -10.33
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "608547",
+      "question": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "ts": "2026-10-09T18:00:58Z",
+      "severity": 0.0635,
+      "detail": {
+        "ts": "2026-10-09T18:00:58Z",
+        "from": 0.563,
+        "to": 0.6265,
+        "delta": 0.0635,
+        "zscore": 17.79
       }
     },
     {
