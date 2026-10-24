@@ -1,7 +1,21 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 130,
+  "n_signals": 133,
   "signals": [
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562829",
+      "question": "2026 Balance of Power: D Senate, R House",
+      "ts": "2026-10-24T06:08:23Z",
+      "severity": 6.0011,
+      "detail": {
+        "ts": "2026-10-24T06:08:23Z",
+        "volume_24h": 2972980.62,
+        "baseline": 424645.47,
+        "delta": 2548335.16
+      }
+    },
     {
       "type": "volume_spike",
       "platform": "polymarket",
@@ -985,6 +999,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-24T06:08:23Z",
+      "severity": 0.8055,
+      "detail": {
+        "ts": "2026-10-24T06:08:23Z",
+        "volume_24h": 787862.32,
+        "baseline": 436368.12,
+        "delta": 351494.2
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601830",
       "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T09:23:07Z",
@@ -1610,6 +1638,20 @@
         "volume_24h": 252484.3,
         "baseline": 163505.59,
         "delta": 88978.71
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-24T06:08:23Z",
+      "severity": 0.5385,
+      "detail": {
+        "ts": "2026-10-24T06:08:23Z",
+        "volume_24h": 1010341.94,
+        "baseline": 656704.85,
+        "delta": 353637.09
       }
     },
     {
