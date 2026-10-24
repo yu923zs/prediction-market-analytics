@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 153,
+  "n_signals": 148,
   "signals": [
     {
       "type": "volume_spike",
@@ -523,20 +523,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "559703",
-      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-08T00:18:11Z",
-      "severity": 1.35,
-      "detail": {
-        "ts": "2026-10-08T00:18:11Z",
-        "volume_24h": 694565.22,
-        "baseline": 295555.37,
-        "delta": 399009.85
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-14T13:55:08Z",
@@ -574,20 +560,6 @@
         "volume_24h": 578390.48,
         "baseline": 252043.04,
         "delta": 326347.44
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "559703",
-      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-11T19:37:52Z",
-      "severity": 1.2446,
-      "detail": {
-        "ts": "2026-10-11T19:37:52Z",
-        "volume_24h": 483098.12,
-        "baseline": 215228.97,
-        "delta": 267869.15
       }
     },
     {
@@ -700,6 +672,20 @@
         "volume_24h": 1015174.24,
         "baseline": 466857.8,
         "delta": 548316.44
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-24T21:01:49Z",
+      "severity": 1.1539,
+      "detail": {
+        "ts": "2026-10-24T21:01:49Z",
+        "volume_24h": 809847.36,
+        "baseline": 375991.51,
+        "delta": 433855.85
       }
     },
     {
@@ -845,20 +831,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "559703",
-      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-11T14:59:50Z",
-      "severity": 0.9642,
-      "detail": {
-        "ts": "2026-10-11T14:59:50Z",
-        "volume_24h": 483098.12,
-        "baseline": 245946.02,
-        "delta": 237152.1
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "562831",
       "question": "2026 Balance of Power: R Senate, R House",
       "ts": "2026-10-16T21:28:42Z",
@@ -980,20 +952,6 @@
         "volume_24h": 321577.54,
         "baseline": 172390.78,
         "delta": 149186.76
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "559703",
-      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-11T23:48:45Z",
-      "severity": 0.8422,
-      "detail": {
-        "ts": "2026-10-11T23:48:45Z",
-        "volume_24h": 483211.34,
-        "baseline": 262303.65,
-        "delta": 220907.69
       }
     },
     {
@@ -1139,20 +1097,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "559703",
-      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-08T06:25:44Z",
-      "severity": 0.7636,
-      "detail": {
-        "ts": "2026-10-08T06:25:44Z",
-        "volume_24h": 697161.22,
-        "baseline": 395307.83,
-        "delta": 301853.39
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "562831",
       "question": "2026 Balance of Power: R Senate, R House",
       "ts": "2026-10-22T01:40:48Z",
@@ -1288,6 +1232,20 @@
         "volume_24h": 116248.64,
         "baseline": 67590.28,
         "delta": 48658.36
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608545",
+      "question": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "ts": "2026-10-24T21:01:49Z",
+      "severity": 0.6968,
+      "detail": {
+        "ts": "2026-10-24T21:01:49Z",
+        "volume_24h": 382564.94,
+        "baseline": 225468.88,
+        "delta": 157096.06
       }
     },
     {
@@ -1755,20 +1713,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "559703",
-      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-12T06:16:45Z",
-      "severity": 0.5616,
-      "detail": {
-        "ts": "2026-10-12T06:16:45Z",
-        "volume_24h": 483878.0,
-        "baseline": 309859.66,
-        "delta": 174018.34
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "608545",
       "question": "Will Lamine Yamal win the 2026 Ballon d'Or?",
       "ts": "2026-10-20T10:15:19Z",
@@ -1890,20 +1834,6 @@
         "volume_24h": 2012501.76,
         "baseline": 1311293.5,
         "delta": 701208.26
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "559703",
-      "question": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
-      "ts": "2026-10-08T13:50:30Z",
-      "severity": 0.532,
-      "detail": {
-        "ts": "2026-10-08T13:50:30Z",
-        "volume_24h": 698117.48,
-        "baseline": 455678.51,
-        "delta": 242438.98
       }
     },
     {
