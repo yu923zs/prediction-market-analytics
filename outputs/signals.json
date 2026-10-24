@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 128,
+  "n_signals": 130,
   "signals": [
     {
       "type": "volume_spike",
@@ -532,6 +532,20 @@
         "volume_24h": 669401.42,
         "baseline": 287647.49,
         "delta": 381753.93
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562829",
+      "question": "2026 Balance of Power: D Senate, R House",
+      "ts": "2026-10-24T00:58:04Z",
+      "severity": 1.2952,
+      "detail": {
+        "ts": "2026-10-24T00:58:04Z",
+        "volume_24h": 771785.5,
+        "baseline": 336254.03,
+        "delta": 435531.47
       }
     },
     {
@@ -1148,6 +1162,20 @@
         "volume_24h": 202215.3,
         "baseline": 115473.91,
         "delta": 86741.39
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562793",
+      "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+      "ts": "2026-10-24T00:58:04Z",
+      "severity": 0.7443,
+      "detail": {
+        "ts": "2026-10-24T00:58:04Z",
+        "volume_24h": 660270.46,
+        "baseline": 378527.61,
+        "delta": 281742.85
       }
     },
     {
