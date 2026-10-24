@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 134,
+  "n_signals": 139,
   "signals": [
     {
       "type": "volume_spike",
@@ -383,6 +383,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562829",
+      "question": "2026 Balance of Power: D Senate, R House",
+      "ts": "2026-10-24T14:42:59Z",
+      "severity": 1.4354,
+      "detail": {
+        "ts": "2026-10-24T14:42:59Z",
+        "volume_24h": 3004865.01,
+        "baseline": 1233810.41,
+        "delta": 1771054.6
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-09T07:40:34Z",
@@ -406,6 +420,20 @@
         "volume_24h": 1288061.57,
         "baseline": 538197.98,
         "delta": 749863.59
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-24T14:42:59Z",
+      "severity": 1.3866,
+      "detail": {
+        "ts": "2026-10-24T14:42:59Z",
+        "volume_24h": 686384.44,
+        "baseline": 287600.33,
+        "delta": 398784.1
       }
     },
     {
@@ -1377,6 +1405,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-24T14:42:59Z",
+      "severity": 0.624,
+      "detail": {
+        "ts": "2026-10-24T14:42:59Z",
+        "volume_24h": 1265550.83,
+        "baseline": 779275.11,
+        "delta": 486275.72
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "562793",
       "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
       "ts": "2026-10-22T18:41:22Z",
@@ -1428,6 +1470,20 @@
         "volume_24h": 660787.5,
         "baseline": 412261.98,
         "delta": 248525.51
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-24T14:42:59Z",
+      "severity": 0.6007,
+      "detail": {
+        "ts": "2026-10-24T14:42:59Z",
+        "volume_24h": 861837.26,
+        "baseline": 538425.89,
+        "delta": 323411.36
       }
     },
     {
@@ -1884,6 +1940,21 @@
         "to": 0.545,
         "delta": -0.0595,
         "zscore": -16.21
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-24T14:00:27Z",
+      "severity": 0.052,
+      "detail": {
+        "ts": "2026-10-24T14:00:27Z",
+        "from": 0.1515,
+        "to": 0.2035,
+        "delta": 0.052,
+        "zscore": 3.07
       }
     }
   ]
