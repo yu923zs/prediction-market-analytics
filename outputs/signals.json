@@ -1,21 +1,7 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 152,
+  "n_signals": 147,
   "signals": [
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-24T06:08:23Z",
-      "severity": 6.0011,
-      "detail": {
-        "ts": "2026-10-24T06:08:23Z",
-        "volume_24h": 2972980.62,
-        "baseline": 424645.47,
-        "delta": 2548335.16
-      }
-    },
     {
       "type": "volume_spike",
       "platform": "polymarket",
@@ -28,20 +14,6 @@
         "volume_24h": 783457.9,
         "baseline": 123941.34,
         "delta": 659516.56
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-23T18:34:35Z",
-      "severity": 5.205,
-      "detail": {
-        "ts": "2026-10-23T18:34:35Z",
-        "volume_24h": 800139.15,
-        "baseline": 128950.61,
-        "delta": 671188.54
       }
     },
     {
@@ -145,15 +117,15 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-24T11:22:53Z",
-      "severity": 2.6286,
+      "market_id": "561262",
+      "question": "Will James Talarico win the 2028 US Presidential Election?",
+      "ts": "2026-10-08T00:18:11Z",
+      "severity": 2.6652,
       "detail": {
-        "ts": "2026-10-24T11:22:53Z",
-        "volume_24h": 3001528.62,
-        "baseline": 827188.03,
-        "delta": 2174340.58
+        "ts": "2026-10-08T00:18:11Z",
+        "volume_24h": 326637.35,
+        "baseline": 89117.56,
+        "delta": 237519.78
       }
     },
     {
@@ -168,20 +140,6 @@
         "volume_24h": 2059355.82,
         "baseline": 613382.77,
         "delta": 1445973.04
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-23T22:29:02Z",
-      "severity": 2.3509,
-      "detail": {
-        "ts": "2026-10-23T22:29:02Z",
-        "volume_24h": 779911.76,
-        "baseline": 232749.51,
-        "delta": 547162.26
       }
     },
     {
@@ -313,20 +271,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-12T06:16:45Z",
-      "severity": 1.6398,
-      "detail": {
-        "ts": "2026-10-12T06:16:45Z",
-        "volume_24h": 429174.96,
-        "baseline": 162576.44,
-        "delta": 266598.53
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-13T19:25:51Z",
@@ -355,20 +299,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-12T15:51:26Z",
-      "severity": 1.4956,
-      "detail": {
-        "ts": "2026-10-12T15:51:26Z",
-        "volume_24h": 519220.24,
-        "baseline": 208053.41,
-        "delta": 311166.83
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-15T20:27:09Z",
@@ -392,20 +322,6 @@
         "volume_24h": 892194.06,
         "baseline": 365936.49,
         "delta": 526257.56
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-24T14:42:59Z",
-      "severity": 1.4354,
-      "detail": {
-        "ts": "2026-10-24T14:42:59Z",
-        "volume_24h": 3004865.01,
-        "baseline": 1233810.41,
-        "delta": 1771054.6
       }
     },
     {
@@ -495,34 +411,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-24T00:58:04Z",
-      "severity": 1.2952,
-      "detail": {
-        "ts": "2026-10-24T00:58:04Z",
-        "volume_24h": 771785.5,
-        "baseline": 336254.03,
-        "delta": 435531.47
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-12T23:07:21Z",
-      "severity": 1.2948,
-      "detail": {
-        "ts": "2026-10-12T23:07:21Z",
-        "volume_24h": 578390.48,
-        "baseline": 252043.04,
-        "delta": 326347.44
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "608553",
       "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?",
       "ts": "2026-10-15T17:14:13Z",
@@ -574,6 +462,20 @@
         "volume_24h": 1029324.34,
         "baseline": 465878.87,
         "delta": 563445.47
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "561262",
+      "question": "Will James Talarico win the 2028 US Presidential Election?",
+      "ts": "2026-10-08T06:25:44Z",
+      "severity": 1.2037,
+      "detail": {
+        "ts": "2026-10-08T06:25:44Z",
+        "volume_24h": 327237.72,
+        "baseline": 148497.51,
+        "delta": 178740.21
       }
     },
     {
@@ -733,34 +635,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-08T20:01:40Z",
-      "severity": 1.06,
-      "detail": {
-        "ts": "2026-10-08T20:01:40Z",
-        "volume_24h": 211292.82,
-        "baseline": 102568.38,
-        "delta": 108724.45
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-09T07:40:34Z",
-      "severity": 1.0443,
-      "detail": {
-        "ts": "2026-10-09T07:40:34Z",
-        "volume_24h": 254646.78,
-        "baseline": 124561.86,
-        "delta": 130084.93
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "608565",
       "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
       "ts": "2026-10-06T23:58:30Z",
@@ -901,6 +775,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-25T19:50:18Z",
+      "severity": 0.8901,
+      "detail": {
+        "ts": "2026-10-25T19:50:18Z",
+        "volume_24h": 2889248.67,
+        "baseline": 1528636.82,
+        "delta": 1360611.85
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-09T15:26:49Z",
@@ -1022,6 +910,20 @@
         "volume_24h": 506420.27,
         "baseline": 282841.79,
         "delta": 223578.48
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "561262",
+      "question": "Will James Talarico win the 2028 US Presidential Election?",
+      "ts": "2026-10-08T13:50:30Z",
+      "severity": 0.7875,
+      "detail": {
+        "ts": "2026-10-08T13:50:30Z",
+        "volume_24h": 329331.71,
+        "baseline": 184245.55,
+        "delta": 145086.16
       }
     },
     {
@@ -1615,6 +1517,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-25T19:50:18Z",
+      "severity": 0.5878,
+      "detail": {
+        "ts": "2026-10-25T19:50:18Z",
+        "volume_24h": 1905116.62,
+        "baseline": 1199831.9,
+        "delta": 705284.71
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "608565",
       "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
       "ts": "2026-10-24T18:16:53Z",
@@ -1638,6 +1554,20 @@
         "volume_24h": 589303.1,
         "baseline": 371812.49,
         "delta": 217490.61
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "561262",
+      "question": "Will James Talarico win the 2028 US Presidential Election?",
+      "ts": "2026-10-08T20:01:40Z",
+      "severity": 0.5778,
+      "detail": {
+        "ts": "2026-10-08T20:01:40Z",
+        "volume_24h": 328856.36,
+        "baseline": 208426.58,
+        "delta": 120429.78
       }
     },
     {
