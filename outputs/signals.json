@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 151,
+  "n_signals": 153,
   "signals": [
     {
       "type": "volume_spike",
@@ -1083,6 +1083,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608545",
+      "question": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "ts": "2026-10-25T01:30:20Z",
+      "severity": 0.7905,
+      "detail": {
+        "ts": "2026-10-25T01:30:20Z",
+        "volume_24h": 506420.27,
+        "baseline": 282841.79,
+        "delta": 223578.48
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "561262",
       "question": "Will James Talarico win the 2028 US Presidential Election?",
       "ts": "2026-10-08T13:50:30Z",
@@ -1330,6 +1344,20 @@
         "volume_24h": 809345.82,
         "baseline": 483368.82,
         "delta": 325977.0
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-25T01:30:20Z",
+      "severity": 0.6713,
+      "detail": {
+        "ts": "2026-10-25T01:30:20Z",
+        "volume_24h": 900207.8,
+        "baseline": 538620.28,
+        "delta": 361587.52
       }
     },
     {
