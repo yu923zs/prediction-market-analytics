@@ -1,21 +1,7 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 153,
+  "n_signals": 160,
   "signals": [
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-24T06:08:23Z",
-      "severity": 6.0011,
-      "detail": {
-        "ts": "2026-10-24T06:08:23Z",
-        "volume_24h": 2972980.62,
-        "baseline": 424645.47,
-        "delta": 2548335.16
-      }
-    },
     {
       "type": "volume_spike",
       "platform": "polymarket",
@@ -28,20 +14,6 @@
         "volume_24h": 783457.9,
         "baseline": 123941.34,
         "delta": 659516.56
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-23T18:34:35Z",
-      "severity": 5.205,
-      "detail": {
-        "ts": "2026-10-23T18:34:35Z",
-        "volume_24h": 800139.15,
-        "baseline": 128950.61,
-        "delta": 671188.54
       }
     },
     {
@@ -159,20 +131,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-24T11:22:53Z",
-      "severity": 2.6286,
-      "detail": {
-        "ts": "2026-10-24T11:22:53Z",
-        "volume_24h": 3001528.62,
-        "baseline": 827188.03,
-        "delta": 2174340.58
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-09T00:31:58Z",
@@ -182,20 +140,6 @@
         "volume_24h": 2059355.82,
         "baseline": 613382.77,
         "delta": 1445973.04
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-23T22:29:02Z",
-      "severity": 2.3509,
-      "detail": {
-        "ts": "2026-10-23T22:29:02Z",
-        "volume_24h": 779911.76,
-        "baseline": 232749.51,
-        "delta": 547162.26
       }
     },
     {
@@ -313,20 +257,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-12T06:16:45Z",
-      "severity": 1.6398,
-      "detail": {
-        "ts": "2026-10-12T06:16:45Z",
-        "volume_24h": 429174.96,
-        "baseline": 162576.44,
-        "delta": 266598.53
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "562802",
       "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
       "ts": "2026-10-15T06:07:52Z",
@@ -336,6 +266,20 @@
         "volume_24h": 462450.37,
         "baseline": 178744.33,
         "delta": 283706.04
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "559651",
+      "question": "Xi Jinping out before 2027?",
+      "ts": "2026-10-24T14:42:59Z",
+      "severity": 1.5828,
+      "detail": {
+        "ts": "2026-10-24T14:42:59Z",
+        "volume_24h": 264797.97,
+        "baseline": 102525.54,
+        "delta": 162272.43
       }
     },
     {
@@ -383,20 +327,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-12T15:51:26Z",
-      "severity": 1.4956,
-      "detail": {
-        "ts": "2026-10-12T15:51:26Z",
-        "volume_24h": 519220.24,
-        "baseline": 208053.41,
-        "delta": 311166.83
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "562802",
       "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
       "ts": "2026-10-15T11:51:58Z",
@@ -434,20 +364,6 @@
         "volume_24h": 892194.06,
         "baseline": 365936.49,
         "delta": 526257.56
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-24T14:42:59Z",
-      "severity": 1.4354,
-      "detail": {
-        "ts": "2026-10-24T14:42:59Z",
-        "volume_24h": 3004865.01,
-        "baseline": 1233810.41,
-        "delta": 1771054.6
       }
     },
     {
@@ -537,34 +453,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-24T00:58:04Z",
-      "severity": 1.2952,
-      "detail": {
-        "ts": "2026-10-24T00:58:04Z",
-        "volume_24h": 771785.5,
-        "baseline": 336254.03,
-        "delta": 435531.47
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-12T23:07:21Z",
-      "severity": 1.2948,
-      "detail": {
-        "ts": "2026-10-12T23:07:21Z",
-        "volume_24h": 578390.48,
-        "baseline": 252043.04,
-        "delta": 326347.44
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-18T09:46:24Z",
@@ -602,6 +490,20 @@
         "volume_24h": 1029324.34,
         "baseline": 465878.87,
         "delta": 563445.47
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "559651",
+      "question": "Xi Jinping out before 2027?",
+      "ts": "2026-10-24T18:16:53Z",
+      "severity": 1.2082,
+      "detail": {
+        "ts": "2026-10-24T18:16:53Z",
+        "volume_24h": 269864.89,
+        "baseline": 122212.61,
+        "delta": 147652.27
       }
     },
     {
@@ -761,15 +663,15 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-08T20:01:40Z",
-      "severity": 1.06,
+      "market_id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "ts": "2026-10-17T19:36:21Z",
+      "severity": 1.0747,
       "detail": {
-        "ts": "2026-10-08T20:01:40Z",
-        "volume_24h": 211292.82,
-        "baseline": 102568.38,
-        "delta": 108724.45
+        "ts": "2026-10-17T19:36:21Z",
+        "volume_24h": 170417.82,
+        "baseline": 82141.86,
+        "delta": 88275.97
       }
     },
     {
@@ -789,15 +691,15 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562829",
-      "question": "2026 Balance of Power: D Senate, R House",
-      "ts": "2026-10-09T07:40:34Z",
-      "severity": 1.0443,
+      "market_id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "ts": "2026-10-06T23:58:30Z",
+      "severity": 1.0374,
       "detail": {
-        "ts": "2026-10-09T07:40:34Z",
-        "volume_24h": 254646.78,
-        "baseline": 124561.86,
-        "delta": 130084.93
+        "ts": "2026-10-06T23:58:30Z",
+        "volume_24h": 147777.83,
+        "baseline": 72533.24,
+        "delta": 75244.6
       }
     },
     {
@@ -980,6 +882,20 @@
         "volume_24h": 321577.54,
         "baseline": 172390.78,
         "delta": 149186.76
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "559651",
+      "question": "Xi Jinping out before 2027?",
+      "ts": "2026-10-24T21:01:49Z",
+      "severity": 0.8645,
+      "detail": {
+        "ts": "2026-10-24T21:01:49Z",
+        "volume_24h": 268339.74,
+        "baseline": 143921.24,
+        "delta": 124418.5
       }
     },
     {
@@ -1195,6 +1111,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "559651",
+      "question": "Xi Jinping out before 2027?",
+      "ts": "2026-10-25T06:41:23Z",
+      "severity": 0.7512,
+      "detail": {
+        "ts": "2026-10-25T06:41:23Z",
+        "volume_24h": 366691.51,
+        "baseline": 209392.95,
+        "delta": 157298.56
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "562793",
       "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
       "ts": "2026-10-24T00:58:04Z",
@@ -1218,6 +1148,20 @@
         "volume_24h": 687244.43,
         "baseline": 394455.08,
         "delta": 292789.35
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608545",
+      "question": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "ts": "2026-10-25T06:41:23Z",
+      "severity": 0.7343,
+      "detail": {
+        "ts": "2026-10-25T06:41:23Z",
+        "volume_24h": 564547.66,
+        "baseline": 325513.27,
+        "delta": 239034.39
       }
     },
     {
@@ -1279,6 +1223,34 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "ts": "2026-10-18T00:13:25Z",
+      "severity": 0.718,
+      "detail": {
+        "ts": "2026-10-18T00:13:25Z",
+        "volume_24h": 187733.6,
+        "baseline": 109275.97,
+        "delta": 78457.63
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "ts": "2026-10-24T21:01:49Z",
+      "severity": 0.703,
+      "detail": {
+        "ts": "2026-10-24T21:01:49Z",
+        "volume_24h": 274650.03,
+        "baseline": 161273.24,
+        "delta": 113376.79
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "608545",
       "question": "Will Lamine Yamal win the 2026 Ballon d'Or?",
       "ts": "2026-10-24T21:01:49Z",
@@ -1302,6 +1274,20 @@
         "volume_24h": 563675.47,
         "baseline": 332224.79,
         "delta": 231450.68
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "ts": "2026-10-17T22:30:15Z",
+      "severity": 0.6899,
+      "detail": {
+        "ts": "2026-10-17T22:30:15Z",
+        "volume_24h": 164446.0,
+        "baseline": 97312.61,
+        "delta": 67133.39
       }
     },
     {
@@ -1405,6 +1391,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "ts": "2026-10-24T11:22:53Z",
+      "severity": 0.663,
+      "detail": {
+        "ts": "2026-10-24T11:22:53Z",
+        "volume_24h": 191340.18,
+        "baseline": 115058.4,
+        "delta": 76281.77
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "562802",
       "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
       "ts": "2026-10-21T01:48:40Z",
@@ -1461,6 +1461,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "559651",
+      "question": "Xi Jinping out before 2027?",
+      "ts": "2026-10-24T23:30:06Z",
+      "severity": 0.6508,
+      "detail": {
+        "ts": "2026-10-24T23:30:06Z",
+        "volume_24h": 273225.48,
+        "baseline": 165511.08,
+        "delta": 107714.4
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "608547",
       "question": "Will Harry Kane win the 2026 Ballon d'Or?",
       "ts": "2026-10-23T07:48:33Z",
@@ -1484,6 +1498,20 @@
         "volume_24h": 210527.06,
         "baseline": 128952.57,
         "delta": 81574.49
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "ts": "2026-10-24T14:42:59Z",
+      "severity": 0.6325,
+      "detail": {
+        "ts": "2026-10-24T14:42:59Z",
+        "volume_24h": 212339.56,
+        "baseline": 130068.15,
+        "delta": 82271.41
       }
     },
     {
@@ -1545,6 +1573,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "ts": "2026-10-24T23:30:06Z",
+      "severity": 0.6106,
+      "detail": {
+        "ts": "2026-10-24T23:30:06Z",
+        "volume_24h": 295920.29,
+        "baseline": 183734.87,
+        "delta": 112185.41
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "562802",
       "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
       "ts": "2026-10-15T00:44:22Z",
@@ -1568,6 +1610,20 @@
         "volume_24h": 225093.77,
         "baseline": 140063.65,
         "delta": 85030.12
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "559651",
+      "question": "Xi Jinping out before 2027?",
+      "ts": "2026-10-17T09:33:50Z",
+      "severity": 0.6046,
+      "detail": {
+        "ts": "2026-10-17T09:33:50Z",
+        "volume_24h": 126988.42,
+        "baseline": 79141.41,
+        "delta": 47847.0
       }
     },
     {
@@ -1680,6 +1736,20 @@
         "volume_24h": 410503.21,
         "baseline": 258582.84,
         "delta": 151920.37
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "ts": "2026-10-24T18:16:53Z",
+      "severity": 0.5859,
+      "detail": {
+        "ts": "2026-10-24T18:16:53Z",
+        "volume_24h": 234730.72,
+        "baseline": 148009.51,
+        "delta": 86721.22
       }
     },
     {
@@ -1895,6 +1965,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "ts": "2026-10-07T20:03:26Z",
+      "severity": 0.5222,
+      "detail": {
+        "ts": "2026-10-07T20:03:26Z",
+        "volume_24h": 159445.2,
+        "baseline": 104744.11,
+        "delta": 54701.09
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "608545",
       "question": "Will Lamine Yamal win the 2026 Ballon d'Or?",
       "ts": "2026-10-20T05:09:16Z",
@@ -1918,6 +2002,20 @@
         "volume_24h": 668565.71,
         "baseline": 439818.11,
         "delta": 228747.6
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "ts": "2026-10-07T06:16:23Z",
+      "severity": 0.5173,
+      "detail": {
+        "ts": "2026-10-07T06:16:23Z",
+        "volume_24h": 138596.12,
+        "baseline": 91344.39,
+        "delta": 47251.73
       }
     },
     {
