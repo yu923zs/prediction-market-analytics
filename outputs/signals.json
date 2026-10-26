@@ -1,7 +1,35 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 171,
+  "n_signals": 191,
   "signals": [
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-26T01:27:32Z",
+      "severity": 10.527,
+      "detail": {
+        "ts": "2026-10-26T01:27:32Z",
+        "volume_24h": 33571084.45,
+        "baseline": 2912394.61,
+        "delta": 30658689.85
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-26T01:27:32Z",
+      "severity": 7.4713,
+      "detail": {
+        "ts": "2026-10-26T01:27:32Z",
+        "volume_24h": 16379754.15,
+        "baseline": 1933563.47,
+        "delta": 14446190.68
+      }
+    },
     {
       "type": "volume_spike",
       "platform": "polymarket",
@@ -145,20 +173,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "561262",
-      "question": "Will James Talarico win the 2028 US Presidential Election?",
-      "ts": "2026-10-08T00:18:11Z",
-      "severity": 2.6652,
-      "detail": {
-        "ts": "2026-10-08T00:18:11Z",
-        "volume_24h": 326637.35,
-        "baseline": 89117.56,
-        "delta": 237519.78
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-09T00:31:58Z",
@@ -252,6 +266,34 @@
         "volume_24h": 1844252.75,
         "baseline": 651232.36,
         "delta": 1193020.39
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-26T01:27:32Z",
+      "severity": 1.7791,
+      "detail": {
+        "ts": "2026-10-26T01:27:32Z",
+        "volume_24h": 766931.32,
+        "baseline": 275968.66,
+        "delta": 490962.66
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608566",
+      "question": "Will Rodri win the 2026 Ballon d'Or?",
+      "ts": "2026-10-20T15:15:06Z",
+      "severity": 1.7517,
+      "detail": {
+        "ts": "2026-10-20T15:15:06Z",
+        "volume_24h": 188369.26,
+        "baseline": 68455.22,
+        "delta": 119914.05
       }
     },
     {
@@ -467,6 +509,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-21T22:34:11Z",
+      "severity": 1.2995,
+      "detail": {
+        "ts": "2026-10-21T22:34:11Z",
+        "volume_24h": 305655.63,
+        "baseline": 132920.13,
+        "delta": 172735.5
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-18T09:46:24Z",
@@ -495,6 +551,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608543",
+      "question": "Will Ousmane Dembélé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-26T01:27:32Z",
+      "severity": 1.2135,
+      "detail": {
+        "ts": "2026-10-26T01:27:32Z",
+        "volume_24h": 520765.1,
+        "baseline": 235265.65,
+        "delta": 285499.45
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601830",
       "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T07:04:58Z",
@@ -504,20 +574,6 @@
         "volume_24h": 1029324.34,
         "baseline": 465878.87,
         "delta": 563445.47
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "561262",
-      "question": "Will James Talarico win the 2028 US Presidential Election?",
-      "ts": "2026-10-08T06:25:44Z",
-      "severity": 1.2037,
-      "detail": {
-        "ts": "2026-10-08T06:25:44Z",
-        "volume_24h": 327237.72,
-        "baseline": 148497.51,
-        "delta": 178740.21
       }
     },
     {
@@ -588,6 +644,20 @@
         "volume_24h": 809847.36,
         "baseline": 375991.51,
         "delta": 433855.85
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562802",
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-26T01:27:32Z",
+      "severity": 1.1536,
+      "detail": {
+        "ts": "2026-10-26T01:27:32Z",
+        "volume_24h": 733778.25,
+        "baseline": 340725.5,
+        "delta": 393052.75
       }
     },
     {
@@ -672,6 +742,20 @@
         "volume_24h": 773605.69,
         "baseline": 370623.06,
         "delta": 402982.63
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608566",
+      "question": "Will Rodri win the 2026 Ballon d'Or?",
+      "ts": "2026-10-20T19:27:26Z",
+      "severity": 1.0758,
+      "detail": {
+        "ts": "2026-10-20T19:27:26Z",
+        "volume_24h": 177271.56,
+        "baseline": 85399.1,
+        "delta": 91872.45
       }
     },
     {
@@ -887,6 +971,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-19T20:40:03Z",
+      "severity": 0.8692,
+      "detail": {
+        "ts": "2026-10-19T20:40:03Z",
+        "volume_24h": 145631.99,
+        "baseline": 77910.97,
+        "delta": 67721.02
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "562831",
       "question": "2026 Balance of Power: R Senate, R House",
       "ts": "2026-10-22T07:49:06Z",
@@ -924,6 +1022,20 @@
         "volume_24h": 321577.54,
         "baseline": 172390.78,
         "delta": 149186.76
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-14T07:52:54Z",
+      "severity": 0.8643,
+      "detail": {
+        "ts": "2026-10-14T07:52:54Z",
+        "volume_24h": 158494.81,
+        "baseline": 85016.68,
+        "delta": 73478.12
       }
     },
     {
@@ -1041,20 +1153,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "561262",
-      "question": "Will James Talarico win the 2028 US Presidential Election?",
-      "ts": "2026-10-08T13:50:30Z",
-      "severity": 0.7875,
-      "detail": {
-        "ts": "2026-10-08T13:50:30Z",
-        "volume_24h": 329331.71,
-        "baseline": 184245.55,
-        "delta": 145086.16
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-18T17:27:52Z",
@@ -1162,6 +1260,20 @@
         "volume_24h": 687244.43,
         "baseline": 394455.08,
         "delta": 292789.35
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-22T01:40:48Z",
+      "severity": 0.7413,
+      "detail": {
+        "ts": "2026-10-22T01:40:48Z",
+        "volume_24h": 295375.04,
+        "baseline": 169627.57,
+        "delta": 125747.47
       }
     },
     {
@@ -1293,6 +1405,34 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-20T05:09:16Z",
+      "severity": 0.6956,
+      "detail": {
+        "ts": "2026-10-20T05:09:16Z",
+        "volume_24h": 158070.0,
+        "baseline": 93223.9,
+        "delta": 64846.1
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-22T13:59:01Z",
+      "severity": 0.6914,
+      "detail": {
+        "ts": "2026-10-22T13:59:01Z",
+        "volume_24h": 362349.93,
+        "baseline": 214224.78,
+        "delta": 148125.14
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "608565",
       "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
       "ts": "2026-10-17T22:30:15Z",
@@ -1344,6 +1484,20 @@
         "volume_24h": 809345.82,
         "baseline": 483368.82,
         "delta": 325977.0
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-14T13:55:08Z",
+      "severity": 0.6744,
+      "detail": {
+        "ts": "2026-10-14T13:55:08Z",
+        "volume_24h": 159071.08,
+        "baseline": 95000.7,
+        "delta": 64070.38
       }
     },
     {
@@ -1470,6 +1624,20 @@
         "volume_24h": 378438.23,
         "baseline": 228774.18,
         "delta": 149664.05
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-20T00:29:44Z",
+      "severity": 0.6497,
+      "detail": {
+        "ts": "2026-10-20T00:29:44Z",
+        "volume_24h": 140775.05,
+        "baseline": 85332.18,
+        "delta": 55442.87
       }
     },
     {
@@ -1610,6 +1778,20 @@
         "volume_24h": 107933.64,
         "baseline": 66917.77,
         "delta": 41015.87
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-06T20:27:25Z",
+      "severity": 0.6117,
+      "detail": {
+        "ts": "2026-10-06T20:27:25Z",
+        "volume_24h": 280595.04,
+        "baseline": 174095.65,
+        "delta": 106499.38
       }
     },
     {
@@ -1811,20 +1993,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "561262",
-      "question": "Will James Talarico win the 2028 US Presidential Election?",
-      "ts": "2026-10-08T20:01:40Z",
-      "severity": 0.5778,
-      "detail": {
-        "ts": "2026-10-08T20:01:40Z",
-        "volume_24h": 328856.36,
-        "baseline": 208426.58,
-        "delta": 120429.78
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-18T17:27:52Z",
@@ -1848,6 +2016,20 @@
         "volume_24h": 814804.25,
         "baseline": 519975.29,
         "delta": 294828.96
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-21T18:48:06Z",
+      "severity": 0.5669,
+      "detail": {
+        "ts": "2026-10-21T18:48:06Z",
+        "volume_24h": 180433.42,
+        "baseline": 115155.85,
+        "delta": 65277.57
       }
     },
     {
@@ -1918,6 +2100,20 @@
         "volume_24h": 330951.78,
         "baseline": 213076.14,
         "delta": 117875.63
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-06T23:58:30Z",
+      "severity": 0.5522,
+      "detail": {
+        "ts": "2026-10-06T23:58:30Z",
+        "volume_24h": 281365.18,
+        "baseline": 181272.78,
+        "delta": 100092.4
       }
     },
     {
@@ -2049,6 +2245,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608566",
+      "question": "Will Rodri win the 2026 Ballon d'Or?",
+      "ts": "2026-10-25T12:40:39Z",
+      "severity": 0.5179,
+      "detail": {
+        "ts": "2026-10-25T12:40:39Z",
+        "volume_24h": 305577.54,
+        "baseline": 201312.95,
+        "delta": 104264.59
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "608565",
       "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
       "ts": "2026-10-07T06:16:23Z",
@@ -2119,6 +2329,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608566",
+      "question": "Will Rodri win the 2026 Ballon d'Or?",
+      "ts": "2026-10-25T17:08:34Z",
+      "severity": 0.5033,
+      "detail": {
+        "ts": "2026-10-25T17:08:34Z",
+        "volume_24h": 335390.64,
+        "baseline": 223107.74,
+        "delta": 112282.91
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-25T17:08:34Z",
@@ -2172,6 +2396,36 @@
         "to": 0.288,
         "delta": -0.3175,
         "zscore": -12.02
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-26T00:30:20Z",
+      "severity": 0.222,
+      "detail": {
+        "ts": "2026-10-26T00:30:20Z",
+        "from": 0.2235,
+        "to": 0.0015,
+        "delta": -0.222,
+        "zscore": -2.66
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-26T00:30:23Z",
+      "severity": 0.216,
+      "detail": {
+        "ts": "2026-10-26T00:30:23Z",
+        "from": 0.7825,
+        "to": 0.9985,
+        "delta": 0.216,
+        "zscore": 2.43
       }
     },
     {
@@ -2282,6 +2536,21 @@
     {
       "type": "prob_jump",
       "platform": "polymarket",
+      "market_id": "601826",
+      "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-25T23:00:51Z",
+      "severity": 0.0815,
+      "detail": {
+        "ts": "2026-10-25T23:00:51Z",
+        "from": 0.305,
+        "to": 0.2235,
+        "delta": -0.0815,
+        "zscore": -0.8
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
       "market_id": "601920",
       "question": "Will any presidential candidate win outright in the first round of the Brazil election?",
       "ts": "2026-10-04T21:00:22Z",
@@ -2307,6 +2576,21 @@
         "to": 0.285,
         "delta": -0.08,
         "zscore": -10.33
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "ts": "2026-10-25T23:00:56Z",
+      "severity": 0.073,
+      "detail": {
+        "ts": "2026-10-25T23:00:56Z",
+        "from": 0.7095,
+        "to": 0.7825,
+        "delta": 0.073,
+        "zscore": 0.63
       }
     },
     {
