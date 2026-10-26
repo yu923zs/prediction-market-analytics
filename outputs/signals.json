@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 196,
+  "n_signals": 206,
   "signals": [
     {
       "type": "volume_spike",
@@ -33,6 +33,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608547",
+      "question": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "ts": "2026-10-26T20:03:41Z",
+      "severity": 5.812,
+      "detail": {
+        "ts": "2026-10-26T20:03:41Z",
+        "volume_24h": 3938531.7,
+        "baseline": 578172.59,
+        "delta": 3360359.11
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601920",
       "question": "Will any presidential candidate win outright in the first round of the Brazil election?",
       "ts": "2026-10-04T23:24:27Z",
@@ -42,6 +56,34 @@
         "volume_24h": 783457.9,
         "baseline": 123941.34,
         "delta": 659516.56
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608543",
+      "question": "Will Ousmane Dembélé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-26T20:03:41Z",
+      "severity": 5.2893,
+      "detail": {
+        "ts": "2026-10-26T20:03:41Z",
+        "volume_24h": 3400083.39,
+        "baseline": 540610.47,
+        "delta": 2859472.93
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608553",
+      "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?",
+      "ts": "2026-10-26T20:03:41Z",
+      "severity": 5.202,
+      "detail": {
+        "ts": "2026-10-26T20:03:41Z",
+        "volume_24h": 2967959.66,
+        "baseline": 478550.19,
+        "delta": 2489409.47
       }
     },
     {
@@ -75,6 +117,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "ts": "2026-10-26T20:03:41Z",
+      "severity": 4.3232,
+      "detail": {
+        "ts": "2026-10-26T20:03:41Z",
+        "volume_24h": 2919765.32,
+        "baseline": 548501.6,
+        "delta": 2371263.72
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-25T22:43:24Z",
@@ -89,15 +145,43 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562793",
-      "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-23T13:41:08Z",
-      "severity": 3.2069,
+      "market_id": "608545",
+      "question": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "ts": "2026-10-26T20:03:41Z",
+      "severity": 3.9897,
       "detail": {
-        "ts": "2026-10-23T13:41:08Z",
-        "volume_24h": 659757.85,
-        "baseline": 156828.67,
-        "delta": 502929.18
+        "ts": "2026-10-26T20:03:41Z",
+        "volume_24h": 3296907.27,
+        "baseline": 660744.23,
+        "delta": 2636163.04
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-26T20:03:41Z",
+      "severity": 3.9066,
+      "detail": {
+        "ts": "2026-10-26T20:03:41Z",
+        "volume_24h": 4344056.66,
+        "baseline": 885344.8,
+        "delta": 3458711.86
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608566",
+      "question": "Will Rodri win the 2026 Ballon d'Or?",
+      "ts": "2026-10-26T20:03:41Z",
+      "severity": 3.1241,
+      "detail": {
+        "ts": "2026-10-26T20:03:41Z",
+        "volume_24h": 1646803.55,
+        "baseline": 399316.01,
+        "delta": 1247487.55
       }
     },
     {
@@ -154,6 +238,20 @@
         "volume_24h": 380511.72,
         "baseline": 101297.78,
         "delta": 279213.94
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608568",
+      "question": "Will Fabian Ruiz win the 2026 Ballon d'Or?",
+      "ts": "2026-10-26T20:03:41Z",
+      "severity": 2.6083,
+      "detail": {
+        "ts": "2026-10-26T20:03:41Z",
+        "volume_24h": 836367.87,
+        "baseline": 231786.85,
+        "delta": 604581.02
       }
     },
     {
@@ -308,20 +406,6 @@
         "volume_24h": 274652.93,
         "baseline": 103457.91,
         "delta": 171195.02
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562793",
-      "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-23T18:34:35Z",
-      "severity": 1.6451,
-      "detail": {
-        "ts": "2026-10-23T18:34:35Z",
-        "volume_24h": 618272.35,
-        "baseline": 233743.77,
-        "delta": 384528.58
       }
     },
     {
@@ -635,6 +719,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608568",
+      "question": "Will Fabian Ruiz win the 2026 Ballon d'Or?",
+      "ts": "2026-10-14T13:55:08Z",
+      "severity": 1.2302,
+      "detail": {
+        "ts": "2026-10-14T13:55:08Z",
+        "volume_24h": 213241.03,
+        "baseline": 95615.95,
+        "delta": 117625.08
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-18T09:46:24Z",
@@ -644,6 +742,20 @@
         "volume_24h": 938152.88,
         "baseline": 421899.42,
         "delta": 516253.46
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608568",
+      "question": "Will Fabian Ruiz win the 2026 Ballon d'Or?",
+      "ts": "2026-10-21T22:34:11Z",
+      "severity": 1.2193,
+      "detail": {
+        "ts": "2026-10-21T22:34:11Z",
+        "volume_24h": 169984.82,
+        "baseline": 76592.84,
+        "delta": 93391.99
       }
     },
     {
@@ -700,20 +812,6 @@
         "volume_24h": 163854.81,
         "baseline": 74371.42,
         "delta": 89483.38
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562793",
-      "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-23T22:29:02Z",
-      "severity": 1.1815,
-      "detail": {
-        "ts": "2026-10-23T22:29:02Z",
-        "volume_24h": 663505.17,
-        "baseline": 304155.66,
-        "delta": 359349.51
       }
     },
     {
@@ -812,6 +910,20 @@
         "volume_24h": 1034282.33,
         "baseline": 490633.08,
         "delta": 543649.25
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608568",
+      "question": "Will Fabian Ruiz win the 2026 Ballon d'Or?",
+      "ts": "2026-10-26T14:27:42Z",
+      "severity": 1.0953,
+      "detail": {
+        "ts": "2026-10-26T14:27:42Z",
+        "volume_24h": 426570.82,
+        "baseline": 203580.96,
+        "delta": 222989.86
       }
     },
     {
@@ -1008,6 +1120,20 @@
         "volume_24h": 784890.9,
         "baseline": 409603.73,
         "delta": 375287.17
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-26T20:03:41Z",
+      "severity": 0.8995,
+      "detail": {
+        "ts": "2026-10-26T20:03:41Z",
+        "volume_24h": 1131898.78,
+        "baseline": 595883.8,
+        "delta": 536014.97
       }
     },
     {
@@ -1223,6 +1349,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608568",
+      "question": "Will Fabian Ruiz win the 2026 Ballon d'Or?",
+      "ts": "2026-10-22T01:40:48Z",
+      "severity": 0.791,
+      "detail": {
+        "ts": "2026-10-22T01:40:48Z",
+        "volume_24h": 167278.28,
+        "baseline": 93397.4,
+        "delta": 73880.88
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "608545",
       "question": "Will Lamine Yamal win the 2026 Ballon d'Or?",
       "ts": "2026-10-25T01:30:20Z",
@@ -1302,20 +1442,6 @@
         "volume_24h": 503120.05,
         "baseline": 286264.4,
         "delta": 216855.65
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562793",
-      "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-24T00:58:04Z",
-      "severity": 0.7443,
-      "detail": {
-        "ts": "2026-10-24T00:58:04Z",
-        "volume_24h": 660270.46,
-        "baseline": 378527.61,
-        "delta": 281742.85
       }
     },
     {
@@ -1811,20 +1937,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562793",
-      "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-22T18:41:22Z",
-      "severity": 0.6199,
-      "detail": {
-        "ts": "2026-10-22T18:41:22Z",
-        "volume_24h": 217278.77,
-        "baseline": 134130.16,
-        "delta": 83148.61
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "608543",
       "question": "Will Ousmane Dembélé win the 2026 Ballon d'Or?",
       "ts": "2026-10-25T06:41:23Z",
@@ -2063,6 +2175,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608568",
+      "question": "Will Fabian Ruiz win the 2026 Ballon d'Or?",
+      "ts": "2026-10-22T07:49:06Z",
+      "severity": 0.5685,
+      "detail": {
+        "ts": "2026-10-22T07:49:06Z",
+        "volume_24h": 167086.95,
+        "baseline": 106526.17,
+        "delta": 60560.78
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-21T14:00:31Z",
@@ -2170,6 +2296,20 @@
         "volume_24h": 281365.18,
         "baseline": 181272.78,
         "delta": 100092.4
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608568",
+      "question": "Will Fabian Ruiz win the 2026 Ballon d'Or?",
+      "ts": "2026-10-14T18:47:09Z",
+      "severity": 0.5494,
+      "detail": {
+        "ts": "2026-10-14T18:47:09Z",
+        "volume_24h": 160582.28,
+        "baseline": 103638.77,
+        "delta": 56943.5
       }
     },
     {
@@ -2352,20 +2492,6 @@
         "volume_24h": 606143.74,
         "baseline": 400426.29,
         "delta": 205717.45
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562793",
-      "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-16T17:35:19Z",
-      "severity": 0.5094,
-      "detail": {
-        "ts": "2026-10-16T17:35:19Z",
-        "volume_24h": 165811.69,
-        "baseline": 109849.39,
-        "delta": 55962.3
       }
     },
     {
@@ -2661,6 +2787,21 @@
         "to": 0.7825,
         "delta": 0.073,
         "zscore": 0.63
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "608540",
+      "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "ts": "2026-10-26T17:30:25Z",
+      "severity": 0.071,
+      "detail": {
+        "ts": "2026-10-26T17:30:25Z",
+        "from": 0.2665,
+        "to": 0.1955,
+        "delta": -0.071,
+        "zscore": -3.68
       }
     },
     {
