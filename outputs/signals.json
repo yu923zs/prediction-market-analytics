@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 197,
+  "n_signals": 198,
   "signals": [
     {
       "type": "volume_spike",
@@ -798,6 +798,20 @@
         "volume_24h": 194872.65,
         "baseline": 85502.74,
         "delta": 109369.91
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562832",
+      "question": "2026 Balance of Power: Other",
+      "ts": "2026-10-27T16:46:34Z",
+      "severity": 1.2682,
+      "detail": {
+        "ts": "2026-10-27T16:46:34Z",
+        "volume_24h": 860397.5,
+        "baseline": 379333.76,
+        "delta": 481063.74
       }
     },
     {
