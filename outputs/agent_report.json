@@ -1,6 +1,6 @@
 {
   "engine": "rules",
-  "summary": "15 markets tracked, 195 signals raised across 14 markets.",
+  "summary": "15 markets tracked, 196 signals raised across 14 markets.",
   "markets": [
     {
       "platform": "polymarket",
@@ -152,16 +152,15 @@
     },
     {
       "platform": "polymarket",
-      "market_id": "601920",
-      "question": "Will any presidential candidate win outright in the first round of the Brazil election?",
+      "market_id": "562832",
+      "question": "2026 Balance of Power: Other",
       "signals": [
-        "prob_jump",
         "volume_spike"
       ],
-      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-04T23:24:27Z\", \"volume_24h\": 783457.9, \"baseline\": 123941.34, \"delta\": 659516.56}); volume_spike ({\"ts\": \"2026-10-05T02:13:41Z\", \"volume_24h\": 826097.23, \"baseline\": 288820.48, \"delta\": 537276.75}); prob_jump ({\"ts\": \"2026-10-04T21:30:18Z\", \"from\": 0.116, \"to\": 0.026, \"delta\": -0.09, \"zscore\": -4.44}); prob_jump ({\"ts\": \"2026-10-04T21:00:22Z\", \"from\": 0.0345, \"to\": 0.116, \"delta\": 0.0815, \"zscore\": 8.03}). Prob now 0.0005, 1h change 0.0. Rule-based view: review the underlying news before acting.",
+      "interpretation": "Tracked signals: volume_spike ({\"ts\": \"2026-10-27T05:21:45Z\", \"volume_24h\": 870780.39, \"baseline\": 176798.75, \"delta\": 693981.64}); volume_spike ({\"ts\": \"2026-10-15T20:27:09Z\", \"volume_24h\": 382563.87, \"baseline\": 133474.89, \"delta\": 249088.99}); volume_spike ({\"ts\": \"2026-10-15T23:11:09Z\", \"volume_24h\": 383072.05, \"baseline\": 174074.09, \"delta\": 208997.97}); volume_spike ({\"ts\": \"2026-10-15T17:14:13Z\", \"volume_24h\": 271703.6, \"baseline\": 129003.92, \"delta\": 142699.69}); volume_spike ({\"ts\": \"2026-10-16T01:33:38Z\", \"volume_24h\": 383090.69, \"baseline\": 220321.2, \"delta\": 162769.5}). Prob now 0.0015, 1h change 0.0. Rule-based view: review the underlying news before acting.",
       "confidence": "medium",
-      "suggested_action": "investigate"
+      "suggested_action": "watch"
     }
   ],
-  "generated_at": "2026-10-26T23:58:37Z"
+  "generated_at": "2026-10-27T05:21:46Z"
 }
