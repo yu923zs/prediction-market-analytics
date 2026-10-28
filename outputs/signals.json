@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 199,
+  "n_signals": 195,
   "signals": [
     {
       "type": "volume_spike",
@@ -70,6 +70,20 @@
         "volume_24h": 7129436.43,
         "baseline": 1078481.06,
         "delta": 6050955.37
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601920",
+      "question": "Will any presidential candidate win outright in the first round of the Brazil election?",
+      "ts": "2026-10-04T23:24:27Z",
+      "severity": 5.3212,
+      "detail": {
+        "ts": "2026-10-04T23:24:27Z",
+        "volume_24h": 783457.9,
+        "baseline": 123941.34,
+        "delta": 659516.56
       }
     },
     {
@@ -182,20 +196,6 @@
         "volume_24h": 3296907.27,
         "baseline": 660744.23,
         "delta": 2636163.04
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562832",
-      "question": "2026 Balance of Power: Other",
-      "ts": "2026-10-27T05:21:45Z",
-      "severity": 3.9253,
-      "detail": {
-        "ts": "2026-10-27T05:21:45Z",
-        "volume_24h": 870780.39,
-        "baseline": 176798.75,
-        "delta": 693981.64
       }
     },
     {
@@ -453,20 +453,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562832",
-      "question": "2026 Balance of Power: Other",
-      "ts": "2026-10-27T10:45:57Z",
-      "severity": 2.0416,
-      "detail": {
-        "ts": "2026-10-27T10:45:57Z",
-        "volume_24h": 856792.22,
-        "baseline": 281690.03,
-        "delta": 575102.19
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-04T23:24:27Z",
@@ -495,20 +481,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562832",
-      "question": "2026 Balance of Power: Other",
-      "ts": "2026-10-15T20:27:09Z",
-      "severity": 1.8662,
-      "detail": {
-        "ts": "2026-10-15T20:27:09Z",
-        "volume_24h": 382563.87,
-        "baseline": 133474.89,
-        "delta": 249088.99
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-14T07:52:54Z",
@@ -518,6 +490,20 @@
         "volume_24h": 604323.71,
         "baseline": 211087.17,
         "delta": 393236.54
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "601920",
+      "question": "Will any presidential candidate win outright in the first round of the Brazil election?",
+      "ts": "2026-10-05T02:13:41Z",
+      "severity": 1.8602,
+      "detail": {
+        "ts": "2026-10-05T02:13:41Z",
+        "volume_24h": 826097.23,
+        "baseline": 288820.48,
+        "delta": 537276.75
       }
     },
     {
@@ -588,20 +574,6 @@
         "volume_24h": 228545.09,
         "baseline": 89845.46,
         "delta": 138699.63
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562832",
-      "question": "2026 Balance of Power: Other",
-      "ts": "2026-10-27T21:25:37Z",
-      "severity": 1.4755,
-      "detail": {
-        "ts": "2026-10-27T21:25:37Z",
-        "volume_24h": 1172903.17,
-        "baseline": 473807.69,
-        "delta": 699095.48
       }
     },
     {
@@ -817,20 +789,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562832",
-      "question": "2026 Balance of Power: Other",
-      "ts": "2026-10-27T16:46:34Z",
-      "severity": 1.2682,
-      "detail": {
-        "ts": "2026-10-27T16:46:34Z",
-        "volume_24h": 860397.5,
-        "baseline": 379333.76,
-        "delta": 481063.74
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "608568",
       "question": "Will Fabian Ruiz win the 2026 Ballon d'Or?",
       "ts": "2026-10-14T13:55:08Z",
@@ -929,20 +887,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562832",
-      "question": "2026 Balance of Power: Other",
-      "ts": "2026-10-15T23:11:09Z",
-      "severity": 1.2006,
-      "detail": {
-        "ts": "2026-10-15T23:11:09Z",
-        "volume_24h": 383072.05,
-        "baseline": 174074.09,
-        "delta": 208997.97
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "608540",
       "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
       "ts": "2026-10-24T21:01:49Z",
@@ -994,20 +938,6 @@
         "volume_24h": 2005691.91,
         "baseline": 949487.46,
         "delta": 1056204.45
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562832",
-      "question": "2026 Balance of Power: Other",
-      "ts": "2026-10-15T17:14:13Z",
-      "severity": 1.1062,
-      "detail": {
-        "ts": "2026-10-15T17:14:13Z",
-        "volume_24h": 271703.6,
-        "baseline": 129003.92,
-        "delta": 142699.69
       }
     },
     {
@@ -1456,20 +1386,6 @@
         "volume_24h": 687244.43,
         "baseline": 394455.08,
         "delta": 292789.35
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562832",
-      "question": "2026 Balance of Power: Other",
-      "ts": "2026-10-16T01:33:38Z",
-      "severity": 0.7388,
-      "detail": {
-        "ts": "2026-10-16T01:33:38Z",
-        "volume_24h": 383090.69,
-        "baseline": 220321.2,
-        "delta": 162769.5
       }
     },
     {
@@ -2592,6 +2508,21 @@
     {
       "type": "prob_jump",
       "platform": "polymarket",
+      "market_id": "601920",
+      "question": "Will any presidential candidate win outright in the first round of the Brazil election?",
+      "ts": "2026-10-04T21:30:18Z",
+      "severity": 0.09,
+      "detail": {
+        "ts": "2026-10-04T21:30:18Z",
+        "from": 0.116,
+        "to": 0.026,
+        "delta": -0.09,
+        "zscore": -4.44
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-04T20:30:17Z",
@@ -2617,6 +2548,21 @@
         "to": 0.2235,
         "delta": -0.0815,
         "zscore": -0.8
+      }
+    },
+    {
+      "type": "prob_jump",
+      "platform": "polymarket",
+      "market_id": "601920",
+      "question": "Will any presidential candidate win outright in the first round of the Brazil election?",
+      "ts": "2026-10-04T21:00:22Z",
+      "severity": 0.0815,
+      "detail": {
+        "ts": "2026-10-04T21:00:22Z",
+        "from": 0.0345,
+        "to": 0.116,
+        "delta": 0.0815,
+        "zscore": 8.03
       }
     },
     {
