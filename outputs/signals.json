@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 207,
+  "n_signals": 208,
   "signals": [
     {
       "type": "volume_spike",
@@ -434,6 +434,20 @@
         "volume_24h": 1043851.26,
         "baseline": 321385.77,
         "delta": 722465.49
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-29T00:09:13Z",
+      "severity": 2.2339,
+      "detail": {
+        "ts": "2026-10-29T00:09:13Z",
+        "volume_24h": 1040218.93,
+        "baseline": 321662.29,
+        "delta": 718556.63
       }
     },
     {
