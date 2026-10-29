@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 232,
+  "n_signals": 234,
   "signals": [
     {
       "type": "volume_spike",
@@ -467,6 +467,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562802",
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-29T13:28:47Z",
+      "severity": 2.076,
+      "detail": {
+        "ts": "2026-10-29T13:28:47Z",
+        "volume_24h": 1467666.19,
+        "baseline": 477138.9,
+        "delta": 990527.29
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "608541",
       "question": "Will Erling Haaland win the 2026 Ballon d'Or?",
       "ts": "2026-10-26T20:03:41Z",
@@ -742,6 +756,20 @@
         "volume_24h": 1150253.5,
         "baseline": 471836.84,
         "delta": 678416.66
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-29T13:28:47Z",
+      "severity": 1.431,
+      "detail": {
+        "ts": "2026-10-29T13:28:47Z",
+        "volume_24h": 1220933.34,
+        "baseline": 502225.4,
+        "delta": 718707.94
       }
     },
     {
