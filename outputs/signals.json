@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 252,
+  "n_signals": 257,
   "signals": [
     {
       "type": "volume_spike",
@@ -112,20 +112,6 @@
         "volume_24h": 2205527.96,
         "baseline": 364157.95,
         "delta": 1841370.01
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "601830",
-      "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
-      "ts": "2026-10-04T23:24:27Z",
-      "severity": 5.0484,
-      "detail": {
-        "ts": "2026-10-04T23:24:27Z",
-        "volume_24h": 859319.25,
-        "baseline": 142074.61,
-        "delta": 717244.64
       }
     },
     {
@@ -313,6 +299,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562794",
+      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "ts": "2026-10-30T16:46:00Z",
+      "severity": 3.0875,
+      "detail": {
+        "ts": "2026-10-30T16:46:00Z",
+        "volume_24h": 1399629.78,
+        "baseline": 342417.41,
+        "delta": 1057212.37
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-14T02:03:01Z",
@@ -453,20 +453,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "601830",
-      "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
-      "ts": "2026-10-05T02:13:41Z",
-      "severity": 2.248,
-      "detail": {
-        "ts": "2026-10-05T02:13:41Z",
-        "volume_24h": 1043851.26,
-        "baseline": 321385.77,
-        "delta": 722465.49
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "562803",
       "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
       "ts": "2026-10-29T00:09:13Z",
@@ -546,6 +532,20 @@
         "volume_24h": 1795270.0,
         "baseline": 591925.51,
         "delta": 1203344.49
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562794",
+      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "ts": "2026-10-30T10:19:04Z",
+      "severity": 2.0234,
+      "detail": {
+        "ts": "2026-10-30T10:19:04Z",
+        "volume_24h": 841886.07,
+        "baseline": 278458.6,
+        "delta": 563427.47
       }
     },
     {
@@ -1055,6 +1055,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562794",
+      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "ts": "2026-10-28T14:15:01Z",
+      "severity": 1.291,
+      "detail": {
+        "ts": "2026-10-28T14:15:01Z",
+        "volume_24h": 339527.23,
+        "baseline": 148200.64,
+        "delta": 191326.59
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "608553",
       "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?",
       "ts": "2026-10-15T17:14:13Z",
@@ -1139,20 +1153,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "601830",
-      "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
-      "ts": "2026-10-05T07:04:58Z",
-      "severity": 1.2094,
-      "detail": {
-        "ts": "2026-10-05T07:04:58Z",
-        "volume_24h": 1029324.34,
-        "baseline": 465878.87,
-        "delta": 563445.47
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "608540",
       "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
       "ts": "2026-10-20T00:29:44Z",
@@ -1176,6 +1176,20 @@
         "volume_24h": 227081.86,
         "baseline": 103296.15,
         "delta": 123785.71
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562794",
+      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "ts": "2026-10-28T19:43:07Z",
+      "severity": 1.1916,
+      "detail": {
+        "ts": "2026-10-28T19:43:07Z",
+        "volume_24h": 394174.35,
+        "baseline": 179858.54,
+        "delta": 214315.81
       }
     },
     {
@@ -1274,6 +1288,20 @@
         "volume_24h": 2005691.91,
         "baseline": 949487.46,
         "delta": 1056204.45
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562794",
+      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "ts": "2026-10-28T00:37:55Z",
+      "severity": 1.1094,
+      "detail": {
+        "ts": "2026-10-28T00:37:55Z",
+        "volume_24h": 286608.04,
+        "baseline": 135873.81,
+        "delta": 150734.24
       }
     },
     {
@@ -1573,6 +1601,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562794",
+      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "ts": "2026-10-28T07:02:33Z",
+      "severity": 0.9116,
+      "detail": {
+        "ts": "2026-10-28T07:02:33Z",
+        "volume_24h": 272133.67,
+        "baseline": 142358.53,
+        "delta": 129775.13
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "562803",
       "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
       "ts": "2026-10-26T20:03:41Z",
@@ -1610,6 +1652,20 @@
         "volume_24h": 2889248.67,
         "baseline": 1528636.82,
         "delta": 1360611.85
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562794",
+      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "ts": "2026-10-23T13:41:08Z",
+      "severity": 0.8883,
+      "detail": {
+        "ts": "2026-10-23T13:41:08Z",
+        "volume_24h": 228298.09,
+        "baseline": 120899.86,
+        "delta": 107398.23
       }
     },
     {
@@ -1806,20 +1862,6 @@
         "volume_24h": 787862.32,
         "baseline": 436368.12,
         "delta": 351494.2
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "601830",
-      "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
-      "ts": "2026-10-05T09:23:07Z",
-      "severity": 0.8047,
-      "detail": {
-        "ts": "2026-10-05T09:23:07Z",
-        "volume_24h": 1010265.64,
-        "baseline": 559786.45,
-        "delta": 450479.2
       }
     },
     {
@@ -2086,6 +2128,20 @@
         "volume_24h": 274650.03,
         "baseline": 161273.24,
         "delta": 113376.79
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562794",
+      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "ts": "2026-10-29T00:09:13Z",
+      "severity": 0.6984,
+      "detail": {
+        "ts": "2026-10-29T00:09:13Z",
+        "volume_24h": 382980.5,
+        "baseline": 225495.52,
+        "delta": 157484.98
       }
     },
     {
@@ -3080,6 +3136,20 @@
         "volume_24h": 606143.74,
         "baseline": 400426.29,
         "delta": 205717.45
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562794",
+      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "ts": "2026-10-17T17:24:46Z",
+      "severity": 0.5112,
+      "detail": {
+        "ts": "2026-10-17T17:24:46Z",
+        "volume_24h": 118118.04,
+        "baseline": 78159.61,
+        "delta": 39958.43
       }
     },
     {
