@@ -24,11 +24,11 @@ ts,platform,market_id,question,prob,bid,ask,volume_24h,volume_native,liquidity,e
 2026-10-25T17:08:34Z,polymarket,559703,Will Chris Van Hollen win the 2028 Democratic presidential nomination?,0.0025,,,163192.01950000002,,350874.06907,2028-11-08T04:59:00Z
 2026-10-25T06:41:23Z,polymarket,559704,Will Mitch Landrieu win the 2028 Democratic presidential nomination?,0.0015,,,162924.303,,1756720.63819,2028-11-08T04:59:00Z
 2026-10-30T02:49:19Z,polymarket,560317,"Putin out as President of Russia by December 31, 2026?",0.0185,,,137413.18354,,563353.3977,2027-01-01T04:59:00Z
-2026-10-30T16:46:00Z,polymarket,561229,Will JD Vance win the 2028 US Presidential Election?,0.1945,,,760457.124868,,358824.28593,2028-11-08T04:59:00Z
-2026-10-30T16:46:00Z,polymarket,561230,Will Gavin Newsom win the 2028 US Presidential Election?,0.1205,,,115549.97293799999,,294610.38066,2028-11-08T04:59:00Z
+2026-10-30T21:39:22Z,polymarket,561229,Will JD Vance win the 2028 US Presidential Election?,0.1855,,,83034.299556,,336594.83423,2028-11-08T04:59:00Z
+2026-10-30T21:39:22Z,polymarket,561230,Will Gavin Newsom win the 2028 US Presidential Election?,0.1195,,,83929.305424,,323527.64666,2028-11-08T04:59:00Z
 2026-10-06T00:54:10Z,polymarket,561231,Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?,0.1525,,,84779.671206,,371367.25462,2028-11-08T04:59:00Z
 2026-10-08T06:25:44Z,polymarket,561234,Will Marco Rubio win the 2028 US Presidential Election?,0.0695,,,183958.04187299992,,337082.17713,2028-11-08T04:59:00Z
-2026-10-15T23:11:09Z,polymarket,561238,Will Glenn Youngkin win the 2028 US Presidential Election?,0.0015,,,217469.277,,640824.51822,2028-11-08T04:59:00Z
+2026-10-30T21:39:22Z,polymarket,561238,Will Glenn Youngkin win the 2028 US Presidential Election?,0.005,,,161301.022,,465182.20346,2028-11-08T04:59:00Z
 2026-10-06T00:54:10Z,polymarket,561239,Will Kamala Harris win the 2028 US Presidential Election?,0.0455,,,71367.90907200001,,328504.73744,2028-11-08T04:59:00Z
 2026-10-07T20:03:26Z,polymarket,561240,Will Stephen Smith win the 2028 US Presidential Election?,0.0005,,,80000.0,,1215580.29982,2028-11-08T04:59:00Z
 2026-10-18T19:33:06Z,polymarket,561241,Will JB Pritzker win the 2028 US Presidential Election?,0.006,,,66523.3904,,440799.44858,2028-11-08T04:59:00Z
@@ -59,16 +59,16 @@ ts,platform,market_id,question,prob,bid,ask,volume_24h,volume_native,liquidity,e
 2026-10-19T14:50:25Z,polymarket,562012,Will Doug Burgum win the 2028 Republican presidential nomination?,0.001,,,250000.0,,510867.59316,2028-11-08T04:59:00Z
 2026-10-19T14:50:25Z,polymarket,562014,Will John N. Kennedy win the 2028 Republican presidential nomination?,0.0015,,,250000.0,,1171945.1646,2028-11-08T04:59:00Z
 2026-10-11T19:37:52Z,polymarket,562016,Will John McEntee win the 2028 Republican presidential nomination?,0.0015,,,145670.05,,841399.4867,2028-11-07T00:00:00Z
-2026-10-30T16:46:00Z,polymarket,562793,Will the Democratic Party control the Senate after the 2026 Midterm elections?,0.725,,,548738.333126,,4194660.6805,2026-11-04T04:59:00Z
-2026-10-30T16:46:00Z,polymarket,562794,Will the Republican Party control the Senate after the 2026 Midterm elections?,0.275,,,1399629.780667,,4210150.5664,2026-11-04T04:59:00Z
-2026-10-30T16:46:00Z,polymarket,562802,Will the Democratic Party control the House after the 2026 Midterm elections?,0.935,,,1369604.729952,,7795885.8899,2026-11-04T04:59:00Z
-2026-10-30T16:46:00Z,polymarket,562803,Will the Republican Party control the House after the 2026 Midterm elections?,0.065,,,2326904.258644,,5729823.2363,2026-11-04T04:59:00Z
-2026-10-30T16:46:00Z,polymarket,562828,"2026 Balance of Power: D Senate, D House",0.715,,,564138.100647,,7257935.8609,2026-11-04T04:59:00Z
-2026-10-30T16:46:00Z,polymarket,562829,"2026 Balance of Power: D Senate, R House",0.0065,,,139434.627235,,3571827.82528,2026-11-04T04:59:00Z
-2026-10-30T16:46:00Z,polymarket,562830,"2026 Balance of Power: R Senate, D House",0.225,,,679482.2227680007,,4330399.5315,2026-11-04T04:59:00Z
-2026-10-30T16:46:00Z,polymarket,562831,"2026 Balance of Power: R Senate, R House",0.055,,,1062603.088077,,6533777.2045,2026-11-04T04:59:00Z
-2026-10-30T10:19:04Z,polymarket,562832,2026 Balance of Power: Other,0.0005,,,409540.945,,745880.89907,2026-11-04T04:59:00Z
-2026-10-30T16:46:00Z,polymarket,567621,Will China invade Taiwan by end of 2026?,0.0235,,,254718.51486999996,,296857.59736,2027-01-01T04:59:00Z
+2026-10-30T21:39:22Z,polymarket,562793,Will the Democratic Party control the Senate after the 2026 Midterm elections?,0.705,,,587092.013795,,3963692.1911,2026-11-04T04:59:00Z
+2026-10-30T21:39:22Z,polymarket,562794,Will the Republican Party control the Senate after the 2026 Midterm elections?,0.295,,,1457777.9701029998,,3926610.5644,2026-11-04T04:59:00Z
+2026-10-30T21:39:22Z,polymarket,562802,Will the Democratic Party control the House after the 2026 Midterm elections?,0.935,,,673935.4422680001,,7563405.8592,2026-11-04T04:59:00Z
+2026-10-30T21:39:22Z,polymarket,562803,Will the Republican Party control the House after the 2026 Midterm elections?,0.065,,,1410212.8303720003,,6545767.0843,2026-11-04T04:59:00Z
+2026-10-30T21:39:22Z,polymarket,562828,"2026 Balance of Power: D Senate, D House",0.705,,,1192195.2377930002,,7069679.7047,2026-11-04T04:59:00Z
+2026-10-30T21:39:22Z,polymarket,562829,"2026 Balance of Power: D Senate, R House",0.0065,,,329444.819809,,3370673.73306,2026-11-04T04:59:00Z
+2026-10-30T21:39:22Z,polymarket,562830,"2026 Balance of Power: R Senate, D House",0.235,,,663395.68601,,4228987.0074,2026-11-04T04:59:00Z
+2026-10-30T21:39:22Z,polymarket,562831,"2026 Balance of Power: R Senate, R House",0.055,,,900917.8092910001,,6459208.7212,2026-11-04T04:59:00Z
+2026-10-30T21:39:22Z,polymarket,562832,2026 Balance of Power: Other,0.0005,,,269284.96,,602780.29673,2026-11-04T04:59:00Z
+2026-10-30T21:39:22Z,polymarket,567621,Will China invade Taiwan by end of 2026?,0.0225,,,186048.78029300005,,332377.09383,2027-01-01T04:59:00Z
 2026-10-28T19:43:07Z,polymarket,567688,Netanyahu out by end of 2026?,0.185,,,111453.53853100001,,74416.9581,2027-01-01T04:59:00Z
 2026-10-11T14:59:50Z,polymarket,567689,Zelenskyy out as Ukraine president by end of 2026?,0.065,,,65475.38669600001,,138829.2403,2027-01-01T04:59:00Z
 2026-10-05T07:04:58Z,polymarket,601818,Will Tarcisio de Freitas win the 2026 Brazilian presidential election?,0.0005,,,302840.0,,1358502.71853,2026-10-05T03:59:00Z
@@ -91,9 +91,9 @@ ts,platform,market_id,question,prob,bid,ask,volume_24h,volume_native,liquidity,e
 2026-10-26T23:58:37Z,polymarket,608568,Will Fabian Ruiz win the 2026 Ballon d'Or?,0.0005,,,1413253.778334,,647672.12912,2026-10-27T03:59:00Z
 2026-10-17T17:24:46Z,polymarket,616914,Will 12 or more Fed rate cuts happen in 2026?,0.0005,,,76000.0,,125040.7769,2027-01-01T04:59:00Z
 2026-10-30T16:46:00Z,polymarket,628940,Will Steve Hilton win the California Governor Election in 2026?,0.025,,,176350.327009,,667877.54167,2026-11-04T04:59:00Z
-2026-10-30T16:46:00Z,polymarket,628941,Will Xavier Becerra win the California Governor Election in 2026?,0.976,,,145864.619999,,421219.72857,2026-11-04T04:59:00Z
+2026-10-30T21:39:22Z,polymarket,628941,Will Xavier Becerra win the California Governor Election in 2026?,0.9755,,,118930.68939,,390032.58138,2026-11-04T04:59:00Z
 2026-10-29T13:28:47Z,polymarket,629030,Will Karen Bass win the 2026 Los Angeles mayoral election?,0.565,,,95319.64258300001,,133732.2737,2026-06-03T03:59:00Z
-2026-10-29T13:28:47Z,polymarket,629040,Will Nithya Raman win the 2026 Los Angeles mayoral election?,0.431,,,133124.246938,,191608.05311,2026-06-03T03:59:00Z
+2026-10-30T21:39:22Z,polymarket,629040,Will Nithya Raman win the 2026 Los Angeles mayoral election?,0.4115,,,86786.11412200001,,150160.39737,2026-06-03T03:59:00Z
 2026-10-27T21:25:37Z,polymarket,629325,Will the Republicans win the Florida governor race in 2026?,0.795,,,63395.67454199999,,156341.071,2026-11-04T04:59:00Z
 2026-10-06T07:48:20Z,polymarket,629505,Will the Democrats win the Nevada governor race in 2026?,0.555,,,65600.70243599999,,147229.2078,2026-11-04T04:59:00Z
 2026-10-14T07:52:54Z,polymarket,629557,Will the Democrats win the Ohio governor race in 2026?,0.715,,,55796.59811100001,,277613.7068,2026-11-04T04:59:00Z
