@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 238,
+  "n_signals": 240,
   "signals": [
     {
       "type": "volume_spike",
@@ -1293,6 +1293,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-30T02:49:19Z",
+      "severity": 1.0661,
+      "detail": {
+        "ts": "2026-10-30T02:49:19Z",
+        "volume_24h": 2628977.77,
+        "baseline": 1272462.26,
+        "delta": 1356515.51
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "562802",
       "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
       "ts": "2026-10-11T01:06:40Z",
@@ -1582,6 +1596,20 @@
         "volume_24h": 158494.81,
         "baseline": 85016.68,
         "delta": 73478.12
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562802",
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "ts": "2026-10-30T02:49:19Z",
+      "severity": 0.8441,
+      "detail": {
+        "ts": "2026-10-30T02:49:19Z",
+        "volume_24h": 2247759.29,
+        "baseline": 1218913.76,
+        "delta": 1028845.54
       }
     },
     {
