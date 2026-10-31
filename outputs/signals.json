@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 236,
+  "n_signals": 238,
   "signals": [
     {
       "type": "volume_spike",
@@ -971,6 +971,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562794",
+      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "ts": "2026-10-31T01:43:14Z",
+      "severity": 1.2863,
+      "detail": {
+        "ts": "2026-10-31T01:43:14Z",
+        "volume_24h": 1496869.69,
+        "baseline": 654699.31,
+        "delta": 842170.38
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "608553",
       "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?",
       "ts": "2026-10-15T17:14:13Z",
@@ -1834,6 +1848,20 @@
         "volume_24h": 246490.45,
         "baseline": 142299.71,
         "delta": 104190.74
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "562828",
+      "question": "2026 Balance of Power: D Senate, D House",
+      "ts": "2026-10-31T01:43:14Z",
+      "severity": 0.7314,
+      "detail": {
+        "ts": "2026-10-31T01:43:14Z",
+        "volume_24h": 1231067.6,
+        "baseline": 711012.63,
+        "delta": 520054.98
       }
     },
     {
