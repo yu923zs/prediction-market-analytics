@@ -1,6 +1,6 @@
 {
   "n_markets_tracked": 15,
-  "n_signals": 238,
+  "n_signals": 236,
   "signals": [
     {
       "type": "volume_spike",
@@ -299,20 +299,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562794",
-      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-30T16:46:00Z",
-      "severity": 3.0875,
-      "detail": {
-        "ts": "2026-10-30T16:46:00Z",
-        "volume_24h": 1399629.78,
-        "baseline": 342417.41,
-        "delta": 1057212.37
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-14T02:03:01Z",
@@ -439,6 +425,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608541",
+      "question": "Will Erling Haaland win the 2026 Ballon d'Or?",
+      "ts": "2026-10-26T23:58:37Z",
+      "severity": 2.3101,
+      "detail": {
+        "ts": "2026-10-26T23:58:37Z",
+        "volume_24h": 968570.75,
+        "baseline": 292614.84,
+        "delta": 675955.91
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601830",
       "question": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T02:13:41Z",
@@ -481,6 +481,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608541",
+      "question": "Will Erling Haaland win the 2026 Ballon d'Or?",
+      "ts": "2026-10-26T20:03:41Z",
+      "severity": 2.0592,
+      "detail": {
+        "ts": "2026-10-26T20:03:41Z",
+        "volume_24h": 714224.98,
+        "baseline": 233465.56,
+        "delta": 480759.42
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601819",
       "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "ts": "2026-10-04T23:24:27Z",
@@ -495,20 +509,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562794",
-      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-30T10:19:04Z",
-      "severity": 2.0234,
-      "detail": {
-        "ts": "2026-10-30T10:19:04Z",
-        "volume_24h": 841886.07,
-        "baseline": 278458.6,
-        "delta": 563427.47
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "608553",
       "question": "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?",
       "ts": "2026-10-26T14:27:42Z",
@@ -518,20 +518,6 @@
         "volume_24h": 1106184.68,
         "baseline": 367357.42,
         "delta": 738827.26
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562794",
-      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-30T21:39:22Z",
-      "severity": 1.9894,
-      "detail": {
-        "ts": "2026-10-30T21:39:22Z",
-        "volume_24h": 1457777.97,
-        "baseline": 487653.03,
-        "delta": 970124.94
       }
     },
     {
@@ -943,6 +929,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608541",
+      "question": "Will Erling Haaland win the 2026 Ballon d'Or?",
+      "ts": "2026-10-20T05:09:16Z",
+      "severity": 1.3201,
+      "detail": {
+        "ts": "2026-10-20T05:09:16Z",
+        "volume_24h": 251370.18,
+        "baseline": 108344.11,
+        "delta": 143026.07
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "562803",
       "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
       "ts": "2026-10-21T22:34:11Z",
@@ -952,34 +952,6 @@
         "volume_24h": 305655.63,
         "baseline": 132920.13,
         "delta": 172735.5
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562794",
-      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-28T14:15:01Z",
-      "severity": 1.291,
-      "detail": {
-        "ts": "2026-10-28T14:15:01Z",
-        "volume_24h": 339527.23,
-        "baseline": 148200.64,
-        "delta": 191326.59
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562794",
-      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-31T01:43:14Z",
-      "severity": 1.2863,
-      "detail": {
-        "ts": "2026-10-31T01:43:14Z",
-        "volume_24h": 1496869.69,
-        "baseline": 654699.31,
-        "delta": 842170.38
       }
     },
     {
@@ -1097,20 +1069,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562794",
-      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-28T19:43:07Z",
-      "severity": 1.1916,
-      "detail": {
-        "ts": "2026-10-28T19:43:07Z",
-        "volume_24h": 394174.35,
-        "baseline": 179858.54,
-        "delta": 214315.81
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "608540",
       "question": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
       "ts": "2026-10-24T21:01:49Z",
@@ -1162,20 +1120,6 @@
         "volume_24h": 2005691.91,
         "baseline": 949487.46,
         "delta": 1056204.45
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562794",
-      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-28T00:37:55Z",
-      "severity": 1.1094,
-      "detail": {
-        "ts": "2026-10-28T00:37:55Z",
-        "volume_24h": 286608.04,
-        "baseline": 135873.81,
-        "delta": 150734.24
       }
     },
     {
@@ -1302,6 +1246,20 @@
         "volume_24h": 147777.83,
         "baseline": 72533.24,
         "delta": 75244.6
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608541",
+      "question": "Will Erling Haaland win the 2026 Ballon d'Or?",
+      "ts": "2026-10-20T10:15:19Z",
+      "severity": 1.0228,
+      "detail": {
+        "ts": "2026-10-20T10:15:19Z",
+        "volume_24h": 257457.72,
+        "baseline": 127275.31,
+        "delta": 130182.41
       }
     },
     {
@@ -1475,20 +1433,6 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562794",
-      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-28T07:02:33Z",
-      "severity": 0.9116,
-      "detail": {
-        "ts": "2026-10-28T07:02:33Z",
-        "volume_24h": 272133.67,
-        "baseline": 142358.53,
-        "delta": 129775.13
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
       "market_id": "562803",
       "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
       "ts": "2026-10-26T20:03:41Z",
@@ -1526,20 +1470,6 @@
         "volume_24h": 2889248.67,
         "baseline": 1528636.82,
         "delta": 1360611.85
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562794",
-      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-23T13:41:08Z",
-      "severity": 0.8883,
-      "detail": {
-        "ts": "2026-10-23T13:41:08Z",
-        "volume_24h": 228298.09,
-        "baseline": 120899.86,
-        "delta": 107398.23
       }
     },
     {
@@ -1923,6 +1853,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "608541",
+      "question": "Will Erling Haaland win the 2026 Ballon d'Or?",
+      "ts": "2026-10-20T15:15:06Z",
+      "severity": 0.7138,
+      "detail": {
+        "ts": "2026-10-20T15:15:06Z",
+        "volume_24h": 259436.67,
+        "baseline": 151378.6,
+        "delta": 108058.07
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "562828",
       "question": "2026 Balance of Power: D Senate, D House",
       "ts": "2026-10-29T06:08:59Z",
@@ -1932,6 +1876,20 @@
         "volume_24h": 515361.73,
         "baseline": 301625.81,
         "delta": 213735.92
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608541",
+      "question": "Will Erling Haaland win the 2026 Ballon d'Or?",
+      "ts": "2026-10-20T19:27:26Z",
+      "severity": 0.7065,
+      "detail": {
+        "ts": "2026-10-20T19:27:26Z",
+        "volume_24h": 300179.96,
+        "baseline": 175904.42,
+        "delta": 124275.55
       }
     },
     {
@@ -1960,20 +1918,6 @@
         "volume_24h": 444363.76,
         "baseline": 261454.04,
         "delta": 182909.71
-      }
-    },
-    {
-      "type": "volume_spike",
-      "platform": "polymarket",
-      "market_id": "562794",
-      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-29T00:09:13Z",
-      "severity": 0.6984,
-      "detail": {
-        "ts": "2026-10-29T00:09:13Z",
-        "volume_24h": 382980.5,
-        "baseline": 225495.52,
-        "delta": 157484.98
       }
     },
     {
@@ -2063,6 +2007,20 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
+      "market_id": "562828",
+      "question": "2026 Balance of Power: D Senate, D House",
+      "ts": "2026-10-31T08:38:15Z",
+      "severity": 0.6778,
+      "detail": {
+        "ts": "2026-10-31T08:38:15Z",
+        "volume_24h": 1343720.92,
+        "baseline": 800863.95,
+        "delta": 542856.96
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
       "market_id": "601826",
       "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
       "ts": "2026-10-05T18:41:24Z",
@@ -2100,6 +2058,20 @@
         "volume_24h": 159071.08,
         "baseline": 95000.7,
         "delta": 64070.38
+      }
+    },
+    {
+      "type": "volume_spike",
+      "platform": "polymarket",
+      "market_id": "608541",
+      "question": "Will Erling Haaland win the 2026 Ballon d'Or?",
+      "ts": "2026-10-13T03:43:07Z",
+      "severity": 0.6721,
+      "detail": {
+        "ts": "2026-10-13T03:43:07Z",
+        "volume_24h": 116028.96,
+        "baseline": 69391.93,
+        "delta": 46637.03
       }
     },
     {
@@ -2889,15 +2861,15 @@
     {
       "type": "volume_spike",
       "platform": "polymarket",
-      "market_id": "562794",
-      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "ts": "2026-10-17T17:24:46Z",
-      "severity": 0.5112,
+      "market_id": "608541",
+      "question": "Will Erling Haaland win the 2026 Ballon d'Or?",
+      "ts": "2026-10-13T12:00:59Z",
+      "severity": 0.5098,
       "detail": {
-        "ts": "2026-10-17T17:24:46Z",
-        "volume_24h": 118118.04,
-        "baseline": 78159.61,
-        "delta": 39958.43
+        "ts": "2026-10-13T12:00:59Z",
+        "volume_24h": 118851.83,
+        "baseline": 78719.33,
+        "delta": 40132.5
       }
     },
     {
